@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CyberDastak Opportunities | Cybersecurity Jobs, Events & Scholarships in India</title>
+  <meta name="description" content="Automated daily tracker for Cybersecurity Jobs, Internships, Conferences, and Scholarships strictly focused on India. Auto-updated every day at 9:00 AM IST.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220%22%20width=%22100%22%20height=%22100%22><text y=%22.9em%22 font-size=%2290%22>🛡️</text></svg>">
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            cyber: {
+              950: '#090d16',
+              900: '#0f172a',
+              800: '#1e293b',
+              700: '#334155',
+              cyan: '#06b6d4',
+              emerald: '#10b981',
+              neon: '#38bdf8'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-[#090d16] text-slate-100 min-h-screen cyber-grid flex flex-col">
+
+  <!-- TOP ANNOUNCEMENT BAR -->
+  <aside aria-label="Announcement" class="bg-gradient-to-r from-cyan-950 via-slate-900 to-emerald-950 border-b border-slate-800 text-xs py-2 px-4 text-center text-slate-300">
+    <span class="inline-flex items-center gap-1.5 font-medium">
+      <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
+      <span class="text-emerald-400 font-semibold">Live Pipeline:</span>
+      Updated daily at 9:00 AM IST via GitHub Actions &bull; Strictly India-Focused Opportunities
+    </span>
+  </aside>
+
+  <!-- NAVIGATION -->
+  <header class="sticky top-0 z-40 bg-slate-950/80 backdrop-blur-md border-b border-slate-800/80">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+      <!-- LOGO -->
+      <a href="#" class="flex items-center gap-3 group">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-cyan-600 to-emerald-500 flex items-center justify-center text-xl shadow-lg shadow-cyan-500/20 group-hover:scale-105 transition-transform">
+          🛡️
+        </div>
+        <div>
+          <span class="text-lg font-extrabold tracking-tight bg-gradient-to-r from-cyan-400 via-sky-300 to-emerald-400 bg-clip-text text-transparent">
+            CyberDastak
+          </span>
+          <span class="text-xs block text-slate-400 font-medium tracking-wider uppercase">Opportunities</span>
+        </div>
+      </a>
+
+      <!-- ACTION BUTTONS -->
+      <div class="flex items-center gap-3">
+        <button id="digestModalBtn" class="hidden sm:inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg bg-slate-800/80 hover:bg-slate-700 text-slate-200 border border-slate-700 text-xs font-semibold transition-all">
+          <span>📧</span>
+          <span>Daily Digest</span>
+        </button>
+        <a href="https://github.com" id="repoLink" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg bg-cyan-500/10 hover:bg-cyan-500/20 text-cyan-300 border border-cyan-500/30 text-xs font-semibold transition-all">
+          <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+          <span class="hidden sm:inline">GitHub</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- HERO SECTION -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 pb-6 text-center sm:text-left">
+    <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-8">
+      <div class="max-w-2xl">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-cyan-950/60 border border-cyan-800/60 text-cyan-400 text-xs font-semibold mb-4">
+          <span class="w-1.5 h-1.5 rounded-full bg-cyan-400"></span>
+          India’s Dedicated Cybersecurity Opportunity Portal
+        </div>
+        <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
+          Supercharge Your <span class="bg-gradient-to-r from-cyan-400 to-emerald-400 bg-clip-text text-transparent">Cybersecurity Career</span>
+        </h1>
+        <p class="mt-3 text-slate-400 text-sm sm:text-base leading-relaxed">
+          Aggregating verified Cybersecurity Jobs, Internships, Conferences, and Scholarships across India. Automatically scanned, deduplicated, and published every morning at 9:00 AM IST.
+        </p>
+      </div>
+
+      <!-- METRICS BANNER -->
+      <div class="grid grid-cols-3 gap-3 sm:gap-4 w-full lg:w-auto">
+        <div class="cyber-card p-4 rounded-xl text-center">
+          <div id="statJobs" class="text-2xl sm:text-3xl font-extrabold text-cyan-400 font-mono">--</div>
+          <div class="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mt-1">Jobs &amp; Interns</div>
+        </div>
+        <div class="cyber-card p-4 rounded-xl text-center">
+          <div id="statEvents" class="text-2xl sm:text-3xl font-extrabold text-emerald-400 font-mono">--</div>
+          <div class="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mt-1">Events &amp; Conf</div>
+        </div>
+        <div class="cyber-card p-4 rounded-xl text-center">
+          <div id="statScholarships" class="text-2xl sm:text-3xl font-extrabold text-purple-400 font-mono">--</div>
+          <div class="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mt-1">Scholarships</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MAIN CONTENT AREA -->
+  <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 w-full">
+
+    <!-- TABS BAR -->
+    <nav aria-label="Opportunity categories" class="flex items-center gap-2 p-1.5 bg-slate-900/90 rounded-2xl border border-slate-800/80 mb-6 overflow-x-auto">
+      <button data-tab="jobs" class="tab-btn active flex items-center gap-2.5 px-5 py-2.5 rounded-xl text-sm font-bold transition-all whitespace-nowrap border border-transparent">
+        <span>🛡️</span>
+        <span>Jobs &amp; Internships</span>
+        <span id="badgeJobsCount" class="px-2 py-0.5 rounded-full text-xs bg-slate-800 text-slate-300 font-mono">0</span>
+      </button>
+      <button data-tab="events" class="tab-btn flex items-center gap-2.5 px-5 py-2.5 rounded-xl text-sm font-bold text-slate-400 hover:text-slate-200 transition-all whitespace-nowrap border border-transparent">
+        <span>📅</span>
+        <span>Cybersecurity Events</span>
+        <span id="badgeEventsCount" class="px-2 py-0.5 rounded-full text-xs bg-slate-800 text-slate-300 font-mono">0</span>
+      </button>
+      <button data-tab="scholarships" class="tab-btn flex items-center gap-2.5 px-5 py-2.5 rounded-xl text-sm font-bold text-slate-400 hover:text-slate-200 transition-all whitespace-nowrap border border-transparent">
+        <span>🎓</span>
+        <span>Scholarships &amp; Grants</span>
+        <span id="badgeScholarshipsCount" class="px-2 py-0.5 rounded-full text-xs bg-slate-800 text-slate-300 font-mono">0</span>
+      </button>
+    </nav>
+
+    <!-- SEARCH & FILTERS CONTROLS -->
+    <div class="bg-slate-900/60 p-4 rounded-2xl border border-slate-800 mb-8 flex flex-col md:flex-row gap-3 items-stretch md:items-center justify-between">
+      
+      <!-- SEARCH INPUT -->
+      <div class="relative flex-grow">
+        <span class="absolute inset-y-0 left-0 pl-3.5 flex items-center pointer-events-none text-slate-400">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+        </span>
+        <input 
+          type="text" 
+          id="searchInput" 
+          placeholder="Search by title, company, skill (e.g. SOC, Penetration, Delhi)..."
+          class="w-full pl-10 pr-4 py-2.5 bg-slate-950 border border-slate-700/80 rounded-xl text-sm text-slate-100 placeholder-slate-400 focus:outline-none focus:border-cyan-500 focus:ring-1 focus:ring-cyan-500 transition-all"
+        >
+      </div>
+
+      <!-- FILTER DROPDOWNS -->
+      <div class="flex flex-wrap items-center gap-2">
+        <select id="typeFilter" aria-label="Filter by type" class="bg-slate-950 border border-slate-700/80 rounded-xl px-3 py-2.5 text-xs text-slate-200 focus:outline-none focus:border-cyan-500">
+          <option value="all">All Types</option>
+          <option value="Internship">Internship Only</option>
+          <option value="Full-time">Full-time Only</option>
+          <option value="Remote">Remote Only</option>
+        </select>
+
+        <select id="locationFilter" aria-label="Filter by location" class="bg-slate-950 border border-slate-700/80 rounded-xl px-3 py-2.5 text-xs text-slate-200 focus:outline-none focus:border-cyan-500">
+          <option value="all">All Locations</option>
+          <option value="Bengaluru">Bengaluru</option>
+          <option value="Delhi">Delhi NCR</option>
+          <option value="Mumbai">Mumbai</option>
+          <option value="Pune">Pune</option>
+          <option value="Hyderabad">Hyderabad</option>
+          <option value="Remote">Remote</option>
+        </select>
+
+        <select id="sortOrder" aria-label="Sort listings by" class="bg-slate-950 border border-slate-700/80 rounded-xl px-3 py-2.5 text-xs text-slate-200 focus:outline-none focus:border-cyan-500">
+          <option value="newest">Newest First</option>
+          <option value="title">Title (A - Z)</option>
+        </select>
+
+        <button id="clearFiltersBtn" class="px-3 py-2.5 text-xs text-slate-400 hover:text-cyan-400 hover:bg-slate-800 rounded-xl transition-all">
+          Reset
+        </button>
+      </div>
+
+    </div>
+
+    <!-- ACTIVE TAB SUMMARY & COUNT -->
+    <div class="flex items-center justify-between mb-4 px-1">
+      <div class="text-xs text-slate-400">
+        Showing <span id="visibleCount" class="font-bold text-slate-200">0</span> listings
+      </div>
+      <div id="lastUpdatedDate" class="text-xs text-slate-400 font-mono">
+        Last scan: Today
+      </div>
+    </div>
+
+    <!-- CARDS GRID -->
+    <div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+      <!-- Cards dynamically inserted by app.js -->
+    </div>
+
+    <!-- EMPTY STATE (HIDDEN BY DEFAULT) -->
+    <div id="emptyState" class="hidden text-center py-16 px-4 bg-slate-900/40 rounded-2xl border border-dashed border-slate-800">
+      <div class="text-4xl mb-3">🔍</div>
+      <h3 class="text-base font-bold text-slate-200">No opportunities match your filter</h3>
+      <p class="text-xs text-slate-400 mt-1 max-w-sm mx-auto">Try clearing search terms or changing your location and type filters.</p>
+      <button id="resetSearchBtn" class="mt-4 px-4 py-2 bg-cyan-600/20 text-cyan-400 hover:bg-cyan-600/30 rounded-lg text-xs font-semibold transition-all">
+        Clear All Filters
+      </button>
+    </div>
+
+  </main>
+
+  <!-- DETAIL MODAL -->
+  <div id="detailModal" class="fixed inset-0 z-50 hidden bg-black/80 backdrop-blur-sm flex items-center justify-center p-4">
+    <div class="cyber-card max-w-xl w-full rounded-2xl p-6 relative border border-slate-700 shadow-2xl max-h-[90vh] flex flex-col">
+      <button id="closeModalBtn" class="absolute top-4 right-4 text-slate-400 hover:text-white text-xl p-1 rounded-lg">
+        ✕
+      </button>
+      <div id="modalContent" class="overflow-y-auto pr-2">
+        <!-- Injected via JavaScript -->
+      </div>
+    </div>
+  </div>
+
+  <!-- DAILY DIGEST INFO MODAL -->
+  <div id="digestModal" class="fixed inset-0 z-50 hidden bg-black/80 backdrop-blur-sm flex items-center justify-center p-4">
+    <div class="cyber-card max-w-md w-full rounded-2xl p-6 relative border border-slate-700 shadow-2xl">
+      <button id="closeDigestModalBtn" class="absolute top-4 right-4 text-slate-400 hover:text-white text-xl p-1 rounded-lg">
+        ✕
+      </button>
+      <div class="text-center mb-4">
+        <div class="w-12 h-12 rounded-full bg-cyan-500/10 text-cyan-400 flex items-center justify-center mx-auto text-2xl mb-2">
+          📧
+        </div>
+        <h3 class="text-lg font-bold text-white">Daily 9:00 AM IST Email Digest</h3>
+        <p class="text-xs text-slate-400 mt-1">Powered entirely by automated GitHub Actions</p>
+      </div>
+      <div class="bg-slate-950 p-4 rounded-xl text-xs text-slate-300 space-y-2 border border-slate-800">
+        <p>This pipeline runs on a scheduled GitHub Actions cron (<code class="text-cyan-400">30 3 * * *</code> UTC = 9:00 AM IST).</p>
+        <p>It automatically aggregates new India cybersecurity jobs, events, and scholarships, updates the repository data, and dispatches a formatted digest to configured recipient emails.</p>
+        <div class="pt-2 border-t border-slate-800 text-slate-400 text-[11px]">
+          Want to receive this email? Fork the repository and add your <code class="text-slate-300">SMTP_USER</code>, <code class="text-slate-300">SMTP_PASS</code>, and <code class="text-slate-300">RECIPIENT_EMAIL</code> in GitHub Secrets!
+        </div>
+      </div>
+      <button id="closeDigestModalOk" class="mt-5 w-full py-2.5 rounded-xl bg-cyan-600 hover:bg-cyan-500 text-white text-xs font-bold transition-all">
+        Got it!
+      </button>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="mt-auto border-t border-slate-800/80 bg-slate-950/90 py-8 text-center text-xs text-slate-400">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div class="flex items-center gap-2">
+        <span class="text-cyan-400 font-bold">CyberDastak Opportunities</span>
+        <span>&bull;</span>
+        <span>Open Source Cybersecurity Intelligence for India</span>
+      </div>
+      <div class="flex items-center gap-4 text-slate-400">
+        <a href="https://api.adzuna.com" target="_blank" rel="noopener noreferrer" class="hover:text-slate-200">Adzuna API</a>
+        <a href="https://openwebninja.com" target="_blank" rel="noopener noreferrer" class="hover:text-slate-200">JSearch</a>
+        <a href="https://pages.github.com" target="_blank" rel="noopener noreferrer" class="hover:text-slate-200">GitHub Pages</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

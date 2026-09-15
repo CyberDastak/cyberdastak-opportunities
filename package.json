@@ -1,0 +1,35 @@
+{
+  "name": "cyberdastak-opportunities",
+  "version": "1.0.0",
+  "description": "Daily-updated aggregator for Cybersecurity jobs, internships, events, and scholarships in India",
+  "main": "scripts/fetch-data.js",
+  "type": "commonjs",
+  "scripts": {
+    "fetch": "node scripts/fetch-data.js",
+    "email": "node scripts/send-email.js",
+    "prepare-site": "node -e \"const fs=require('fs'); fs.mkdirSync('site/data',{recursive:true}); ['jobs.json','events.json','scholarships.json','newly-added.json'].forEach(f=>{if(fs.existsSync('data/'+f)) fs.copyFileSync('data/'+f, 'site/data/'+f);}); console.log('Synced data to site/data/');\"",
+    "build": "npm run fetch && npm run prepare-site",
+    "start": "npm run prepare-site && npx serve site"
+  },
+  "keywords": [
+    "cybersecurity",
+    "infosec",
+    "jobs",
+    "internships",
+    "india",
+    "events",
+    "scholarships",
+    "github-actions"
+  ],
+  "author": "CyberDastak",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.9.16",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

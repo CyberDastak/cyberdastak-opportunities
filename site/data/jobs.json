@@ -1,0 +1,87 @@
+[
+  {
+    "id": "seed-soc-analyst-blr",
+    "title": "Associate SOC Analyst (L1)",
+    "organization": "Tata Consultancy Services (Cyber Security Unit)",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "postedDate": "2026-09-14T17:56:01.965Z",
+    "description": "Monitor SIEM alerts (Splunk/QRadar), triage security incidents, perform initial packet analysis, and escalate critical cybersecurity threats to L2/L3 teams.",
+    "url": "https://www.tcs.com/careers/india",
+    "source": "curated",
+    "tags": [
+      "SOC Analyst",
+      "SIEM",
+      "Bengaluru",
+      "Incident Response"
+    ]
+  },
+  {
+    "id": "seed-vapt-pune",
+    "title": "Junior Penetration Tester / Ethical Hacker",
+    "organization": "Quick Heal Security Labs",
+    "location": "Pune, Maharashtra, India",
+    "type": "Full-time",
+    "postedDate": "2026-09-13T17:56:01.966Z",
+    "description": "Perform web application penetration testing (OWASP Top 10), network vulnerability assessments, API security testing, and write comprehensive remediation reports.",
+    "url": "https://www.quickheal.co.in/careers",
+    "source": "curated",
+    "tags": [
+      "VAPT",
+      "Penetration Testing",
+      "Pune",
+      "OWASP"
+    ]
+  },
+  {
+    "id": "seed-intern-delhi",
+    "title": "Cybersecurity Threat Intelligence Intern",
+    "organization": "Data Security Council of India (DSCI)",
+    "location": "Noida / New Delhi, India",
+    "type": "Internship",
+    "postedDate": "2026-09-12T17:56:01.966Z",
+    "description": "Research emerging ransomware families, assist in tracking APT threat actors targeting Indian infrastructure, and develop open-source intelligence (OSINT) playbooks.",
+    "url": "https://www.dsci.in/careers",
+    "source": "curated",
+    "tags": [
+      "Internship",
+      "Threat Intelligence",
+      "Delhi NCR",
+      "OSINT"
+    ]
+  },
+  {
+    "id": "seed-cloud-sec-hyd",
+    "title": "Cloud Security Associate",
+    "organization": "Infosys Cyber Defense Center",
+    "location": "Hyderabad, Telangana, India (Hybrid)",
+    "type": "Full-time",
+    "postedDate": "2026-09-11T17:56:01.966Z",
+    "description": "Assist in configuring AWS and Azure security posture management (CSPM), identity and access controls (IAM), and compliance audit automation.",
+    "url": "https://www.infosys.com/careers",
+    "source": "curated",
+    "tags": [
+      "Cloud Security",
+      "AWS",
+      "Hyderabad",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "seed-infosec-remote",
+    "title": "Information Security & Compliance Analyst",
+    "organization": "Razorpay Security Team",
+    "location": "Remote (India)",
+    "type": "Full-time",
+    "postedDate": "2026-09-10T17:56:01.966Z",
+    "description": "Coordinate PCI-DSS, ISO 27001, and SOC 2 audits, conduct vendor risk assessments, and assist in developer security awareness programs.",
+    "url": "https://razorpay.com/jobs",
+    "source": "curated",
+    "tags": [
+      "Compliance",
+      "ISO 27001",
+      "Remote",
+      "Fintech Security"
+    ]
+  }
+]

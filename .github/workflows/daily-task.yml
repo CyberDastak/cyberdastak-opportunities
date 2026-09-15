@@ -1,0 +1,91 @@
+name: CyberDastak Daily Ingestion, Site Deploy & Digest
+
+on:
+  schedule:
+    # 9:00 AM IST is 03:30 UTC
+    - cron: "30 3 * * *"
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+  push:
+    branches:
+      - main
+    paths:
+      - 'site/**'
+      - 'scripts/**'
+      - '.github/workflows/daily-task.yml'
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages & pushing data commits
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: ⚙️ Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: 📦 Install Dependencies
+        run: npm ci || npm install
+
+      - name: 🔍 Fetch Daily Cybersecurity Data
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
+        run: node scripts/fetch-data.js
+
+      - name: 💾 Commit and Push Updated Data
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(data): automated daily opportunities sync [skip ci]"
+            git push origin main
+          else
+            echo "No data changes detected to commit."
+          fi
+
+      - name: 🏗️ Prepare Static Site Artifact
+        run: npm run prepare-site
+
+      - name: 🌐 Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: 📤 Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './site'
+
+      - name: 🚀 Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: 📧 Send Daily Email Digest (9:00 AM IST)
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          SKIP_EMPTY_EMAIL: ${{ vars.SKIP_EMPTY_EMAIL || secrets.SKIP_EMPTY_EMAIL || 'false' }}
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: node scripts/send-email.js

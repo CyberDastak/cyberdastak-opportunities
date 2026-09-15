@@ -1,0 +1,110 @@
+[
+  {
+    "id": "scholarship-curated-aHR0cHM6Ly93",
+    "title": "National Cybersecurity Research Fellowship",
+    "organization": "Govt. of India (MeitY / ISEA)",
+    "location": "India",
+    "deadline": "2026-12-15",
+    "description": "Doctoral and Master research fellowships for Indian scholars working on critical infrastructure protection, malware analysis, and cryptography.",
+    "url": "https://www.isea.gov.in/",
+    "source": "curated",
+    "tags": [
+      "Govt of India",
+      "Fellowship",
+      "Research",
+      "MeitY"
+    ]
+  },
+  {
+    "id": "scholarship-curated-aHR0cHM6Ly93",
+    "title": "National Cybersecurity Research Fellowship (ISEA)",
+    "organization": "Govt. of India (MeitY / ISEA)",
+    "location": "India",
+    "deadline": "2026-12-15",
+    "description": "Doctoral and Master research fellowships for Indian scholars working on critical infrastructure protection, malware analysis, and cryptography.",
+    "url": "https://www.isea.gov.in/",
+    "source": "curated",
+    "tags": [
+      "Govt of India",
+      "Fellowship",
+      "Research",
+      "MeitY"
+    ]
+  },
+  {
+    "id": "scholarship-curated-aHR0cHM6Ly9i",
+    "title": "Google Generation Scholarship (Asia-Pacific / India)",
+    "organization": "Google",
+    "location": "India & APAC",
+    "deadline": "2026-11-20",
+    "description": "Award of $2,500 awarded based on academic performance, passion for cybersecurity/computer science, and demonstrated leadership.",
+    "url": "https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac",
+    "source": "curated",
+    "tags": [
+      "Google",
+      "APAC",
+      "Computer Science",
+      "Diversity"
+    ]
+  },
+  {
+    "id": "scholarship-curated-aHR0cHM6Ly93",
+    "title": "WiCyS (Women in Cybersecurity) Conference & Travel Grant",
+    "organization": "WiCyS Global & India Chapter",
+    "location": "India & Hybrid",
+    "deadline": "2026-11-10",
+    "description": "Scholarship covering conference registration, mentoring, and technical workshops for aspiring female cybersecurity students and young professionals.",
+    "url": "https://www.wicys.org/scholarships/",
+    "source": "curated",
+    "tags": [
+      "Travel Grant",
+      "Mentorship",
+      "Women in Tech"
+    ]
+  },
+  {
+    "id": "scholarship-curated-aHR0cHM6Ly93",
+    "title": "ISC2 Undergraduate & Graduate Cybersecurity Scholarships",
+    "organization": "ISC2 Foundation",
+    "location": "India & Worldwide",
+    "deadline": "2026-11-01",
+    "description": "Tuition support and exam vouchers up to $5,000 for undergraduate and graduate students pursuing infosec degrees or specialized research.",
+    "url": "https://www.iamcybersafe.org/s/undergraduate-scholarships",
+    "source": "curated",
+    "tags": [
+      "Undergraduate",
+      "Postgraduate",
+      "Tuition Assistance"
+    ]
+  },
+  {
+    "id": "scholarship-curated-aHR0cHM6Ly93",
+    "title": "SANS Cyber Diversity Academy Scholarship",
+    "organization": "SANS Institute",
+    "location": "Online (India Eligible)",
+    "deadline": "2026-10-30",
+    "description": "100% full tuition scholarship covering GIAC certifications (GSEC, GCIH), hands-on lab training, and direct recruitment pathways into global security roles.",
+    "url": "https://www.sans.org/scholarship-academies/",
+    "source": "curated",
+    "tags": [
+      "GIAC Vouchers",
+      "Hands-on Labs",
+      "Diversity"
+    ]
+  },
+  {
+    "id": "scholarship-curated-aHR0cHM6Ly93",
+    "title": "ISC2 Women in Cybersecurity Scholarship",
+    "organization": "Center for Cyber Safety and Education / ISC2",
+    "location": "India & Global (Online)",
+    "deadline": "2026-10-15",
+    "description": "Provides up to $5,000 for female students pursuing cybersecurity, information assurance, or related computer science degrees in India and globally.",
+    "url": "https://www.iamcybersafe.org/s/womens-scholarships",
+    "source": "curated",
+    "tags": [
+      "Women in Cyber",
+      "Degree Grant",
+      "Certification"
+    ]
+  }
+]

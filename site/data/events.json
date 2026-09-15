@@ -1,0 +1,98 @@
+[
+  {
+    "id": "event-curated-aHR0cHM6Ly9u",
+    "title": "nullcon Goa Cyber Security Conference & Training",
+    "organization": "null Community",
+    "location": "Goa, India",
+    "date": "2026-11-12",
+    "description": "Premier security conference in India bringing together corporate, hackers, and researchers to share advanced vulnerabilities, zero-days, and defensive tactics.",
+    "url": "https://nullcon.net/",
+    "source": "curated",
+    "tags": [
+      "Conference",
+      "India",
+      "Vulnerability Research",
+      "Defensive"
+    ]
+  },
+  {
+    "id": "event-curated-aHR0cHM6Ly9z",
+    "title": "OWASP Seasides Information Security Conference",
+    "organization": "OWASP Foundation India",
+    "location": "Goa, India / Virtual Streams",
+    "date": "2026-11-05",
+    "description": "Annual non-profit open-source application security and cloud security symposium featuring hands-on trainings, village tracks, and student security mentorship.",
+    "url": "https://seasides.net/",
+    "source": "curated",
+    "tags": [
+      "AppSec",
+      "Webinar",
+      "OWASP",
+      "Cloud Security"
+    ]
+  },
+  {
+    "id": "event-curated-aHR0cHM6Ly9i",
+    "title": "BSides Delhi 2026",
+    "organization": "Security BSides Community",
+    "location": "New Delhi, India",
+    "date": "2026-10-24",
+    "description": "Community-driven information security conference for hackers, researchers, and students to present security research, workshops, and capture-the-flag competitions.",
+    "url": "https://bsidesdelhi.in/",
+    "source": "curated",
+    "tags": [
+      "Conference",
+      "Delhi",
+      "Community",
+      "CTF"
+    ]
+  },
+  {
+    "id": "event-curated-aHR0cHM6Ly93",
+    "title": "Innefu Cyber Intelligence & AI Summit",
+    "organization": "Innefu Labs",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-18",
+    "description": "Specialized summit on predictive intelligence, open-source intelligence (OSINT), and cyber warfare defence for security professionals in India.",
+    "url": "https://www.innefu.com/events",
+    "source": "curated",
+    "tags": [
+      "Summit",
+      "AI Security",
+      "Bengaluru",
+      "OSINT"
+    ]
+  },
+  {
+    "id": "event-curated-aHR0cHM6Ly9p",
+    "title": "c0c0n International Hacking and Cybersecurity Briefing",
+    "organization": "Kerala Police & ISRA",
+    "location": "Kochi, Kerala, India / Hybrid",
+    "date": "2026-10-08",
+    "description": "One of the oldest and largest cybersecurity and hacking conferences in India, organized by Kerala Police, ISRA, and leading infosec communities.",
+    "url": "https://isra.org.in/c0c0n/",
+    "source": "curated",
+    "tags": [
+      "Conference",
+      "India",
+      "Hacking",
+      "Infosec"
+    ]
+  },
+  {
+    "id": "event-curated-aHR0cHM6Ly93",
+    "title": "National Cyber Security Scholars Webinar Series",
+    "organization": "Data Security Council of India (DSCI)",
+    "location": "Online (India)",
+    "date": "2026-09-28",
+    "description": "Monthly interactive knowledge-sharing session on threat intelligence, SOC orchestration, and incident response strategies with leading CISO panelists.",
+    "url": "https://www.dsci.in/events",
+    "source": "curated",
+    "tags": [
+      "Webinar",
+      "SOC",
+      "DSCI",
+      "Threat Intelligence"
+    ]
+  }
+]
