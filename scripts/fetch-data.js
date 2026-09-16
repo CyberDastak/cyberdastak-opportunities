@@ -228,11 +228,22 @@ async function runDailyIngestion() {
   ensureDir(DATA_DIR);
 
   // 1. Read existing datasets
-  const existingJobs = readJsonFile(JOBS_FILE, []);
+  const rawExistingJobs = readJsonFile(JOBS_FILE, []);
   const existingEvents = readJsonFile(EVENTS_FILE, []);
   const existingScholarships = readJsonFile(SCHOLARSHIPS_FILE, []);
 
-  console.log(`[Data State] Existing in storage: ${existingJobs.length} jobs, ${existingEvents.length} events, ${existingScholarships.length} scholarships.`);
+  // Filter out any legacy stale jobs that were ingested before the 15-day incoming rule was applied
+  const existingJobs = rawExistingJobs.filter(j => {
+    const jTime = new Date(j.postedDate).getTime();
+    const ageDays = (Date.now() - jTime) / (1000 * 60 * 60 * 24);
+    if (ageDays > JOB_MAX_INCOMING_AGE_DAYS) {
+      console.log(`[Freshness Purge] Removed legacy stale job (>15 days old): "${j.title}" (${ageDays.toFixed(1)} days old)`);
+      return false;
+    }
+    return true;
+  });
+
+  console.log(`[Data State] Storage: ${existingJobs.length} active jobs (after purging ${rawExistingJobs.length - existingJobs.length} legacy stale >15d), ${existingEvents.length} events, ${existingScholarships.length} scholarships.`);
 
   // 2. Fetch Jobs (Adzuna + JSearch)
   console.log('\n--- Fetching Jobs & Internships (India Only, <= 15 days) ---');
