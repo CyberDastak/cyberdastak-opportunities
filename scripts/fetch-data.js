@@ -1,7 +1,7 @@
 /**
  * CyberDastak Opportunities - Daily Ingestion Pipeline
- * Fetches, deduplicates, prunes (>60 days), and persists:
- *  1. /data/jobs.json (Strictly India-based jobs & internships)
+ * Fetches, deduplicates, prunes stale entries, and persists:
+ *  1. /data/jobs.json (Strictly India-based, <= 15 days incoming, max 30 days retention)
  *  2. /data/events.json (Infosec events, webinars, conferences)
  *  3. /data/scholarships.json (Student cybersecurity grants & fellowships)
  *  4. /data/newly-added.json (Diff for the email digest step)
@@ -20,10 +20,13 @@ const EVENTS_FILE = path.join(DATA_DIR, 'events.json');
 const SCHOLARSHIPS_FILE = path.join(DATA_DIR, 'scholarships.json');
 const NEWLY_ADDED_FILE = path.join(DATA_DIR, 'newly-added.json');
 
-const RETENTION_DAYS = 60;
-const RETENTION_MS = RETENTION_DAYS * 24 * 60 * 60 * 1000;
+// Retention & Freshness Policies
+const JOB_MAX_INCOMING_AGE_DAYS = 15; // Only keep jobs posted within the last 15 days (discard older)
+const JOB_RETENTION_DAYS = 30;         // Remove any job from jobs.json older than 30 days total
+const GENERAL_RETENTION_DAYS = 60;     // Retention window for events and scholarships
 
 // Curated baseline jobs for initial setup or when API keys are not yet configured
+// All seeds are dynamically generated within the last 1-5 days to ensure freshness
 const CURATED_INDIA_JOBS = [
   {
     id: 'seed-soc-analyst-blr',
@@ -125,43 +128,76 @@ function makeFingerprint(title, url) {
 }
 
 /**
- * Deduplicates and removes items older than 60 days
+ * Deduplicates and enforces retention and freshness policies
+ * @param {Object} options
+ * @param {Array} options.existingItems - Current persisted items
+ * @param {Array} options.incomingItems - Newly fetched items
+ * @param {string} options.dateField - Key used for date check
+ * @param {number} options.retentionDays - Max retention age in days before pruning
+ * @param {number|null} options.maxIncomingAgeDays - Max allowed age for incoming items (e.g. 15 for jobs)
+ * @param {string} options.collectionName - Descriptive name for logging
  */
-function processCollection({ existingItems, incomingItems, dateField = 'postedDate' }) {
+function processCollection({
+  existingItems,
+  incomingItems,
+  dateField = 'postedDate',
+  retentionDays = 60,
+  maxIncomingAgeDays = null,
+  collectionName = 'item'
+}) {
   const now = Date.now();
-  const cutoff = now - RETENTION_MS;
+  const retentionMs = retentionDays * 24 * 60 * 60 * 1000;
+  const cutoff = now - retentionMs;
   const existingMap = new Map();
 
-  // Load existing valid items
+  // 1. Process and prune existing items older than retentionDays
   for (const item of existingItems) {
     const rawDate = item[dateField] || item.postedDate || item.date || item.deadline;
     const itemTime = rawDate ? new Date(rawDate).getTime() : now;
 
-    // Retain if it's in the future OR within the 60-day window
     const isUpcoming = itemTime >= now;
-    const isWithinWindow = itemTime >= cutoff;
+    const isWithinRetention = itemTime >= cutoff;
 
-    if (isUpcoming || isWithinWindow) {
+    if (isUpcoming || isWithinRetention) {
       const key = makeFingerprint(item.title, item.url);
       existingMap.set(key, item);
     } else {
-      console.log(`[Retention] Pruned expired item (>60 days): "${item.title}"`);
+      const ageDays = (now - itemTime) / (1000 * 60 * 60 * 24);
+      console.log(`[Retention] Removed expired ${collectionName} from storage (>${retentionDays} days old): "${item.title}" (${ageDays.toFixed(1)} days old)`);
     }
   }
 
   const newlyAdded = [];
 
-  // Evaluate incoming items
+  // 2. Evaluate incoming items with strict date and freshness checks
   for (const item of incomingItems) {
     if (!item.title || !item.url) continue;
 
     const rawDate = item[dateField] || item.postedDate || item.date || item.deadline;
-    const itemTime = rawDate ? new Date(rawDate).getTime() : now;
-    const isUpcoming = itemTime >= now;
-    const isWithinWindow = itemTime >= cutoff;
+    if (!rawDate) {
+      console.log(`[Ingestion] Discarded ${collectionName} with missing date field: "${item.title}"`);
+      continue;
+    }
 
-    // Do not ingest stale/expired historical items
-    if (!isUpcoming && !isWithinWindow) {
+    const itemTime = new Date(rawDate).getTime();
+    if (isNaN(itemTime)) {
+      console.log(`[Ingestion] Discarded ${collectionName} with invalid date ("${rawDate}"): "${item.title}"`);
+      continue;
+    }
+
+    const ageDays = (now - itemTime) / (1000 * 60 * 60 * 24);
+
+    // If maxIncomingAgeDays is specified (15 days for jobs), strictly discard older
+    if (maxIncomingAgeDays !== null && ageDays > maxIncomingAgeDays) {
+      console.log(`[Ingestion] Discarded ${collectionName} older than ${maxIncomingAgeDays} days: "${item.title}" (${ageDays.toFixed(1)} days old)`);
+      continue;
+    }
+
+    // Discard anything older than maximum retention window
+    const isUpcoming = itemTime >= now;
+    const isWithinRetention = itemTime >= cutoff;
+    if (!isUpcoming && !isWithinRetention) {
+      console.log(`[Ingestion] Discarded historical ${collectionName} older than ${retentionDays} days: "${item.title}" (${ageDays.toFixed(1)} days old)`);
       continue;
     }
 
@@ -186,6 +222,7 @@ async function runDailyIngestion() {
   console.log('====================================================');
   console.log('  CYBERDASTAK OPPORTUNITIES - DATA INGESTION PIPELINE');
   console.log(`  Started at: ${new Date().toISOString()}`);
+  console.log(`  Job Freshness Policy: Incoming <= ${JOB_MAX_INCOMING_AGE_DAYS} days | Storage Retention <= ${JOB_RETENTION_DAYS} days`);
   console.log('====================================================');
 
   ensureDir(DATA_DIR);
@@ -195,21 +232,21 @@ async function runDailyIngestion() {
   const existingEvents = readJsonFile(EVENTS_FILE, []);
   const existingScholarships = readJsonFile(SCHOLARSHIPS_FILE, []);
 
-  console.log(`[Data State] Existing: ${existingJobs.length} jobs, ${existingEvents.length} events, ${existingScholarships.length} scholarships.`);
+  console.log(`[Data State] Existing in storage: ${existingJobs.length} jobs, ${existingEvents.length} events, ${existingScholarships.length} scholarships.`);
 
   // 2. Fetch Jobs (Adzuna + JSearch)
-  console.log('\n--- Fetching Jobs & Internships (India Only) ---');
+  console.log('\n--- Fetching Jobs & Internships (India Only, <= 15 days) ---');
   const [adzunaJobs, jSearchJobs] = await Promise.all([
     fetchAdzunaJobs().catch(e => { console.error('[Adzuna Error]', e.message); return []; }),
     fetchJSearchJobs().catch(e => { console.error('[JSearch Error]', e.message); return []; })
   ]);
 
   let incomingJobs = [...adzunaJobs, ...jSearchJobs];
-  console.log(`[Fetch Summary] Total incoming jobs from APIs: ${incomingJobs.length}`);
+  console.log(`[Fetch Summary] Total incoming jobs from APIs (<= 15 days): ${incomingJobs.length}`);
 
   // Fallback seed if running in an unconfigured environment or initial launch
   if (existingJobs.length === 0 && incomingJobs.length === 0) {
-    console.log('[Notice] No API jobs found and jobs.json empty. Loading initial curated India infosec jobs.');
+    console.log('[Notice] No API jobs found and jobs.json empty. Loading fresh curated India infosec jobs (<= 5 days old).');
     incomingJobs = [...CURATED_INDIA_JOBS];
   }
 
@@ -227,24 +264,33 @@ async function runDailyIngestion() {
     return [];
   });
 
-  // 5. Process deduplication & 60-day retention
-  console.log('\n--- Processing Collections & Deduplication ---');
+  // 5. Process deduplication, retention, and freshness
+  console.log('\n--- Processing Collections, Freshness & Retention ---');
   const jobsResult = processCollection({
     existingItems: existingJobs,
     incomingItems: incomingJobs,
-    dateField: 'postedDate'
+    dateField: 'postedDate',
+    retentionDays: JOB_RETENTION_DAYS,           // Prune any job older than 30 days total
+    maxIncomingAgeDays: JOB_MAX_INCOMING_AGE_DAYS, // Discard incoming jobs older than 15 days
+    collectionName: 'job'
   });
 
   const eventsResult = processCollection({
     existingItems: existingEvents,
     incomingItems: incomingEvents,
-    dateField: 'date'
+    dateField: 'date',
+    retentionDays: GENERAL_RETENTION_DAYS,
+    maxIncomingAgeDays: null,
+    collectionName: 'event'
   });
 
   const scholarshipsResult = processCollection({
     existingItems: existingScholarships,
     incomingItems: incomingScholarships,
-    dateField: 'deadline'
+    dateField: 'deadline',
+    retentionDays: GENERAL_RETENTION_DAYS,
+    maxIncomingAgeDays: null,
+    collectionName: 'scholarship'
   });
 
   // 6. Save updated collections
@@ -271,6 +317,29 @@ async function runDailyIngestion() {
 
   writeJsonFile(NEWLY_ADDED_FILE, newlyAddedPayload);
 
+  // 8. Explicit Final Audit Log for jobs.json
+  const now = Date.now();
+  console.log('\n====================================================');
+  console.log('  FINAL JOBS.JSON AUDIT (STRICT FRESHNESS VERIFICATION)');
+  console.log('====================================================');
+  let olderThan15Count = 0;
+  jobsResult.merged.forEach((j, idx) => {
+    const jTime = new Date(j.postedDate).getTime();
+    const ageDays = (now - jTime) / (1000 * 60 * 60 * 24);
+    const isUnder15 = ageDays <= JOB_MAX_INCOMING_AGE_DAYS;
+    if (!isUnder15) olderThan15Count++;
+    console.log(`  [Job #${idx + 1}] "${j.title}"`);
+    console.log(`           Org: ${j.organization} | Location: ${j.location}`);
+    console.log(`           Posted: ${j.postedDate} (${ageDays.toFixed(1)} days ago) -> ${isUnder15 ? 'PASS (<= 15 days)' : 'WARN (> 15 days)'}`);
+  });
+
+  if (olderThan15Count === 0) {
+    console.log(`\n  ✅ AUDIT PASSED: All ${jobsResult.merged.length} jobs in final jobs.json were posted within the last 15 days!`);
+    console.log('     No job older than 15 days appears in the final jobs.json.');
+  } else {
+    console.warn(`\n  ⚠️ AUDIT NOTE: ${olderThan15Count} job(s) exceed 15 days but remain within the 30-day retention window.`);
+  }
+
   console.log('\n====================================================');
   console.log('  PIPELINE EXECUTION COMPLETE');
   console.log(`  Jobs: ${jobsResult.merged.length} total (+${jobsResult.newlyAdded.length} new)`);
@@ -292,5 +361,7 @@ if (require.main === module) {
 }
 
 module.exports = {
-  runDailyIngestion
+  runDailyIngestion,
+  JOB_MAX_INCOMING_AGE_DAYS,
+  JOB_RETENTION_DAYS
 };
