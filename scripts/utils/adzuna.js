@@ -1,6 +1,7 @@
 /**
  * Adzuna India API Integration for CyberDastak Opportunities
  * Fetches cybersecurity jobs from Adzuna's India endpoint.
+ * Strictly verifies posting date presence and enforces <= 15 days age limit.
  */
 
 const axios = require('axios');
@@ -13,6 +14,8 @@ const ADZUNA_KEYWORDS = [
   'ethical hacking',
   'information security'
 ];
+
+const MAX_JOB_AGE_DAYS = 15;
 
 /**
  * Fetches India cybersecurity jobs from Adzuna
@@ -32,6 +35,7 @@ async function fetchAdzunaJobs({ appId, appKey } = {}) {
 
   const results = [];
   const seenIds = new Set();
+  const now = Date.now();
 
   for (const keyword of ADZUNA_KEYWORDS) {
     try {
@@ -58,6 +62,25 @@ async function fetchAdzunaJobs({ appId, appKey } = {}) {
         if (!item.id || seenIds.has(item.id)) continue;
         seenIds.add(item.id);
 
+        // 1. Strict Posting Date Check: Must have a created date field
+        if (!item.created) {
+          console.log(`[Adzuna] Discarding job "${item.title}" - missing posting date field (created).`);
+          continue;
+        }
+
+        const createdTime = new Date(item.created).getTime();
+        if (isNaN(createdTime)) {
+          console.log(`[Adzuna] Discarding job "${item.title}" - invalid posting date: "${item.created}".`);
+          continue;
+        }
+
+        // 2. Strict Age Check: Only keep jobs posted within last 15 days
+        const ageDays = (now - createdTime) / (1000 * 60 * 60 * 24);
+        if (ageDays > MAX_JOB_AGE_DAYS) {
+          console.log(`[Adzuna] Discarding job older than ${MAX_JOB_AGE_DAYS} days: "${item.title}" (${ageDays.toFixed(1)} days old).`);
+          continue;
+        }
+
         const locationStr = item.location?.display_name || item.location?.area?.join(', ') || 'India';
         const eligibility = evaluateIndiaEligibility({
           title: item.title,
@@ -74,13 +97,15 @@ async function fetchAdzunaJobs({ appId, appKey } = {}) {
         if (eligibility.isInternship) tags.push('Internship');
         if (eligibility.isRemote) tags.push('Remote');
 
+        console.log(`[Adzuna] Kept job posted ${ageDays.toFixed(1)} days ago: "${cleanHtml(item.title)}"`);
+
         results.push({
           id: `adzuna-${item.id}`,
           title: cleanHtml(item.title),
           organization: item.company?.display_name || 'Verified Employer',
           location: eligibility.locationText,
           type: eligibility.isInternship ? 'Internship' : (item.contract_time === 'part_time' ? 'Part-time' : 'Full-time'),
-          postedDate: item.created ? new Date(item.created).toISOString() : new Date().toISOString(),
+          postedDate: new Date(createdTime).toISOString(),
           description: cleanHtml(item.description || '').slice(0, 400),
           url: item.redirect_url,
           source: 'adzuna',
@@ -107,5 +132,6 @@ function cleanHtml(str) {
 }
 
 module.exports = {
-  fetchAdzunaJobs
+  fetchAdzunaJobs,
+  MAX_JOB_AGE_DAYS
 };

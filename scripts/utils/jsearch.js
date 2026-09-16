@@ -1,6 +1,7 @@
 /**
  * JSearch API (RapidAPI / OpenWeb Ninja) Integration for CyberDastak Opportunities
  * Fetches cybersecurity & infosec job listings targeted specifically to India.
+ * Strictly verifies posting date presence and enforces <= 15 days age limit.
  */
 
 const axios = require('axios');
@@ -13,6 +14,8 @@ const JSEARCH_QUERIES = [
   'ethical hacker jobs in India',
   'information security engineer India'
 ];
+
+const MAX_JOB_AGE_DAYS = 15;
 
 /**
  * Fetches jobs from JSearch API
@@ -30,6 +33,7 @@ async function fetchJSearchJobs({ apiKey } = {}) {
 
   const results = [];
   const seenIds = new Set();
+  const now = Date.now();
 
   for (const query of JSEARCH_QUERIES) {
     try {
@@ -58,6 +62,26 @@ async function fetchJSearchJobs({ apiKey } = {}) {
         if (!id || seenIds.has(id)) continue;
         seenIds.add(id);
 
+        // 1. Strict Posting Date Check: Must include a posting date field
+        let postedTime = null;
+        if (item.job_posted_at_timestamp && !isNaN(Number(item.job_posted_at_timestamp))) {
+          postedTime = Number(item.job_posted_at_timestamp) * 1000;
+        } else if (item.job_posted_at_datetime_utc) {
+          postedTime = new Date(item.job_posted_at_datetime_utc).getTime();
+        }
+
+        if (!postedTime || isNaN(postedTime)) {
+          console.log(`[JSearch] Discarding job "${item.job_title}" - missing valid posting date field.`);
+          continue;
+        }
+
+        // 2. Strict Age Check: Only keep jobs posted within last 15 days
+        const ageDays = (now - postedTime) / (1000 * 60 * 60 * 24);
+        if (ageDays > MAX_JOB_AGE_DAYS) {
+          console.log(`[JSearch] Discarding job older than ${MAX_JOB_AGE_DAYS} days: "${item.job_title}" (${ageDays.toFixed(1)} days old).`);
+          continue;
+        }
+
         const locationRaw = [item.job_city, item.job_state, item.job_country].filter(Boolean).join(', ');
         const eligibility = evaluateIndiaEligibility({
           title: item.job_title,
@@ -79,18 +103,13 @@ async function fetchJSearchJobs({ apiKey } = {}) {
         else if ((item.job_employment_type || '').toUpperCase() === 'CONTRACTOR') finalType = 'Contract';
         else if ((item.job_employment_type || '').toUpperCase() === 'PARTTIME') finalType = 'Part-time';
 
-        let postedDate = new Date().toISOString();
-        if (item.job_posted_at_timestamp) {
-          postedDate = new Date(item.job_posted_at_timestamp * 1000).toISOString();
-        } else if (item.job_posted_at_datetime_utc) {
-          postedDate = new Date(item.job_posted_at_datetime_utc).toISOString();
-        }
-
         const tags = ['Cybersecurity'];
         if (isIntern) tags.push('Internship');
         if (isRemote) tags.push('Remote');
         if (query.includes('SOC')) tags.push('SOC Analyst');
         if (query.includes('penetration')) tags.push('VAPT');
+
+        console.log(`[JSearch] Kept job posted ${ageDays.toFixed(1)} days ago: "${item.job_title}"`);
 
         results.push({
           id: `jsearch-${id}`,
@@ -98,7 +117,7 @@ async function fetchJSearchJobs({ apiKey } = {}) {
           organization: item.employer_name || 'Verified Employer',
           location: eligibility.locationText || (isRemote ? 'Remote (India)' : 'India'),
           type: finalType,
-          postedDate,
+          postedDate: new Date(postedTime).toISOString(),
           description: (item.job_description || '').slice(0, 400).trim(),
           url: item.job_apply_link || item.job_google_link || item.job_offer_expiration_datetime_utc,
           source: 'jsearch',
@@ -114,5 +133,6 @@ async function fetchJSearchJobs({ apiKey } = {}) {
 }
 
 module.exports = {
-  fetchJSearchJobs
+  fetchJSearchJobs,
+  MAX_JOB_AGE_DAYS
 };
