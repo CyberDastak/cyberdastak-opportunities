@@ -1,15 +1,1307 @@
 {
-  "fetchedAt": "2026-09-16T09:15:10.732Z",
+  "fetchedAt": "2026-09-16T10:02:33.057Z",
   "counts": {
-    "totalJobs": 5,
+    "totalJobs": 91,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 0,
+    "newJobs": 86,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 0
+    "totalNew": 86
   },
-  "jobs": [],
+  "jobs": [
+    {
+      "id": "adzuna-5867717242",
+      "title": "Specialist - Cybersecurity Technology",
+      "organization": "Data Security Council of India",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-03T04:28:51.000Z",
+      "description": "DSCI is seeking a dynamic and technically proficient Specialist – Cyber Security Technology to lead cybersecurity skilling initiatives and industry engagements from its Mumbai office. The primary focus of this role is to drive capacity building in AI for Cybersecurity, Generative AI Security, AI-driven Threat Detection, Secure AI Adoption, and other emerging cybersecurity technologies. The incumbe",
+      "url": "https://www.adzuna.in/land/ad/5867717242?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=8F1B8B4B35ABBF41E4453E6BC368162C57D092B3",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5882589192",
+      "title": "Sales Executive (Cybersecurity)",
+      "organization": "Certbar Security",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-13T17:17:16.000Z",
+      "description": "Location: Mumbai Experience Required: 3-5 years Who are we? Certbar is a rapidly growing organization in cybersecurity sector, we help organizations in critical sectors such as banks, fintech, insurance, PSUs, CCA, NHA, ABHA, Healthcare, etc. We empower global organizations to navigate the ever-evolving cyber threat landscape with confidence. Key Responsibilities: Identify and pursue new business ",
+      "url": "https://www.adzuna.in/land/ad/5882589192?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=D825653BEC87FC352F3BA2BBDDF3AD63A3CF67A8",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5884157806",
+      "title": "Cybersecurity Governance Lead",
+      "organization": "Mizuho",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-15T07:06:36.000Z",
+      "description": "Why Mizuho At Mizuho, we provide the stability of an international industry leader with the career trajectory of a growing business. Our steady, strategic growth gives our people at all levels rewarding degrees of responsibility and richer work experience than a boutique firm or an established giant could offer alone. It’s the local expertise of our employees that makes our global network so power",
+      "url": "https://www.adzuna.in/land/ad/5884157806?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=D8AC258BDB172CEB2ED81BCD459FC41B112970B6",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5884158175",
+      "title": "Cybersecurity Governance Analyst",
+      "organization": "Mizuho",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-15T07:07:21.000Z",
+      "description": "Why Mizuho At Mizuho, we provide the stability of an international industry leader with the career trajectory of a growing business. Our steady, strategic growth gives our people at all levels rewarding degrees of responsibility and richer work experience than a boutique firm or an established giant could offer alone. It’s the local expertise of our employees that makes our global network so power",
+      "url": "https://www.adzuna.in/land/ad/5884158175?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=3071458929D9E0FAD4E3E6515FDA7DD52B291800",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5841755140",
+      "title": "Cybersecurity Presales Consultant",
+      "organization": "ARCON",
+      "location": "Delhi, India",
+      "type": "Full-time",
+      "postedDate": "2026-08-14T16:34:17.000Z",
+      "description": "Experience: 10–12 Years Locations: Delhi Role Overview We are looking for an experienced Cybersecurity Presales Consultant with 10–12 years of expertise in designing, positioning, and presenting enterprise cybersecurity solutions. The ideal candidate should have strong hands-on and consultative experience across Privileged Access Management (PAM), Identity and Access Management (IAM), Endpoint Pri",
+      "url": "https://www.adzuna.in/land/ad/5841755140?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=B29B4A08137C785E1852A53515A1DE0D75CBD564",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5876869898",
+      "title": "Associate Principal - CyberSecurity",
+      "organization": "LTM",
+      "location": "Noida, Ghaziabad",
+      "type": "Full-time",
+      "postedDate": "2026-09-09T14:44:23.000Z",
+      "description": "Job Description: We are looking smart, energetic, capable talents skills who can design and handle end-to-end Cybersecurity solution proposals (RFP/RFI/Proactive/Reactive.) As a Cyber Security –Solutioning leader in the Integrated part of Cybersecurity Solutions Group. you will enable our enterprise customers to define and design the solution. You will also enable our customers to understand and i",
+      "url": "https://www.adzuna.in/land/ad/5876869898?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=B537F654950ACDCCFA92C2BE3850A4FAFA459A34",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5864435817",
+      "title": "Cybersecurity Project Manager",
+      "organization": "Persistent Systems",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:24.000Z",
+      "description": "About Position: The Junior Cybersecurity Project Manager plays a crucial role in supporting the planning, coordination, and delivery of cybersecurity projects and security operations initiatives. This position collaborates closely with senior project managers, security architects, SOC/CFC teams, and customers to ensure that projects are delivered on time, within scope, and aligned with both busine",
+      "url": "https://www.adzuna.in/land/ad/5864435817?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=5FA92D0011920A64B13F788359E77E1396FBB1C9",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5864436339",
+      "title": "Cybersecurity PMO Manager",
+      "organization": "Persistent Systems",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:29.000Z",
+      "description": "About Position: The Cybersecurity PMO Manager is a pivotal role responsible for overseeing the planning, tracking, governance, reporting, financial management, and operational support for cybersecurity programs and projects. This position collaborates closely with Security Architects, SOC teams, Delivery Managers, Customers, and Leadership to ensure that cybersecurity initiatives are delivered on ",
+      "url": "https://www.adzuna.in/land/ad/5864436339?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=BD5F2130D755526CA0EF73568742C85CDA70EBE9",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5876871786",
+      "title": "Opportunity for Cybersecurity Engineer",
+      "organization": "Hinduja Tech Limited",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-09T14:45:30.000Z",
+      "description": "Experience: 3 to 5 years Location: Pune, Bangalore & Chennai Core Framework: ISO/SAE 21434 execution, vulnerability checks Threat Analysis: Performs localized TARA at the component level. BMS Application: Secure boot, secure flashing, cryptographic drivers. Testing Scope: Automated fuzzing, vulnerability scans, pen-testing External Compliance: Technical implementation tracking. Core Mandate: Acts ",
+      "url": "https://www.adzuna.in/land/ad/5876871786?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=B887799BCF1774E7515AE575EA8DAFB17157923A",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5876872695",
+      "title": "Associate Principal - Cybersecurity",
+      "organization": "LTM",
+      "location": "Noida, Ghaziabad",
+      "type": "Full-time",
+      "postedDate": "2026-09-09T14:46:36.000Z",
+      "description": "Job Description: We are looking smart, energetic, capable talents skills who can design and handle end-to-end IAM solution proposals (RFP/RFI/Proactive/Reactive.) As a Cyber Security – Solutioning team member in the Integrated part of Cybersecurity Solutions Group. you will enable our enterprise customers to define and design the solution. You will also enable our customers to understand and impro",
+      "url": "https://www.adzuna.in/land/ad/5876872695?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=B17B9D644EFA8718F5C6E73E14F9F7C91D9CA679",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5864429271",
+      "title": "Project Manager  Cybersecurity",
+      "organization": "Sonata Software",
+      "location": "Noida, Ghaziabad",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:21:26.000Z",
+      "description": "Skills Required Primary Skills: PM with Cyber Risk Management, Corporate Audit, Technology Services, QA, Development, Architecture Experience : 10 years Key Responsibilities: Cross-Functional Coordination: Serve as the central point of accountability for project scope, schedule, budget, and risks Coordinate cross-functional teams (Development, DevOps, QA, Security, Audit, Operations) Run technical",
+      "url": "https://www.adzuna.in/land/ad/5864429271?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=53EAEB7F772FAA0765383CC0936C5745CB0B73A2",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5879667201",
+      "title": "Lead Cybersecurity Engineer",
+      "organization": "Neurealm",
+      "location": "Chennai, Tamil Nadu",
+      "type": "Full-time",
+      "postedDate": "2026-09-11T17:15:38.000Z",
+      "description": "We are seeking a highly skilled and experienced Lead Cybersecurity Engineer to lead the design, engineering, deployment, optimization, and ongoing improvement of enterprise security controls and platforms. The role requires strong hands-on expertise across EDR, SIEM, IDS/IPS, MDM, Microsoft 365 Security, identity security, vulnerability management, and security automation. The successful candidate",
+      "url": "https://www.adzuna.in/land/ad/5879667201?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=BC0B10D7DE2C8099DB2652AADFC074ADA27EBC7E",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5867037567",
+      "title": "Cybersecurity Controls Testing Lead",
+      "organization": "Mizuho",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T16:43:48.000Z",
+      "description": "Why Mizuho At Mizuho, we provide the stability of an international industry leader with the career trajectory of a growing business. Our steady, strategic growth gives our people at all levels rewarding degrees of responsibility and richer work experience than a boutique firm or an established giant could offer alone. It’s the local expertise of our employees that makes our global network so power",
+      "url": "https://www.adzuna.in/land/ad/5867037567?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=CB72920582699097357C30D40DE782A215C7B1E4",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5867036154",
+      "title": "Cybersecurity Controls Testing Analyst",
+      "organization": "Mizuho",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T16:42:45.000Z",
+      "description": "Why Mizuho At Mizuho, we provide the stability of an international industry leader with the career trajectory of a growing business. Our steady, strategic growth gives our people at all levels rewarding degrees of responsibility and richer work experience than a boutique firm or an established giant could offer alone. It’s the local expertise of our employees that makes our global network so power",
+      "url": "https://www.adzuna.in/land/ad/5867036154?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=491DAA23F5F05EDE465C17A83B4DA37E03193B50",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5884158900",
+      "title": "Cybersecurity Specialist | FinTech & Payments",
+      "organization": "money eu",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-15T07:07:59.000Z",
+      "description": "We’re Hiring: Cybersecurity Specialist | FinTech & Payments MoneyEU is looking for an experienced Cybersecurity Specialist / Information Security Engineer to strengthen the security of our growing payment technology infrastructure. About MoneyEU MoneyEU is building a modern payments infrastructure designed to connect merchants with multiple payment methods, acquiring partners, banking rails, and f",
+      "url": "https://www.adzuna.in/land/ad/5884158900?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=2ED3D2FD7962B87BB3CA12A4BBBE4FE25434DA1F",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5884158207",
+      "title": "Cybersecurity Specialist - Web Application",
+      "organization": "RHC India",
+      "location": "Ahmedabad, Gujarat",
+      "type": "Full-time",
+      "postedDate": "2026-09-15T07:07:23.000Z",
+      "description": "About the Company: Relay Human Cloud is a young & dynamic company that helps some of the top US-based companies to expand their team internationally. Relay is a truly global company having its operations in US, India, Honduras, and Mexico (We are also adding a few more countries soon). Our core focus is to enable companies to connect with the best international talent. Relay helps its clients in m",
+      "url": "https://www.adzuna.in/land/ad/5884158207?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=EAF9275445E2C4B64B8D97A0FEAA22C0BD96015E",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5864424599",
+      "title": "Enterprise Sales Manager Cybersecurity",
+      "organization": "EC-Council",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:20:25.000Z",
+      "description": "Job Title: Enterprise Sales Manager – Cybersecurity Job Location - Hyderabad EC-Council is the world’s largest cyber security technical certification body. We operate in 145 countries globally and we are the owner and developer of various world-famous cyber security programs. We are proud to have trained and certified over 400,000 information security professionals globally that have influenced th",
+      "url": "https://www.adzuna.in/land/ad/5864424599?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=BFC18AAF29EAB062A26971AEAF9AA7221498CB62",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5847959695",
+      "title": "Cybersecurity Analyst - Detection and Response",
+      "organization": "HP",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-08-19T14:04:53.000Z",
+      "description": "This job is with HP, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Cybersecurity Analyst - Detection and Response Description - As the world around us becomes more connected and more digital, there are increased opportunities for fraud and disruption due to cybersecurity attacks. The need ",
+      "url": "https://www.adzuna.in/land/ad/5847959695?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=E7BCE3F66DBEDBE860A53442DFB1146C0CA27048",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5876869782",
+      "title": "Technical Account Manager - Cybersecurity",
+      "organization": "CloudSEK",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-09T14:44:11.000Z",
+      "description": "WHO ARE WE? We are a bunch of super enthusiastic, passionate, and highly driven people, working to achieve a common goal! We believe that work and the workplace should be joyful and always buzzing with energy! CloudSEK, one of India’s most trusted Cyber security product companies, is on a mission to build the world’s fastest and most reliable AI technology that identifies and resolves digital thre",
+      "url": "https://www.adzuna.in/land/ad/5876869782?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=C6B71238197576559C6606F9FD130D7FEA85C7A9",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5853620960",
+      "title": "RSM - Cybersecurity(Govt Sales)",
+      "organization": "Radware",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-08-23T17:39:11.000Z",
+      "description": "Title: Regional Sales Manager – West Department: Sales Location: Mumbai Experience: 10-15yrs Position Summary: He is responsible for achieving assigned sales targets through Government sales channels. This includes identifying and developing strategic opportunities within key government customers, acquiring new accounts, and driving growth within existing accounts Primary Accountabilities: · MUST ",
+      "url": "https://www.adzuna.in/land/ad/5853620960?se=GK8fubWx8RGx6KQk4w4iHw&utm_medium=api&utm_source=6848710c&v=DA92738707ABFBF10F06BD2CC5F88ACF6AE37840",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5866218662",
+      "title": "SOC Senior Analyst",
+      "organization": "Kyndryl",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T08:22:21.000Z",
+      "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow ",
+      "url": "https://www.adzuna.in/land/ad/5866218662?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=59538116559AB18C159B76AFDAFC997CA05A39AE",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5864430517",
+      "title": "Technical Specialist - Cyber Security L3",
+      "organization": "Lenovo",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:21:40.000Z",
+      "description": "Security Operations Centre (SOC) Analyst plays a vital role in Security delivery. As a SOC Analyst Level 3, you will be on the front line of Cyber Defense, detecting & responding to Cyber Incidents as they happen. You will work with other team members to provide situational awareness through detection, containment, and remediation of IT threats. This job requires great attention to detail and gene",
+      "url": "https://www.adzuna.in/land/ad/5864430517?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=BD10B826B691E8D904EA799B54DA1EF6838469A7",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5884158125",
+      "title": "SOC CS",
+      "organization": "Eventus Security",
+      "location": "Navi Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-15T07:07:16.000Z",
+      "description": "Job Title: Customer Experience Executive / Customer Success Manager – Security Operations Center (SOC) Experience: 3–8 yrs Location: Mumbai / Bangalore / Delhi Job Summary: The Customer Experience Executive acts as the primary point of contact for customers utilizing Managed SOC services. The role is responsible for ensuring exceptional customer satisfaction by managing service delivery, coordinat",
+      "url": "https://www.adzuna.in/land/ad/5884158125?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=20AEA5CC30FFDE3C769BEFE47A873823D57DCD7F",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5864435784",
+      "title": "Threat hunting",
+      "organization": "Tata Consultancy Services",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:24.000Z",
+      "description": "Company: TCS Skill: Threat Hunting / Modeling Experience: 6 to 15 Years Location: Bengaluru Interview Mode: Face to Face (Walkin) Interview Date: 29th Aug 2026(Saturday) Job description: Proactive Threat Hunting Conduct hypothesis-driven and data-driven threat hunting across endpoints, networks, cloud, and identity systems. Identify anomalous behaviors, TTPs, and indicators of compromise using MIT",
+      "url": "https://www.adzuna.in/land/ad/5864435784?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=E9165445F44FF529E4ED6CAD01741B0915608832",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5864421824",
+      "title": "Senior Security Engineer",
+      "organization": "Eventus Security",
+      "location": "Navi Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:19:47.000Z",
+      "description": "Job Title: Senior Security Engineer Experience: 4yrs of experience Job Location: Sanpada, Navi Mumbai We are seeking an experienced Technical Support Engineer to provide 24/7 support for cybersecurity products across multiple platforms. This is a product-based role (NOT SOC Analyst) focused on troubleshooting, configuration, and operational support for endpoint, email, and network security solutio",
+      "url": "https://www.adzuna.in/land/ad/5864421824?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=E881B65B1D71F2C484F34BFA01C3F211D24E9D81",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5880951871",
+      "title": "Senior Security Analyst",
+      "organization": "Eventus Security",
+      "location": "Navi Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-12T17:19:58.000Z",
+      "description": "Job Title: Senior Security Analyst Job Location: Ahmedabad / Navi Mumbai Experience: 3-6 yrs Looking for a Strong L2 SoC Analyst. With exceptional knowledge to detect, investigate, and remediate security incidents. Given the complex responsibility involved in such roles we are looking for someone who understands the importance to the customer’s first mindset and that SOC is 24/7 and multiple shift",
+      "url": "https://www.adzuna.in/land/ad/5880951871?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=944C7F7F5E9EC8E79DA649F5DC98B576AFA38B00",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5876013274",
+      "title": "SOAR Engineer/ Lead (Palo Alto SOAR/ Cortex XSOAR)",
+      "organization": "iFocal Solutions Pvt Ltd",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-09T01:02:19.000Z",
+      "description": "We are looking for below mentioned professionals for one of clients, request you to share your updated resume in a MS-Word format to sushil@ifocalsolutions.com and let us know the below mentioned info: - Your Current CTC: Expected CTC: Notice Period: Current Location: Willing to relocate if outstation: (Yes/No) About the job About Position: SOAR Engineer/ Lead (Palo Alto SOAR/ Cortex XSOAR) Job Ty",
+      "url": "https://www.adzuna.in/land/ad/5876013274?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=1B180E68064B6FBB735362C777CA7ADACD59DDB6",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5864422537",
+      "title": "Information Security Manager",
+      "organization": "Searce Inc",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:19:56.000Z",
+      "description": "ABOUT SEARCE Searce is an AI-native, engineering-led modern tech consultancy that empowers clients to futurify by delivering real business outcomes. WHY YOU'LL LOVE BEING A SEARCIAN We live the happier culture—Humble, Adaptable, Positive, Passionate, Innovative, Excellence-minded, and Responsible. Here, ideas win over hierarchy (we reject HiPPOs), bureaucracy is replaced by velocity, and we have a",
+      "url": "https://www.adzuna.in/land/ad/5864422537?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=A2FB9C99B79919C8A8DBCB20EDBE9B3BA43E2D71",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5871992084",
+      "title": "Senior Security Engineer",
+      "organization": "GRIDsentry",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-05T18:30:35.000Z",
+      "description": "About Us - GRIDsentry is a cybersecurity system integrator specializing in securing power‑grid and digital‑substation infrastructure. We design, integrate, and manage end‑to‑end OT and critical‑infrastructure security solutions for utilities and grid operators. You will work on cutting‑edge technologies like AI‑based intrusion detection, deception systems, and Security Information Management for t",
+      "url": "https://www.adzuna.in/land/ad/5871992084?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=94A69FC71FC2EAD083DCCFC6291AB8FE3FA87725",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5864432102",
+      "title": "Cyber Security Analyst",
+      "organization": "Rein Security",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:21:50.000Z",
+      "description": "Why Rein? Rein was founded to solve one of cybersecurity's toughest challenges: understanding how AI agents and applications behave in real time. Our technology helps AI and Application Security teams see risk as it really is. The result: faster, smarter security decisions based on what's actually happening inside your apps. Backed by leading VCs, Rein is already trusted by companies across bankin",
+      "url": "https://www.adzuna.in/land/ad/5864432102?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=9644950A7997E0B2890FC8D93F51F222535BF74F",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5880066306",
+      "title": "DART Engineer",
+      "organization": "HCLSoftware",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-12T01:06:19.000Z",
+      "description": "Please share CV to monica_sharma@hcl-software.com with the below details: Total Experience- Current ctc- expected ctc- Notice Period- SOC Detection and Automation Engineer Experience required- 6 to 10 years Overview Responsible for enhancing our security posture by developing, implementing, and maintaining detection content within the SIEM. A key focus of this position will be leveraging our SIEMs",
+      "url": "https://www.adzuna.in/land/ad/5880066306?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=9B43D6C1A63ED04FD419CD73E36A47783C1FFD9A",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5864436127",
+      "title": "SOC Manager",
+      "organization": "Persistent Systems",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:28.000Z",
+      "description": "About Position: As a SOC Manager, you will be responsible for leading a team of security professionals and managing all aspects of the Security Operations Center for client engagements. You will oversee the delivery of SOC services, ensure the effective detection and response to cybersecurity threats, and maintain strong client relationships. Leveraging your extensive experience and leadership ski",
+      "url": "https://www.adzuna.in/land/ad/5864436127?se=tqS9ubWx8RGAn97WUMxxvA&utm_medium=api&utm_source=6848710c&v=636192D7EC71E73D4A27780C82D938208B0273D8",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5876941138",
+      "title": "SOC Analyst",
+      "organization": "MoonPay",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-09T16:12:10.000Z",
+      "description": "About MoonPay: MoonPay is actively recruiting for the position of SOC Analyst (Technology & Security Services). Location & Setup: Bengaluru, Karnataka Overview: Contribute directly to MoonPay's Web3, smart contract, and blockchain infrastructure. Complete candidate qualifications and application instructions are available on Hashtag Web3. View full posting details and apply online on Hashtag Web3",
+      "url": "https://www.adzuna.in/details/5876941138?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5877291221",
+      "title": "SOC Analyst",
+      "organization": "Sagility",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-09T21:35:30.000Z",
+      "description": "Sagility combines industry-leading technology and transformation-driven BPM services with decades of healthcare domain expertise to help clients draw closer to their members. The company optimizes the entire member/patient experience through service offerings for clinical, case management, member engagement, provider solutions, payment integrity, claims cost containment, and analytics. Sagility ha",
+      "url": "https://www.adzuna.in/details/5877291221?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5859123650",
+      "title": "SOC Analyst",
+      "organization": "Insight Direct India",
+      "location": "Delhi, India",
+      "type": "Full-time",
+      "postedDate": "2026-08-28T07:37:53.000Z",
+      "description": "As a SOC Analyst, you will play a crucial role in our security operations. Along the way, you will get to: Incident Analysis: Analyze security notifications to identify potential security issues and thoroughly evaluate their impact and severity. Incident Response: Oversee the response to verified security incidents, including implementing containment measures and conducting in-depth investigations",
+      "url": "https://www.adzuna.in/details/5859123650?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5859123594",
+      "title": "SOC Analyst",
+      "organization": "Insight Direct India",
+      "location": "Pune, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-08-28T07:37:53.000Z",
+      "description": "As a SOC Analyst, you will play a crucial role in our security operations. Along the way, you will get to: Incident Analysis: Analyze security notifications to identify potential security issues and thoroughly evaluate their impact and severity. Incident Response: Oversee the response to verified security incidents, including implementing containment measures and conducting in-depth investigations",
+      "url": "https://www.adzuna.in/details/5859123594?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5879667877",
+      "title": "Penetration Tester",
+      "organization": "Dew Software",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-11T17:16:01.000Z",
+      "description": "Key Responsibilities Perform penetration testing on web applications, APIs, mobile applications, networks, cloud environments, and infrastructure. Identify and exploit security vulnerabilities using manual testing and industry-standard tools. Conduct vulnerability assessments and validate security findings. Perform reconnaissance, enumeration, exploitation, privilege escalation, and post-exploitat",
+      "url": "https://www.adzuna.in/land/ad/5879667877?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=3FC0B9B8162419A3892EAF7200672D93FEA63799",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5864424473",
+      "title": "Penetration Tester",
+      "organization": "Kore Pagamentos",
+      "location": "New Delhi, Delhi",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:20:22.000Z",
+      "description": "Offensive Security Engineer / Red Team Operator We are looking for a highly skilled Offensive Security Engineer / Red Team Operator to join our security team. This is a hands-on technical role for someone with strong experience in penetration testing, adversary simulation, vulnerability research, and offensive security tooling. You will work exclusively within authorized environments to identify w",
+      "url": "https://www.adzuna.in/land/ad/5864424473?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=19EBE30E73C31E573CB2839AB17194E602DB1536",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5880953069",
+      "title": "Penetration Tester",
+      "organization": "HCLSoftware",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-12T17:20:59.000Z",
+      "description": "Senior Penetration Tester HCL Software | Office of the CISO Location: India - Bangalore / Noida / Remote Type: Full-time About the Role HCL Software is seeking a Senior Penetration Tester to perform Continuous Threat Exposure Management (CTEM) and offensive security testing across our products and infrastructure. This role focuses on continuous attack surface discovery, attack path analysis, and r",
+      "url": "https://www.adzuna.in/land/ad/5880953069?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=0425FAF14BB3C390BA356339FBF5D796BA165956",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5864436319",
+      "title": "Penetration Tester",
+      "organization": "Soffit Infrastructure Services  Ltd",
+      "location": "Kochi, Ernakulam",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:29.000Z",
+      "description": "Job Overview: The Security Testing Engineer will be responsible for executing end-to-end security testing assignments, including vulnerability assessment, penetration testing, secure code reviews, and configuration assessments across systems, networks, web, mobile, and cloud environments. The role demands a blend of strong technical expertise, analytical thinking, and effective communication to en",
+      "url": "https://www.adzuna.in/land/ad/5864436319?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=FD57EE384BE73ECFE01407042BB5344154EA5B22",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5867270209",
+      "title": "Security Penetration Testing Consultant",
+      "organization": "Withum",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T21:46:17.000Z",
+      "description": "We are seeking a motivated and detail-oriented Security Penetration Testing Consultant with 2-3 years of hands-on experience performing security assessments and penetration tests. The ideal candidate combines strong technical security skills with clear communication, sound judgment, and a collaborative consulting mindset. This role supports client engagements by identifying vulnerabilities, explai",
+      "url": "https://www.adzuna.in/land/ad/5867270209?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=30A1455BF7741C6544CCBD7FF0CD1FD4F33B92B0",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5868789295",
+      "title": "Penetration Testing Pre-Sales Consultant",
+      "organization": "SHI Solutions India Pvt. Ltd.",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "postedDate": "2026-09-03T16:48:20.000Z",
+      "description": "JOB SUMMARY Serve as the technical subject matter expert for penetration testing opportunities. Work closely with Account Executives, Sales Teams, Solution Architects, Project Managers, and customers to understand requirements, define scope, prepare Statements of Work (SOWs), estimate effort, support proposal creation, and present penetration testing solutions. Act as the bridge between sales and ",
+      "url": "https://www.adzuna.in/land/ad/5868789295?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=65BDA7D14BCEB6EA4ED0F6CCDE0C7348F19BDC89",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5864433227",
+      "title": "Security Lead - Cyber Resilience",
+      "organization": "Eventus Security",
+      "location": "Navi Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:02.000Z",
+      "description": "Job Title: Security Lead Job Location: Sanpada, Navi Mumbai Experience: 6yrs Requirements Network & Infrastructure Security Testing Perform network traffic analysis to assess security risks in TCP/IP, routing, and switching. Conduct port and service enumeration to identify attack surfaces. Execute infrastructure penetration testing on identified services Web & Application Penetration Testing Ident",
+      "url": "https://www.adzuna.in/land/ad/5864433227?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=4BECF226C3A86A1710BC70C1803965CCB86EED43",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5882598640",
+      "title": "Infra VAPT Lead",
+      "organization": "Jio",
+      "location": "Delhi, India",
+      "type": "Full-time",
+      "postedDate": "2026-09-13T17:23:19.000Z",
+      "description": "Jio is inviting applications for the role Lead Infrastructure Penetration Testing for Navi Mumbai Requirements Qualification and Work Experience Qualification: BE / BTech (Similar Education Background) Work Experience: 10–15 Years 8 years of experience in Infrastructure Penetration Testing and Vulnerability Management, including practical experience with Linux and Windows operating systems. Thorou",
+      "url": "https://www.adzuna.in/land/ad/5882598640?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=6859C1D9EBCAB798155E954DEBDEAB945933940D",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5876011890",
+      "title": "VAPT",
+      "organization": "Tata Consultancy Services",
+      "location": "Kochi, Ernakulam",
+      "type": "Full-time",
+      "postedDate": "2026-09-09T01:00:28.000Z",
+      "description": "Skill: Application security / Penetration Testing/VAPT(OSCP) Experience: 5years Interview Date: 12th September 2026 Mode of Interview: In Person(F2F) Location: Kochi Job Description: 1 • Expertise and experience of conducting VAPT (Vulnerability Assessment and Penetration Testing) as per standards such as OWASP Top 10, SANS Top 25 and WASC, NIST, CISA 2 • Experience in Web Application Security Tes",
+      "url": "https://www.adzuna.in/land/ad/5876011890?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=682483A2AA87C6D29E673365F5E31AE407992F05",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5880953094",
+      "title": "Cyber Security Senior Analyst",
+      "organization": "Evernorth Health Services",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "postedDate": "2026-09-12T17:21:00.000Z",
+      "description": "Penetration Testing, is responsible for conducting vulnerability assessments, threat modeling, penetration tests, and red team campaigns of Cigna’s IT infrastructure and applications. This role will work closely with the Information Protection Senior Manager to identify, evaluate, and remediate potential weaknesses in Cigna’s systems, using both manual and automated methods. About Cigna Cigna is a",
+      "url": "https://www.adzuna.in/land/ad/5880953094?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=71F568E4FF34088EF7F755AD20E256FA5A27A9F7",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5864424800",
+      "title": "Security Engineer - VAPT",
+      "organization": "TAC Security",
+      "location": "Delhi, India",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:20:28.000Z",
+      "description": "Job description As a Security Engineer - VAPT, you will be responsible for conducting comprehensive security assessments, identifying vulnerabilities, and implementing effective remediation strategies. Leveraging your expertise in penetration testing and ethical hacking, you will play a key role in enhancing the security posture of our clients' systems and networks. This position offers an excitin",
+      "url": "https://www.adzuna.in/land/ad/5864424800?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=2BE103483D0C95E89A88A730D8A35A4B602CE3F9",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5880952512",
+      "title": "VAPT Analyst",
+      "organization": "AuthenticOne",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-12T17:20:34.000Z",
+      "description": "Job Title: VAPT Analyst Location: Bengaluru Department: Cybersecurity – Offensive Security Experience: 1-2 years Employment Type: Full-time About Us: AuthenticOne is a CERT-In empanelled and CREST Accredited Cybersecurity solutions and services company with expertise in consulting, advisory, and risk management. AuthenticOne specializes in Comprehensive Compliance Management, Vulnerability Assessm",
+      "url": "https://www.adzuna.in/land/ad/5880952512?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=ABE8F94D0BD64A994C135616CAF8E4C019C83882",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5882593409",
+      "title": "Senior Security Engineer",
+      "organization": "Insight Global",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-13T17:19:13.000Z",
+      "description": "Our client’s Information Security team is seeking a Senior Security Engineer with strong expertise in Product Security to lead and enhance secure software development practices across the organization. This role focuses on integrating security into the Software Development Lifecycle (SDLC), identifying and mitigating application vulnerabilities, and guiding development teams on secure coding and a",
+      "url": "https://www.adzuna.in/land/ad/5882593409?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=0C56DC31663BA247F6722DCC9F918FA387DD635C",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5864429192",
+      "title": "Cloud Security Lead",
+      "organization": "Simelabs - Digital, AI/ML, Automation, Robotics, Gen AI.",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:21:26.000Z",
+      "description": "Cloud Security Lead Role Purpose You will be responsible for ensuring the real-time security posture of the cloud platform and applications , including detection, validation, and response to vulnerabilities, threats, and misconfigurations. You will act as the independent security control function , ensuring that all infrastructure and platforms built and operated by engineering teams remain secure",
+      "url": "https://www.adzuna.in/land/ad/5864429192?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=51D580992C1BCB2CDCE36FE1D50D17774BCD5388",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5864439053",
+      "title": "SAP Testing Expert",
+      "organization": "NexSAP Solutions",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:52.000Z",
+      "description": "Job Title : SAP Testing Expert Job Description : Penetration Testing, Data Warehouse/Analytics. Location : Remote, India(Offshore) Industry : Pharmaceutical Exp : 9 - 10 Years Time Zone : Central Europe Time 2.00 P.M. IST - 10.00 P.M. IST",
+      "url": "https://www.adzuna.in/land/ad/5864439053?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=ECC0C1FEDBEBCB0AC2ED774C1B01E690A19929B7",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5867222050",
+      "title": "Principal Security Engineer",
+      "organization": "GeoServe",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T21:28:07.000Z",
+      "description": "About the Role Geoserve Energy Transport is seeking a hands-on Principal Security Engineer to build, own, and run the organization's information and application security function. This is a working leadership role — you will personally drive vulnerability management, penetration testing, and perimeter security, not just oversee it. You'll be the single point of accountability for the security post",
+      "url": "https://www.adzuna.in/land/ad/5867222050?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=C9A8667F2D4F35406DD963F3D41FC8395BAC2FC3",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5873073642",
+      "title": "Security Engineer 3",
+      "organization": "Jupiter",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-06T18:33:35.000Z",
+      "description": "About Jupiter Jupiter was founded in 2019 by Jitendra Gupta, best known as the founder of Citrus Pay. The idea was simple: why should personal finance be the one experience that isn't customer-centric? That question sparked a mission to build a modern, intuitive platform that puts people in control of their money. When we launched in 2021, over 100,000 people were already on the waitlist. Within 1",
+      "url": "https://www.adzuna.in/land/ad/5873073642?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=5B56EA4ADFA3C51BD0DE2CED0947B461CC5D628D",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5870527067",
+      "title": "Information Security Technical Instructor",
+      "organization": "EmpowerED Careers",
+      "location": "Chennai, Tamil Nadu",
+      "type": "Full-time",
+      "postedDate": "2026-09-04T16:57:16.000Z",
+      "description": "Job Title Cybersecurity Trainer / Information Security Technical Instructor Job Type Full-Time Location Chennai Experience Required 2–4 Years Job Summary We are looking for an experienced Cybersecurity Trainer to deliver hands-on and industry-oriented training in cybersecurity, ethical hacking, network security, cloud security, vulnerability assessment, and security operations. The trainer will me",
+      "url": "https://www.adzuna.in/land/ad/5870527067?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=6A774EBF1244AB1197526F59CB44714D4472EE1F",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5867037299",
+      "title": "Senior Security Specialist",
+      "organization": "Lennox India Technology Centre",
+      "location": "Chennai, Tamil Nadu",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T16:43:23.000Z",
+      "description": "We are seeking a highly skilled Senior Security Specialist (IC3) with 6-9 years of experience in Application Security & Penetration Testing (VAPT), and security testing methodologies. The ideal candidate should possess strong expertise in DAST, API Security Testing, Mobile Application Security Testing (MAST) , and hands-on exposure to AI-driven security testing and AI security risks . This role wi",
+      "url": "https://www.adzuna.in/land/ad/5867037299?se=BNU-urWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=B4C105A968AAA2DD8137C2C6FA35DD6A0A661161",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5867038295",
+      "title": "Application Security Engineer @ Mumbai",
+      "organization": "Quess IT Staffing",
+      "location": "Navi Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T16:44:28.000Z",
+      "description": "Position: Application Security Engineer Location: Navi Mumbai Duration: Contract to Hire Job Description: Conduct comprehensive application security assessments across Web, Mobile (Android & iOS), APIs, and Cloud environments Conduct comprehensive application security assessments across web, mobile (Android & iOS), APIs, and cloud environments Perform secure design reviews to identify architectura",
+      "url": "https://www.adzuna.in/land/ad/5867038295?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=242055F725CC203E9B77C5EBFB708399CADBAA21",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5880433772",
+      "title": "Cyber Security Instructor",
+      "organization": "Cyber Heals",
+      "location": "Tiruchirappalli, Tamil Nadu",
+      "type": "Full-time",
+      "postedDate": "2026-09-12T06:58:41.000Z",
+      "description": "Responsibilities Deliver engaging and informative cybersecurity courses to college students covering topics such as network security, ethical hacking, cybersecurity fundamentals, and more. Facilitate hands-on lab exercises, simulations, and practical projects to enhance students' practical skills. Provide timely feedback to students on their performance and offer support to those who may be strugg",
+      "url": "https://www.adzuna.in/land/ad/5880433772?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=A0E824BB98B667BFBCFD11F0299F9711D64AC7AB",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5882597945",
+      "title": "Security Analyst",
+      "organization": "Virtual Clone",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-13T17:22:09.000Z",
+      "description": "Join our mission to make the digital world safer! As a Bug Bounty–Focused Security Analyst , you’ll work closely with our global community of ethical hackers, helping identify, validate, and escalate real-world vulnerabilities — ensuring organizations stay ahead of evolving cyber threats.  Your Role Review, validate, and triage vulnerability reports submitted by bug bounty hunters. Assess the impa",
+      "url": "https://www.adzuna.in/land/ad/5882597945?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=E6A5E5EAA2DB94E1AAD478490A8ED016D266C1F7",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5879663739",
+      "title": "Manager – Cyber Range Centre of Excellence",
+      "organization": "Dayananda Sagar University",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-11T17:13:11.000Z",
+      "description": "Title:- Manager – Cyber Range Centre of Excellence (CR-CoE) Location: Dayananda Sagar University, Main Campus, Harohalli-562112, Bengaluru Employment: Full-time Educational Qualifications B.Tech. / M.Tech. / MCA / MSc. in Computer Science, Information Technology, Electrical Engineering, Electronics & Communication Engineering, Cyber Security, or a closely related discipline. Candidates with demons",
+      "url": "https://www.adzuna.in/land/ad/5879663739?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=21428659F51CEB991FAECCBB7B20989A1B04A91D",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5879663763",
+      "title": "Cyber Security Instructor",
+      "organization": "HCLTech",
+      "location": "Noida, Ghaziabad",
+      "type": "Full-time",
+      "postedDate": "2026-09-11T17:13:11.000Z",
+      "description": "JD - Technical Trainer – Cybersecurity Position: Technical Trainer – Cyber Security Job Location: Noida Experience: 5-10 years Type of Employment: Fulltime Company: HCLTech - EdTech Website: https://www.hcltech.com/career-shaper PURPOSE OF ROLE We seek a proficient Security Trainer specializing in Cybersecurity domains such as Infrastructure Security, Cloud Security, Network Security, Application ",
+      "url": "https://www.adzuna.in/land/ad/5879663763?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=AE5F18AC30DF8F97D542E7180EAEAF2F9BB05C94",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5867222182",
+      "title": "Security Analyst - IT GRC & Audit (CSCRF)",
+      "organization": "Kotak Alternate Asset Managers Limited",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T21:28:09.000Z",
+      "description": "Job Title: Security Analyst / Security Engineer Location: Mumbai Department: Information Technology Role Level: Manager / Senior Manager Reports To: CTO / CISO / VP – Technology Job Summary The Security Analyst / Security Engineer will be responsible for defining, implementing, and managing the organization’s enterprise information security vision, strategy, and programs to ensure that information",
+      "url": "https://www.adzuna.in/land/ad/5867222182?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=838D61C006A350A51BCC0CDBE73132243B85A3C1",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5882593335",
+      "title": "International Sales Manager - B2C",
+      "organization": "EC-Council",
+      "location": "Mumbai, Maharashtra",
+      "type": "Internship",
+      "postedDate": "2026-09-13T17:19:02.000Z",
+      "description": "Job Title: International Sales Manager – B2C Location: Mumbai (Goregaon) EC-Council is the world’s largest cyber security technical certification body. We operate in 145 countries globally and we are the owner and developer of various world-famous cyber security programs. We are proud to have trained and certified over 400,000 information security professionals globally that have influenced the cy",
+      "url": "https://www.adzuna.in/land/ad/5882593335?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=C1D23585D477F99D7F86628C1A03B3608F81CF00",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking",
+        "Internship"
+      ]
+    },
+    {
+      "id": "adzuna-5884158486",
+      "title": "Senior Manager - Partner Enablement & Support",
+      "organization": "EC-Council",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "postedDate": "2026-09-15T07:07:38.000Z",
+      "description": "Senior Manager - Partner Enablement & Support Location: Hyderabad About Us EC-Council is the world's largest cyber security technical certification body. We operate in 145 countries globally and we are the owner and developer of various world-famous cyber security programs. We are proud to have trained and certified over 400,000 information security professionals globally that have influenced the ",
+      "url": "https://www.adzuna.in/land/ad/5884158486?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=AD15EB6BC04D288BCA6D6A433C45F727474810DC",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5884159987",
+      "title": "Lead - Corporate Services",
+      "organization": "EC-Council",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "postedDate": "2026-09-15T07:08:56.000Z",
+      "description": "Job Title: Lead – Corporate Services Location: Hyderabad EC-Council is the world’s largest cyber security technical certification body. We operate in 170 countries globally and are the owner and developer of various world-famous cyber security programs. We are proud to have trained and certified over 400,000 information security professionals globally who have influenced the cyber security mindset",
+      "url": "https://www.adzuna.in/land/ad/5884159987?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=A636E5E017ADB795CD4D020CBAA7C22F64DE4B5E",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5873073977",
+      "title": "Channel Sales Manager",
+      "organization": "EC-Council",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-06T18:34:21.000Z",
+      "description": "Job Title: Channel Sales Manager Location: Mumbai (Goregaon) EC-Council is the world’s largest cyber security technical certification body. We operate in 145 countries globally and we are the owner and developer of various world-famous cyber security programs. We are proud to have trained and certified over 400,000 information security professionals globally that have influenced the cyber security",
+      "url": "https://www.adzuna.in/land/ad/5873073977?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=B2F0D2F6B28CC9C289FEE3C877E0F8937C32F405",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5884159573",
+      "title": "Program Manager - Certification Development",
+      "organization": "EC-Council",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-15T07:08:41.000Z",
+      "description": "Job Title: Program Manager – Certification Development Location: Remote EC-Council is the world’s largest cyber security technical certification body. We operate in 170 countries globally and we are the owner and developer of various world-famous cyber security programs. We are proud to have trained and certified over 400,000 information security professionals globally that have influenced the cyb",
+      "url": "https://www.adzuna.in/land/ad/5884159573?se=AMrZurWx8RGw1MQ6jx-GBQ&utm_medium=api&utm_source=6848710c&v=45CB997705E476B01118F9DD1B1561808FB3AD3B",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5848408738",
+      "title": "Patch Management Consultant_MAST",
+      "organization": "BSR & Co",
+      "location": "Gurgaon, Haryana",
+      "type": "Full-time",
+      "postedDate": "2026-08-19T21:00:51.000Z",
+      "description": "Description *Description for Internal Candidates Roles and Responsibilities: Web PT -Consultant Perform manual application penetration tests on one or more of the following to discover and exploit vulnerabilities: web applications, internal applications, APIs, internal and mobile applications Ability to independently research for new vulnerabilities in systems and software and modify and customize",
+      "url": "https://www.adzuna.in/details/5848408738?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5849674713",
+      "title": "Web App PT Consultant_MAST",
+      "organization": "BSR & Co",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-08-20T20:42:18.000Z",
+      "description": "Description *Description for Internal Candidates Roles and Responsibilities: Web PT -Consultant Perform manual application penetration tests on one or more of the following to discover and exploit vulnerabilities: web applications, internal applications, APIs, internal and mobile applications Ability to independently research for new vulnerabilities in systems and software and modify and customize",
+      "url": "https://www.adzuna.in/details/5849674713?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5867035736",
+      "title": "Information Security Analyst",
+      "organization": "ACL Digital",
+      "location": "Chennai, Tamil Nadu",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T16:41:35.000Z",
+      "description": "Information Security & QMS Analyst Experience: 2–5 Years | Locations: Chennai (1) | Bengaluru (1) Role Overview Support Information Security, Data privacy, QMS activities, including audits, contract reviews, project security assessments, in alignment with ISO 9001 and ISO 27001. This is a work-from-office role. Core Responsibilities: Audits & Assessments – Coordinate & support, external audit cert",
+      "url": "https://www.adzuna.in/land/ad/5867035736?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=BB6EEDDE8F42A465C710E294B4460DF5D0C81112",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5870526912",
+      "title": "Information Security Analyst",
+      "organization": "Banyan Cloud",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-04T16:57:12.000Z",
+      "description": "About Banyan Cloud Banyan Cloud is providing the next generation of Cybersecurity-as-a-Service, combining SOC operations, cloud security, On-Premises IT security, identity governance, data security, and compliance into a unified control plane. Our platform enables organizations to move from alert-driven monitoring to automated, policy-driven security operations—leveraging SIEM, SOAR, EDR/XDR, and ",
+      "url": "https://www.adzuna.in/land/ad/5870526912?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=7F923C48741D44E95D7BC12AA8E2E5A0A7202D4E",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5873074098",
+      "title": "Information Security Engineer",
+      "organization": "BrightEdge",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-06T18:34:41.000Z",
+      "description": "About BrightEdge BrightEdge is a leading enterprise SEO and content performance platform that helps companies understand how their digital content drives real business results. Founded in 2007, we’re trusted by thousands of organizations across more than 80 countries, including brands like Microsoft and Visa. Our platform combines powerful data and AI-driven insights allowing our customers to plan",
+      "url": "https://www.adzuna.in/land/ad/5873074098?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=AE405CD3032E19E5930DE096557921496CA11E97",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5884588234",
+      "title": "Information Security Manager",
+      "organization": "Tata Electronics",
+      "location": "Krishnagiri, Tamil Nadu",
+      "type": "Full-time",
+      "postedDate": "2026-09-15T17:26:14.000Z",
+      "description": "About the Company Tata Electronics is a prominent global player in the electronics manufacturing industry, with fast-emerging capabilities in Electronics Manufacturing Services, Semiconductor Assembly and Test, Semiconductor Foundry, and Design Services. Established in 2020 as a greenfield venture of the Tata Group, the company aims to serve global customers through integrated offerings across a t",
+      "url": "https://www.adzuna.in/land/ad/5884588234?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=481A2644692B98FBF0E3DAFB0EA14444AACAE92A",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5864439635",
+      "title": "Head of Information Security",
+      "organization": "Aurigo Software Technologies",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:58.000Z",
+      "description": "About Aurigo Aurigo is an AI-native capital program management platform trusted by over 300 customers managing more than $450 billion in capital programs across North America. With over 40,000 projects delivered, Aurigo helps organisations in transportation, water and utilities, healthcare, higher education, and government plan, build, and manage infrastructure with confidence. Recognised as one o",
+      "url": "https://www.adzuna.in/land/ad/5864439635?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=5552D9BF3FB4891687238A589E99A3615FA0251A",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5864436441",
+      "title": "Chief Information Security Officer",
+      "organization": "DOHA BANK",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:30.000Z",
+      "description": "Chief Information Security Officer Location: Nariman Point, Mumbai Role Objective: The incumbent will work closely with the Group Chief Information Security Officer and Country Manager India in efficient formulation, implementation and management of the Bank's information security policy(s) and compliance programs pertaining to India Operations. The incumbent will ensure efficient management of In",
+      "url": "https://www.adzuna.in/land/ad/5864436441?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=4997057B22DC025A1CEFF8BBC0FC8F135617F6CE",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5882598289",
+      "title": "Chief Information Security Officer",
+      "organization": "Yotta Data Services Private Limited",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-13T17:22:35.000Z",
+      "description": "Job Description – Chief Information Security Officer (CISO) Job Location : Mumbai Job Scope The Chief Information Security Officer (CISO) is a senior executive responsible for overseeing and managing the security of an organization's information assets. The CISO develops and implements the organization's information security strategy while ensuring the confidentiality, integrity, and availability ",
+      "url": "https://www.adzuna.in/land/ad/5882598289?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=D1BCF71FCA4133052B9EC7DC20EB2D8ECC339EEF",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5864435138",
+      "title": "Information Security Manager (CISSP)",
+      "organization": "Deloitte",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:16.000Z",
+      "description": "The team The Enabling Areas – Information Technology team is responsible for building & maintaining different applications for Deloitte that focuses on providing employee experience. Your work profile Manage client security assessments and due diligence responses. Manage security requirements in customer contracts and agreements. Maintain information security policies, standards, and governance. E",
+      "url": "https://www.adzuna.in/land/ad/5864435138?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=8C6366C4FA68D98BFFA75DE86AAD10C722C20A36",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5880952031",
+      "title": "Chief Information Security Officer",
+      "organization": "Equirus Wealth",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-12T17:20:10.000Z",
+      "description": "Job Role: Align security initiatives with overall business objectives and translate complex technical risks into financial impacts for the board of directors. Conduct continuous risk assessments, oversee governance and compliance with various regulations (e.g., DPDP Act, IT Act), and timely closure of security audits (Cyber, CSCRF, VAPT, ACCP, etc.) and submission to RBI, SEBI, AMFI, BSE, NSE (as ",
+      "url": "https://www.adzuna.in/land/ad/5880952031?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=C51FE7D060B14F0331BEC1E1A26373037B6777A8",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5864427967",
+      "title": "Information Security GRC Manager",
+      "organization": "Mount Talent Consulting Pvt Ltd.",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:21:13.000Z",
+      "description": "Urgent Opening – Information Security GRC Manager  Location: Mumbai – Vikhroli  Education: Full-time Graduation mandatory ( No Diploma candidates ) ⏳ Notice Period: September joiners only   Experience: 8–10 years Key Requirements 8–10 years of experience in Information Security, Risk, Compliance, or Audit Minimum 4–5 years of dedicated GRC experience Hands-on experience managing ISMS in an ISO 270",
+      "url": "https://www.adzuna.in/land/ad/5864427967?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=8B1311BF990DB3F0F73F563BA4EDA9CE82FA50CD",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5867221943",
+      "title": "Chief Information Security Officer",
+      "organization": "FundsIndia",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T21:28:02.000Z",
+      "description": "Designation: Chief Information Security Officer (CISO) Experience: 10–15 years in information/cyber security, including 5 years leading security in BFSI, broking, AMC, or depository environments Qualification: B.E./B.Tech (CS/IT/Electronics) or equivalent; MBA/M.Tech preferred Location: Bangalore/Chennai About The Role We are looking for a Chief Information Security Officer to own and continuously",
+      "url": "https://www.adzuna.in/land/ad/5867221943?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=90DA47D870953E3865AFB5A46DCB199DF80F7065",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5871227801",
+      "title": "Information Security Specialist, AVP",
+      "organization": "Deutsche Bank",
+      "location": "Pune, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-05T06:18:56.000Z",
+      "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description The Technology Data Innovation (TDI) Chief Security Office (CSO) comprises both Corporate Security and Information Security. We run security operations globally to protect the b",
+      "url": "https://www.adzuna.in/land/ad/5871227801?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=88F38BE8CCA5A5F1FACED66FB88A80F154D7D85F",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5880953028",
+      "title": "Senior Manager Information Security",
+      "organization": "NetAmbit",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-12T17:20:59.000Z",
+      "description": "Urgently Hiring - Please Read We’re Hiring | Sr Manager/ GM – InfoSec Technology (SME)  Location: [Noida]  Work Schedule: 6 Days/Week Salary : upto 23 lacs CTC or basis your last Drawn  Reporting To: Head – IT Security Ops & Incident Response  The Mission We are looking for a seasoned Information Security leader and technical SME who can architect, govern, and evolve our enterprise security techno",
+      "url": "https://www.adzuna.in/land/ad/5880953028?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=CE5E67B1A026CE05B510210900331ACE7AF85363",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5880951707",
+      "title": "Senior Manager - Information Security",
+      "organization": "Etenico Technologies",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-12T17:19:47.000Z",
+      "description": "Profile- Senior Manager - Information Security Exp- 8 Location Bengaluru, India (hybrid) — global remit across US, India, Colombia, Philippines Team Security architects and domain specialists (application, infrastructure, cloud) Role Purpose Modern enterprises do not get breached in the application or in the infrastructure — they get breached in the space between them. APIs, data pipelines, servic",
+      "url": "https://www.adzuna.in/land/ad/5880951707?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=04E8BE0DA3F1368A669E46ECB02AF359C4E85F70",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5864436648",
+      "title": "Chief Information Security Officer",
+      "organization": "Credence HR Services",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:31.000Z",
+      "description": "Role: Senior Director - CISO (Chief Information Security Officer) Location: Mumbai, Pune, Bengaluru Role Summary: Own the security strategy, governance, and risk posture across the AI Platforms (AIP) portfolio, including Engineering Platforms (Flowsource, Neuro IT Ops, Neuro AI Engineering, Skygrade, Ignition) and Business Platforms (TriZetto, Meritsoft, OrderServ), with a mandate to implement a m",
+      "url": "https://www.adzuna.in/land/ad/5864436648?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=3B8806387148C16FAA4A6AD5947C317AFC630A4E",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5867270198",
+      "title": "Senior GRC Analyst - Information Security",
+      "organization": "True Balance",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-02T21:46:17.000Z",
+      "description": "About True Balance Owned and operated by BalanceHero Group, True Balance is an RBI authorized Prepaid Payment Instrument (PPI) issuing entity. It offers loans through its subsidiary and RBI licensed Non-Banking Financial Company - True Credits Private Limited and other RBI licensed partners. Founded in 2016, as a mobile app for users in India to efficiently manage their phone calls and data usage,",
+      "url": "https://www.adzuna.in/land/ad/5867270198?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=C210AD741506C8097F24D4374B7536300E614D76",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5876869682",
+      "title": "Associate Director - Information Security & GRC",
+      "organization": "Taggd",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-09T14:44:08.000Z",
+      "description": "About Taggd Taggd is a digital recruitment platform that provides Ready-to-Hire talent to India Inc. Combining the power of human knowledge and data, Taggd has successfully fulfilled talent mandates of more than 100 clients and ensured hiring managers' success for half a million jobs from 14 sectors. With a vision to fulfil 1 million jobs through our talent platform by 2030, we strive to connect p",
+      "url": "https://www.adzuna.in/land/ad/5876869682?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=7D46807ED687395D385C398639C809D89CEB0819",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5864433351",
+      "title": "Engineer, Information Security (ForgeRock Programming)",
+      "organization": "Lowe's India",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-01T16:22:03.000Z",
+      "description": "About Lowe’s Lowe's Companies, Inc. (NYSE: LOW) is a FORTUNE® 100 home improvement company serving approximately 16 million customer transactions a week, with total fiscal year 2024 sales of more than $83 billion. Lowe's employs approximately 300,000 associates and operates over 1,700 home improvement stores, 530 branches and 130 distribution centers. Based in Mooresville, N.C., Lowe's supports th",
+      "url": "https://www.adzuna.in/land/ad/5864433351?se=smKnu7Wx8RGxLfofkiVxIw&utm_medium=api&utm_source=6848710c&v=DCB885E00F51877738A6C1864EBCFE866A4598A7",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    }
+  ],
   "events": [],
   "scholarships": []
 }
