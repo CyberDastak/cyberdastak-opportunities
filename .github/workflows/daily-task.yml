@@ -36,10 +36,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: ⚙️ Setup Node.js 20
+      - name: ⚙️ Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: 'npm'
 
       - name: 📦 Install Dependencies
@@ -69,6 +69,8 @@ jobs:
 
       - name: 🌐 Setup GitHub Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: 📤 Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
