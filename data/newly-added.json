@@ -1,15 +1,92 @@
 {
-  "fetchedAt": "2026-09-16T10:25:25.000Z",
+  "fetchedAt": "2026-09-17T03:39:15.689Z",
   "counts": {
-    "totalJobs": 84,
+    "totalJobs": 67,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 0,
+    "newJobs": 5,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 0
+    "totalNew": 5
   },
-  "jobs": [],
+  "jobs": [
+    {
+      "id": "adzuna-5886096147",
+      "title": "Cybersecurity Staff",
+      "organization": "LBMC",
+      "location": "Chennai, Tamil Nadu",
+      "type": "Full-time",
+      "postedDate": "2026-09-16T17:26:55.000Z",
+      "description": "JOB SUMMARY This Cybersecurity Consultant role is a great opportunity for anyone passionate about technology and innovation and is looking to step into a highly visible role with a diverse set of clients across the US. You would be joining a progressive office in Nashville and receive mentorship from innovative team members and seasoned industry professionals. This team is highly collaborative, so",
+      "url": "https://www.adzuna.in/land/ad/5886096147?se=wFSJWUmy8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=6848710c&v=DB6A2DA1B7ABEDF994930EDC4740F22221EC34A4",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5886096436",
+      "title": "Cybersecurity Specialist (Remote)",
+      "organization": "Quik Hire Staffing",
+      "location": "India (Remote)",
+      "type": "Full-time",
+      "postedDate": "2026-09-16T17:28:09.000Z",
+      "description": "Role : Cybersecurity Specialist (Remote) Location : Remote (Work from Anywhere) Role Overview: We are hiring for one of our clients, seeking a Penetration Tester to work on a Full-Time basis. The role involves identifying and exploiting vulnerabilities in systems, networks, and applications to assess security posture. Responsibilities include conducting manual and automated penetration testing, do",
+      "url": "https://www.adzuna.in/land/ad/5886096436?se=wFSJWUmy8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=6848710c&v=76BCB4ED83E45793B00FE68F705113BB824BD4A4",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity",
+        "Remote"
+      ]
+    },
+    {
+      "id": "adzuna-5886096702",
+      "title": "AI Security and pentesting",
+      "organization": "eSec Forte® Technologies",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-16T17:29:05.000Z",
+      "description": "Key Responsibilities Perform in-depth penetration testing of web applications and APIs, identifying and exploiting vulnerabilities aligned with OWASP Top 10 and OWASP API Security Top 10. Conduct specialized security assessments for AI/LLM systems, including analysis of Agentic AI workflows and security considerations related to Model Context Protocol (MCP). Utilize tools such as Burp Suite for we",
+      "url": "https://www.adzuna.in/land/ad/5886096702?se=gCZMWkmy8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=6848710c&v=6F818DF657BC87177D9FE288B08138D049B32250",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5886096599",
+      "title": "Cybersecurity Researcher — AI-Powered VAPT",
+      "organization": "SecNinjaz Technologies LLP",
+      "location": "Delhi, India",
+      "type": "Full-time",
+      "postedDate": "2026-09-16T17:28:46.000Z",
+      "description": "Cybersecurity Researcher — AI-Powered VAPT SecNinjaz Technologies LLP Experience: 1–2 years; maximum 2 years Certification: OSCP mandatory Department: Internal Research & Product Development Compensation: Based on skills and experience, within a fixed approved budget About SecNinjaz Technologies SecNinjaz Technologies LLP is a New Delhi-headquartered cybersecurity and technology company working ac",
+      "url": "https://www.adzuna.in/land/ad/5886096599?se=gCZMWkmy8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=6848710c&v=A0779E1E17827DCE995F5FA6AE02B6983439E6E1",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5876872463",
+      "title": "Senior Associate- Information Security and Infra",
+      "organization": "upGrad",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-09T14:46:25.000Z",
+      "description": "The Senior Associate will manage and strengthen the organization’s information-security posture, Google Workspace environment, endpoints, and core IT infrastructure. The role will lead the migration from Microsoft 365 to Google Workspace and support secure, reliable day-to-day technology operations, compliance activities, incident response, and infrastructure improvements. Key Responsibilities: 1.",
+      "url": "https://www.adzuna.in/land/ad/5876872463?se=4HfbWkmy8RGRr_JonSYGrg&utm_medium=api&utm_source=6848710c&v=E43AF483D9B5D9E2CDB3CE003FB524693DCBEBEB",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    }
+  ],
   "events": [],
   "scholarships": []
 }
