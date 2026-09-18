@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-09-17T03:39:15.689Z",
+  "fetchedAt": "2026-09-18T03:37:44.243Z",
   "counts": {
-    "totalJobs": 67,
+    "totalJobs": 65,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 5,
+    "newJobs": 9,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 5
+    "totalNew": 9
   },
   "jobs": [
     {
-      "id": "adzuna-5886096147",
-      "title": "Cybersecurity Staff",
-      "organization": "LBMC",
-      "location": "Chennai, Tamil Nadu",
+      "id": "adzuna-5886094484",
+      "title": "Sales Manager - Cybersecurity/Technology",
+      "organization": "KestrelSec India Private Limited",
+      "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-09-16T17:26:55.000Z",
-      "description": "JOB SUMMARY This Cybersecurity Consultant role is a great opportunity for anyone passionate about technology and innovation and is looking to step into a highly visible role with a diverse set of clients across the US. You would be joining a progressive office in Nashville and receive mentorship from innovative team members and seasoned industry professionals. This team is highly collaborative, so",
-      "url": "https://www.adzuna.in/land/ad/5886096147?se=wFSJWUmy8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=6848710c&v=DB6A2DA1B7ABEDF994930EDC4740F22221EC34A4",
+      "postedDate": "2026-09-16T17:24:49.000Z",
+      "description": "KestrelSec is looking for a Sales Manager to own and grow our cybersecurity revenue across MSME and SMB accounts in India. This is a relationship-first, field-oriented sales role. You will bring an existing book of contacts across BFSI, Government, Defence, Manufacturing, and allied verticals and the credibility to walk into a room with a founder, CFO, or IT head and earn their trust quickly. Key ",
+      "url": "https://www.adzuna.in/land/ad/5886094484?se=SiivTRKz8RGWEPVu98_4YQ&utm_medium=api&utm_source=6848710c&v=DE5746DD4248B08A5F4400EB9137460625B28F09",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,60 +26,120 @@
       ]
     },
     {
-      "id": "adzuna-5886096436",
-      "title": "Cybersecurity Specialist (Remote)",
-      "organization": "Quik Hire Staffing",
-      "location": "India (Remote)",
-      "type": "Full-time",
-      "postedDate": "2026-09-16T17:28:09.000Z",
-      "description": "Role : Cybersecurity Specialist (Remote) Location : Remote (Work from Anywhere) Role Overview: We are hiring for one of our clients, seeking a Penetration Tester to work on a Full-Time basis. The role involves identifying and exploiting vulnerabilities in systems, networks, and applications to assess security posture. Responsibilities include conducting manual and automated penetration testing, do",
-      "url": "https://www.adzuna.in/land/ad/5886096436?se=wFSJWUmy8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=6848710c&v=76BCB4ED83E45793B00FE68F705113BB824BD4A4",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity",
-        "Remote"
-      ]
-    },
-    {
-      "id": "adzuna-5886096702",
-      "title": "AI Security and pentesting",
-      "organization": "eSec Forte® Technologies",
+      "id": "adzuna-5886097556",
+      "title": "Senior Analyst - SOC",
+      "organization": "GRAMAX",
       "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-09-16T17:29:05.000Z",
-      "description": "Key Responsibilities Perform in-depth penetration testing of web applications and APIs, identifying and exploiting vulnerabilities aligned with OWASP Top 10 and OWASP API Security Top 10. Conduct specialized security assessments for AI/LLM systems, including analysis of Agentic AI workflows and security considerations related to Model Context Protocol (MCP). Utilize tools such as Burp Suite for we",
-      "url": "https://www.adzuna.in/land/ad/5886096702?se=gCZMWkmy8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=6848710c&v=6F818DF657BC87177D9FE288B08138D049B32250",
+      "postedDate": "2026-09-16T17:33:09.000Z",
+      "description": "Position Title: Sr. Analyst – SOC Business / Function: GRAMAX Cybertech Department / Sub-Department: Cyber Security Location: Delhi 1. Key Accountabilities Responsibilities/duties associated with the job. Where defined, the Key Performance Indicator (KPI) used to judge performance is listed beneath the accountability. Continuous monitoring of security alerts and respond to the incidents as per the",
+      "url": "https://www.adzuna.in/land/ad/5886097556?se=aM8HThKz8RGv64qE4zjWDA&utm_medium=api&utm_source=6848710c&v=B0544A8C736785C051C2B45FC27A63BD9FD86EFC",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "penetration testing"
+        "SOC analyst"
       ]
     },
     {
-      "id": "adzuna-5886096599",
-      "title": "Cybersecurity Researcher — AI-Powered VAPT",
-      "organization": "SecNinjaz Technologies LLP",
-      "location": "Delhi, India",
+      "id": "adzuna-5886606090",
+      "title": "Analyst - WAF and Zero Trust Engineer",
+      "organization": "Alignity",
+      "location": "Shaikpet, Hyderabad",
       "type": "Full-time",
-      "postedDate": "2026-09-16T17:28:46.000Z",
-      "description": "Cybersecurity Researcher — AI-Powered VAPT SecNinjaz Technologies LLP Experience: 1–2 years; maximum 2 years Certification: OSCP mandatory Department: Internal Research & Product Development Compensation: Based on skills and experience, within a fixed approved budget About SecNinjaz Technologies SecNinjaz Technologies LLP is a New Delhi-headquartered cybersecurity and technology company working ac",
-      "url": "https://www.adzuna.in/land/ad/5886096599?se=gCZMWkmy8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=6848710c&v=A0779E1E17827DCE995F5FA6AE02B6983439E6E1",
+      "postedDate": "2026-09-17T01:15:46.000Z",
+      "description": "About the role Join Deloitte to support global cybersecurity initiatives by deploying and maintaining Web Application Firewalls and Zero Trust Proxy systems. This role focuses on enhancing application and network security through configuration, monitoring, and collaboration with cross-functional teams. Key responsibilities Deploy, configure, and maintain Web Application Firewall systems to protect",
+      "url": "https://www.adzuna.in/land/ad/5886606090?se=vm2aThKz8RG-HvXocs6iYQ&utm_medium=api&utm_source=6848710c&v=FE0DC1E6D42A9AD730C86E40A25E30D96A79167A",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "penetration testing"
+        "ethical hacking"
       ]
     },
     {
-      "id": "adzuna-5876872463",
-      "title": "Senior Associate- Information Security and Infra",
-      "organization": "upGrad",
+      "id": "adzuna-5882593335",
+      "title": "International Sales Manager",
+      "organization": "EC-Council",
+      "location": "Mumbai, Maharashtra",
+      "type": "Internship",
+      "postedDate": "2026-09-13T17:19:02.000Z",
+      "description": "Job Title: International Sales Manager Location: Mumbai (Goregaon) EC-Council is the world’s largest cyber security technical certification body. We operate in 145 countries globally and we are the owner and developer of various world-famous cyber security programs. We are proud to have trained and certified over 400,000 information security professionals globally that have influenced the cyber se",
+      "url": "https://www.adzuna.in/land/ad/5882593335?se=vm2aThKz8RG-HvXocs6iYQ&utm_medium=api&utm_source=6848710c&v=C1D23585D477F99D7F86628C1A03B3608F81CF00",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking",
+        "Internship"
+      ]
+    },
+    {
+      "id": "adzuna-5868111855",
+      "title": "DevSecOps",
+      "organization": "TimesPro",
       "location": "Mumbai, Maharashtra",
       "type": "Full-time",
-      "postedDate": "2026-09-09T14:46:25.000Z",
-      "description": "The Senior Associate will manage and strengthen the organization’s information-security posture, Google Workspace environment, endpoints, and core IT infrastructure. The role will lead the migration from Microsoft 365 to Google Workspace and support secure, reliable day-to-day technology operations, compliance activities, incident response, and infrastructure improvements. Key Responsibilities: 1.",
-      "url": "https://www.adzuna.in/land/ad/5876872463?se=4HfbWkmy8RGRr_JonSYGrg&utm_medium=api&utm_source=6848710c&v=E43AF483D9B5D9E2CDB3CE003FB524693DCBEBEB",
+      "postedDate": "2026-09-03T07:57:18.000Z",
+      "description": "Compliance and Governance Compliance Standards: Ensure adherence to GDPR, HIPAA, PCI DSS, and other standards. Maintain audit trails with AWS CloudTrail and Bitbucket Activity Logs. Vulnerability Assessment, Penetration Testing (VAPT), and Hardening Assessments: Perform regular vulnerability assessments on AWS resources using tools like AWS Inspector, Nessus, or Qualys. Service Hardening: Apply AW",
+      "url": "https://www.adzuna.in/details/5868111855?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5886098936",
+      "title": "Information Security Manager",
+      "organization": "Focaloid Technologies",
+      "location": "Kochi, Ernakulam",
+      "type": "Full-time",
+      "postedDate": "2026-09-16T17:34:48.000Z",
+      "description": "About the Role We are looking for a hands-on and execution-oriented Information Security Manager to take end-to-end ownership of the organization's ISO/IEC 27001:2022 Information Security Management System (ISMS) while strengthening the organization's technical security, customer security assurance, Secure SDLC, and AI security practices. This is not a purely compliance or documentation-focused ro",
+      "url": "https://www.adzuna.in/land/ad/5886098936?se=anTJThKz8RG-HvXocs6iYQ&utm_medium=api&utm_source=6848710c&v=E5AC9CC5A97EC017CD62F3F24503CE01FD16C53D",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5886094468",
+      "title": "Information Security Manager",
+      "organization": "AVASO Technology Solutions",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-16T17:24:49.000Z",
+      "description": "Job Title - Manager Information Security Location - Mohali Role Summary / Job Purpose The InfoSec Lead is the security conscience of the Enterprise Technology & Enablement function. This is a player-coach role: the lead owns the security strategy and executes it. AVASO is building its security posture and this person sets the tone. The lead establishes the foundation, including compliance programm",
+      "url": "https://www.adzuna.in/land/ad/5886094468?se=anTJThKz8RG-HvXocs6iYQ&utm_medium=api&utm_source=6848710c&v=B25D0F0BC41A49492ED00221D93E41195327DC20",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5887061012",
+      "title": "PRINCIPAL INFORMATION SECURITY",
+      "organization": "TE Connectivity",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-17T08:30:58.000Z",
+      "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. Job Overview TE Connectivity is seeking a hands-on, an",
+      "url": "https://www.adzuna.in/land/ad/5887061012?se=anTJThKz8RG-HvXocs6iYQ&utm_medium=api&utm_source=6848710c&v=4A72634FBE8FADF42CC242A4F693794632CF1A30",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5886486625",
+      "title": "Technical Manager-Information Security",
+      "organization": "Allianz Commercial",
+      "location": "Trivandrum, Thiruvananthapuram",
+      "type": "Full-time",
+      "postedDate": "2026-09-16T22:34:55.000Z",
+      "description": "This job is with Allianz Commercial, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Role: Lead Specialist -Information Security / Technical Specialist - Information Security Location: Trivandrum / Pune Experience: 7 Skills: Information Security, Cyber Security, GRC, Individual Contributor C",
+      "url": "https://www.adzuna.in/land/ad/5886486625?se=anTJThKz8RG-HvXocs6iYQ&utm_medium=api&utm_source=6848710c&v=22A1D014EF96BB58D4B41118BE93DD37B94ADAF3",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
