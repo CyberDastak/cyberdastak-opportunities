@@ -1,144 +1,84 @@
 {
-  "fetchedAt": "2026-09-19T03:37:17.185Z",
+  "fetchedAt": "2026-09-20T03:38:11.615Z",
   "counts": {
-    "totalJobs": 73,
+    "totalJobs": 78,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 11,
+    "newJobs": 7,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 11
+    "totalNew": 7
   },
   "jobs": [
     {
-      "id": "adzuna-5889213379",
-      "title": "CyberSecurity - Senior",
-      "organization": "Spectral Consultants",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-09-18T17:28:07.000Z",
-      "description": "Spectral Consultants is Hiring | Senior – IT Audit, Cybersecurity & Risk Spectral Consultants is hiring for one of the leading global Accounting & Advisory firms for a Senior – IT Audit, Cybersecurity & Risk opportunity.  Location: Gurgaon / Bengaluru  Experience: 3–6 Years  Level: Senior  Key Skills • SOC 2 & SOX • ISO / NIST / HITRUST • IT Audit & IT Risk • ITGC & Application Controls • Cybersec",
-      "url": "https://www.adzuna.in/land/ad/5889213379?se=zFJVaNuz8RGqDvWccVQnlQ&utm_medium=api&utm_source=6848710c&v=3E72B8A51640586FD7DD28DAB5E176014B061C36",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5889219993",
-      "title": "Senior Cybersecurity Test Engineer",
-      "organization": "Luxoft",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-09-18T17:29:40.000Z",
-      "description": "Project Description: Our client, a leading manufacturer of high-end household appliances, is expanding into new smart product lines. As part of this strategic initiative, a large-scale global program is being implemented across the company's IP portfolio. This includes the development of new embedded software, enhancements to cloud infrastructure, and the creation of innovative interfaces within t",
-      "url": "https://www.adzuna.in/land/ad/5889219993?se=zFJVaNuz8RGqDvWccVQnlQ&utm_medium=api&utm_source=6848710c&v=9DB21C0C8FFEA0DDE055AFAEEF3EC95E7544A8BA",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5889222932",
-      "title": "Principle Penetration Tester – Red Team Expert",
-      "organization": "engineersmind",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-18T17:31:52.000Z",
-      "description": "Principal Penetration Tester – Red Team Location: Pune Experience: 7 years Role Type: Red Team / Offensive Security Key Responsibilities Conduct end-to-end Red Team engagements including reconnaissance, initial access, privilege escalation, lateral movement, persistence, and objective-based attacks. Perform enterprise-level penetration testing and adversary simulation across network, application, ",
-      "url": "https://www.adzuna.in/land/ad/5889222932?se=OI-xaNuz8RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=29B3CC00B7D214CA9CE2B0C802567B78475ECF79",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5889220287",
-      "title": "Security Engineer - OSCP",
-      "organization": "TAC Security",
-      "location": "Delhi, India",
-      "type": "Full-time",
-      "postedDate": "2026-09-18T17:29:49.000Z",
-      "description": "Role Purpose TAC Security is looking for a highly skilled Security Engineer – OSCP Certified with strong hands-on expertise in penetration testing, vulnerability assessment, application security, network security, and offensive security . The Security Engineer will be responsible for identifying, validating, and demonstrating security vulnerabilities across web applications, APIs, mobile applicati",
-      "url": "https://www.adzuna.in/land/ad/5889220287?se=OI-xaNuz8RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=06018A1C4459465979110BB1C93697912D8C5701",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5889679023",
-      "title": "Senior Engineer -Pentesting",
-      "organization": "Target",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-09-18T23:23:50.000Z",
-      "description": "About Us As a Fortune 50 company with more than 400,000 team members worldwide, Target is an iconic brand and one of America's leading retailers. Joining Target means promoting a culture of mutual care and respect and striving to make the most meaningful and positive impact. Becoming a Target team member means joining a community that values different voices and lifts each other up. Here, we belie",
-      "url": "https://www.adzuna.in/land/ad/5889679023?se=OI-xaNuz8RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=6C3FD302D8AADAE058F4D2098B52CCF1F5B483E5",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5889214071",
-      "title": "Cyber Security Engineer",
-      "organization": "Garmin Hyderabad",
-      "location": "Hyderabad, Telangana",
-      "type": "Full-time",
-      "postedDate": "2026-09-18T17:28:15.000Z",
-      "description": "POSITION SUMMARY: The Cyber Security Engineer is responsible for leading and executing advanced offensive security assessments, penetration testing, and red team operations to identify and mitigate critical security vulnerabilities and weaknesses in complex computer systems, networks, applications, and infrastructure. This role requires expert-level knowledge of security principles, advanced hacki",
-      "url": "https://www.adzuna.in/land/ad/5889214071?se=OI-xaNuz8RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=5E5E9B33AE0EE23E94092902FCB4AF708EA0DCE5",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5889222290",
-      "title": "Senior Application Security Specialist",
-      "organization": "Publicis Re:Sources",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-18T17:30:54.000Z",
-      "description": "About the Company: Publicis Re:Sources is at the core of Publicis Groupe, the world's largest communications company. We are the only full-service, end-to-end shared service organization in the industry, enabling Groupe agencies to do what they do best: innovate and transform for their clients. Formed in 1998 as a small team to service a few Publicis Groupe firms, Publicis Re:Sources has grown to ",
-      "url": "https://www.adzuna.in/land/ad/5889222290?se=OI-xaNuz8RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=7B9578E5135055F8BE9636FBE83C3F8721A7F5BE",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5889583515",
-      "title": "Position Title: Cybersecurity Trainer (Freelancer)",
-      "organization": "Geekspoc IT Services",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-09-18T21:59:55.000Z",
-      "description": "Position Overview The Cybersecurity Trainer is an expert responsible for designing, delivering, and refining advanced training programs in cybersecurity and ethical hacking. This specialist will equip individuals and teams with the knowledge and practical skills needed to defend against evolving digital threats, respond to incidents, and maintain robust security postures across organizations Key R",
-      "url": "https://www.adzuna.in/details/5889583515?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "ethical hacking"
-      ]
-    },
-    {
-      "id": "adzuna-5889223718",
-      "title": "Product Information Security Officer",
-      "organization": "HCLSoftware",
+      "id": "adzuna-5890610296",
+      "title": "Cybersecurity Risk Analyst",
+      "organization": "Vensure Employer Solutions",
       "location": "Noida, Ghaziabad",
       "type": "Full-time",
-      "postedDate": "2026-09-18T17:32:39.000Z",
-      "description": "Title: Product Information Security Officer Band: E5 Location: Noida/Bangalore Role Overview The Product Information Security Officer (PISO) is responsible for embedding security into product design, development, and delivery. This role bridges product management and security, ensuring that information security is a core product requirement rather than a post-release consideration. The PISO champi",
-      "url": "https://www.adzuna.in/land/ad/5889223718?se=eDn5aNuz8RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=032652388B1025B2AB31EF79D8D70F6F5B40C1F8",
+      "postedDate": "2026-09-19T17:31:11.000Z",
+      "description": "Information security analysts are responsible for improving the overall security posture of the organization. They evaluate, test and document security solutions and controls, and work closely with other security team members to remediate risk while ensuring the business can innovate. Candidate Experience Level 4 to 7 years of experience in Cybersecurity, including compliance, regulations, risk ma",
+      "url": "https://www.adzuna.in/land/ad/5890610296?se=pIRKs6S08RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=B7F16F57FD8C968E2615880E03CD05D399A89F53",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5890612748",
+      "title": "Technical Account Manager (Cybersecurity)",
+      "organization": "CloudSEK",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-19T17:34:00.000Z",
+      "description": "WHO ARE WE? We are a bunch of super enthusiastic, passionate, and highly driven people, working to achieve a common goal! We believe that work and the workplace should be joyful and always buzzing with energy! CloudSEK, one of India’s most trusted Cyber security product companies, is on a mission to build the world’s fastest and most reliable AI technology that identifies and resolves digital thre",
+      "url": "https://www.adzuna.in/land/ad/5890612748?se=pIRKs6S08RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=4325729B2EBD33C9D9E73188C0AF60E6C6F0CAC1",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5890818534",
+      "title": "SOC Analyst",
+      "organization": "Revantage",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-19T21:59:19.000Z",
+      "description": "POSITION SUMMARY The SOC Analyst (L1) is the first line of detection and response within Revantage's Security Operations Center, responsible for continuous monitoring of security alerts, performing initial triage, and ensuring timely escalation to L2 analysts. The role operates using the ReliaQuest GreyMatter MDR platform as the primary investigation interface, supported by Microsoft Defender for ",
+      "url": "https://www.adzuna.in/details/5890818534?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5890613261",
+      "title": "Senior Penetration Tester",
+      "organization": "ESDS Software Solution Limited",
+      "location": "Nashik, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-19T17:35:34.000Z",
+      "description": "We are looking for an experienced Senior Penetration Tester to perform VAPT engagements across web, network, cloud, mobile, APIs, and enterprise infrastructure. The candidate should have strong offensive security skills, experience in leading security assessments, and excellent client-facing communication. Key Responsibilities Perform Web, Network, Mobile, API, and Cloud Penetration Testing. Condu",
+      "url": "https://www.adzuna.in/land/ad/5890613261?se=1Pecs6S08RGm1alvctyjWA&utm_medium=api&utm_source=6848710c&v=699814079CCF7E21CD765A9D6036987BEAB63788",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5889219664",
+      "title": "Information Security Manager",
+      "organization": "Snabbit",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-18T17:29:31.000Z",
+      "description": "We’re looking for a Information Security Manager Snabbit is India’s first Quick-Service App delivering home services in just 10 minutes through a hyperlocal network of trained and verified professionals. Backed by top VCs in the country, Snabbit is redefining the home services space by combining speed, quality, and trust. Founded by Aayush Agarwal, Snabbit is on a mission to make home services as ",
+      "url": "https://www.adzuna.in/land/ad/5889219664?se=StDus6S08RGgTfTRjzY3DA&utm_medium=api&utm_source=6848710c&v=BA7CA89B26243C85C7EE7F8566A6DE652EDD2261",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -146,14 +86,14 @@
       ]
     },
     {
-      "id": "adzuna-5886097846",
-      "title": "Sr. Information Security Operations Engineer",
-      "organization": "Korn Ferry",
-      "location": "Navi Mumbai, Maharashtra",
+      "id": "adzuna-5890613687",
+      "title": "GRC Consultant – Information Security",
+      "organization": "Infosec Train",
+      "location": "Trivandrum, Thiruvananthapuram",
       "type": "Full-time",
-      "postedDate": "2026-09-16T17:33:30.000Z",
-      "description": "JOB OVERVIEW The Sr. Information Security Operations Engineer is responsible for owning and managing the enterprise Okta Identity & Access Management (IAM) platform , with a focus on Okta, Microsoft Entra ID, AWS IAM, identity governance, privileged access, and lifecycle management. The role also supports identity-related security operations, including access investigations, incident response, and",
-      "url": "https://www.adzuna.in/land/ad/5886097846?se=eDn5aNuz8RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=AF7C8BD951D298D4E7B7855AF7D5B976B06FFF79",
+      "postedDate": "2026-09-19T17:36:13.000Z",
+      "description": "GRC Consultant - Information Security Location: Preferably Trivandrum / Kochi (Hybrid) OR Willing to Relocate Experience: 2–3 Years Salary: Up to ₹40,000 per month Employment Type: Full-Time Job Description We are looking for a GRC Consultant with 2–3 years of experience in Information Security, Governance, Risk, and Compliance. The candidate will be responsible for supporting client consulting en",
+      "url": "https://www.adzuna.in/land/ad/5890613687?se=StDus6S08RGgTfTRjzY3DA&utm_medium=api&utm_source=6848710c&v=3D131F612A090BE55BAD08EB37F098D00EA0994A",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -161,14 +101,14 @@
       ]
     },
     {
-      "id": "adzuna-5886486754",
-      "title": "Lead-IT & Information Security_6487",
-      "organization": "Allianz Commercial",
-      "location": "India",
+      "id": "adzuna-5889219914",
+      "title": "Engineering Manager - Information Security",
+      "organization": "Vymo",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-09-16T22:34:59.000Z",
-      "description": "This job is with Allianz Commercial, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. The Project Delivery Technical Lead owns end-to-end technical delivery of IT infrastructure projects, transitions, and offshoring programs across regions. The role bridges business and development teams, cro",
-      "url": "https://www.adzuna.in/land/ad/5886486754?se=eDn5aNuz8RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=A0E6861F3340EF8EB9B734EADF035BDB8873195B",
+      "postedDate": "2026-09-18T17:29:38.000Z",
+      "description": "Vymo transforms how financial institutions manage their distribution networks and collections operations. Our AI-powered DMS and CMS platform serves 350,000 users across 70 global financial enterprises, enabling banks and insurers to optimize performance across their distribution channels, and empowering banks to drive operational excellence in collections. Why Global Leaders Choose Vymo : Vymo pa",
+      "url": "https://www.adzuna.in/land/ad/5889219914?se=StDus6S08RGgTfTRjzY3DA&utm_medium=api&utm_source=6848710c&v=E6667269763D1DEE04790E228EF2E6DDB1C7C005",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
