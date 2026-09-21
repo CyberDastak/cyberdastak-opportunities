@@ -1,69 +1,24 @@
 {
-  "fetchedAt": "2026-09-20T03:38:11.615Z",
+  "fetchedAt": "2026-09-21T03:40:08.513Z",
   "counts": {
-    "totalJobs": 78,
+    "totalJobs": 79,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 7,
+    "newJobs": 3,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 7
+    "totalNew": 3
   },
   "jobs": [
     {
-      "id": "adzuna-5890610296",
-      "title": "Cybersecurity Risk Analyst",
-      "organization": "Vensure Employer Solutions",
-      "location": "Noida, Ghaziabad",
-      "type": "Full-time",
-      "postedDate": "2026-09-19T17:31:11.000Z",
-      "description": "Information security analysts are responsible for improving the overall security posture of the organization. They evaluate, test and document security solutions and controls, and work closely with other security team members to remediate risk while ensuring the business can innovate. Candidate Experience Level 4 to 7 years of experience in Cybersecurity, including compliance, regulations, risk ma",
-      "url": "https://www.adzuna.in/land/ad/5890610296?se=pIRKs6S08RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=B7F16F57FD8C968E2615880E03CD05D399A89F53",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5890612748",
-      "title": "Technical Account Manager (Cybersecurity)",
-      "organization": "CloudSEK",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-09-19T17:34:00.000Z",
-      "description": "WHO ARE WE? We are a bunch of super enthusiastic, passionate, and highly driven people, working to achieve a common goal! We believe that work and the workplace should be joyful and always buzzing with energy! CloudSEK, one of India’s most trusted Cyber security product companies, is on a mission to build the world’s fastest and most reliable AI technology that identifies and resolves digital thre",
-      "url": "https://www.adzuna.in/land/ad/5890612748?se=pIRKs6S08RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=4325729B2EBD33C9D9E73188C0AF60E6C6F0CAC1",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5890818534",
-      "title": "SOC Analyst",
-      "organization": "Revantage",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-09-19T21:59:19.000Z",
-      "description": "POSITION SUMMARY The SOC Analyst (L1) is the first line of detection and response within Revantage's Security Operations Center, responsible for continuous monitoring of security alerts, performing initial triage, and ensuring timely escalation to L2 analysts. The role operates using the ReliaQuest GreyMatter MDR platform as the primary investigation interface, supported by Microsoft Defender for ",
-      "url": "https://www.adzuna.in/details/5890818534?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "SOC analyst"
-      ]
-    },
-    {
-      "id": "adzuna-5890613261",
-      "title": "Senior Penetration Tester",
-      "organization": "ESDS Software Solution Limited",
-      "location": "Nashik, Maharashtra",
-      "type": "Full-time",
-      "postedDate": "2026-09-19T17:35:34.000Z",
-      "description": "We are looking for an experienced Senior Penetration Tester to perform VAPT engagements across web, network, cloud, mobile, APIs, and enterprise infrastructure. The candidate should have strong offensive security skills, experience in leading security assessments, and excellent client-facing communication. Key Responsibilities Perform Web, Network, Mobile, API, and Cloud Penetration Testing. Condu",
-      "url": "https://www.adzuna.in/land/ad/5890613261?se=1Pecs6S08RGm1alvctyjWA&utm_medium=api&utm_source=6848710c&v=699814079CCF7E21CD765A9D6036987BEAB63788",
+      "id": "adzuna-5890608131",
+      "title": "AI Penetration Tester (Contract)",
+      "organization": "DATAMTX LLC",
+      "location": "India",
+      "type": "Part-time",
+      "postedDate": "2026-09-19T17:30:28.000Z",
+      "description": "WHO WE ARE Datamtx (www.datamtx.com / formerly Datamatics) established in 1993 is globally HQ'd in Atlanta with a stellar history supporting both Tier 1 and 2 ERP / MES projects including: S/4HANA, JDE, Oracle Cloud ERP, Peoplesoft, Deltek, Infor (M3 / S3 / Syteline / LN / Factory Track / MacPac XE / LX, XA, CPQ), IFS, Deltek, Blackbaud, Ellucian Banner, D365, SysPro, Epicor, Plex, BlackLine, etc ",
+      "url": "https://www.adzuna.in/land/ad/5890608131?se=sKIxI2618RGSI57gYuD12g&utm_medium=api&utm_source=6848710c&v=B0E99F160CC70A46F122E4DF4F69699B3C919F6F",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -71,14 +26,14 @@
       ]
     },
     {
-      "id": "adzuna-5889219664",
-      "title": "Information Security Manager",
-      "organization": "Snabbit",
-      "location": "Bangalore, Karnataka",
+      "id": "adzuna-5889221423",
+      "title": "Senior Manager Information Security",
+      "organization": "InterGlobe Enterprises",
+      "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-09-18T17:29:31.000Z",
-      "description": "We’re looking for a Information Security Manager Snabbit is India’s first Quick-Service App delivering home services in just 10 minutes through a hyperlocal network of trained and verified professionals. Backed by top VCs in the country, Snabbit is redefining the home services space by combining speed, quality, and trust. Founded by Aayush Agarwal, Snabbit is on a mission to make home services as ",
-      "url": "https://www.adzuna.in/land/ad/5889219664?se=StDus6S08RGgTfTRjzY3DA&utm_medium=api&utm_source=6848710c&v=BA7CA89B26243C85C7EE7F8566A6DE652EDD2261",
+      "postedDate": "2026-09-18T17:30:38.000Z",
+      "description": "Job role: The Information Security Manager will serve as the organization's subject-matter expert for cybersecurity protection, detection, response, and recovery. This role is accountable for guiding the design, implementation, and continuous improvement of an enterprise-wide security framework, and for acting as the primary point of contact for information security matters across internal teams, ",
+      "url": "https://www.adzuna.in/land/ad/5889221423?se=hC_zI2618RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=5BD7CECB4BDD490A1A84D51C7B2EF6F6FFA55800",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -86,29 +41,14 @@
       ]
     },
     {
-      "id": "adzuna-5890613687",
-      "title": "GRC Consultant – Information Security",
-      "organization": "Infosec Train",
-      "location": "Trivandrum, Thiruvananthapuram",
-      "type": "Full-time",
-      "postedDate": "2026-09-19T17:36:13.000Z",
-      "description": "GRC Consultant - Information Security Location: Preferably Trivandrum / Kochi (Hybrid) OR Willing to Relocate Experience: 2–3 Years Salary: Up to ₹40,000 per month Employment Type: Full-Time Job Description We are looking for a GRC Consultant with 2–3 years of experience in Information Security, Governance, Risk, and Compliance. The candidate will be responsible for supporting client consulting en",
-      "url": "https://www.adzuna.in/land/ad/5890613687?se=StDus6S08RGgTfTRjzY3DA&utm_medium=api&utm_source=6848710c&v=3D131F612A090BE55BAD08EB37F098D00EA0994A",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "information security"
-      ]
-    },
-    {
-      "id": "adzuna-5889219914",
-      "title": "Engineering Manager - Information Security",
-      "organization": "Vymo",
+      "id": "adzuna-5889219895",
+      "title": "Chief Information Security Officer",
+      "organization": "Snapmint",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
       "postedDate": "2026-09-18T17:29:38.000Z",
-      "description": "Vymo transforms how financial institutions manage their distribution networks and collections operations. Our AI-powered DMS and CMS platform serves 350,000 users across 70 global financial enterprises, enabling banks and insurers to optimize performance across their distribution channels, and empowering banks to drive operational excellence in collections. Why Global Leaders Choose Vymo : Vymo pa",
-      "url": "https://www.adzuna.in/land/ad/5889219914?se=StDus6S08RGgTfTRjzY3DA&utm_medium=api&utm_source=6848710c&v=E6667269763D1DEE04790E228EF2E6DDB1C7C005",
+      "description": "About Snapmint Founded by IIT Bombay alumni (Nalin Agrawal, Anil Gelra, Abhineet Sawa), Snapmint is building India’s most loved payment brand. We pioneered Pay in 3 through UPI and are also home to India’s leading 0% EMI e-commerce app — giving millions of Indians the freedom to shop now and pay in monthly instalments, with no extra cost and no credit card required. Today, Snapmint has crossed 50M",
+      "url": "https://www.adzuna.in/land/ad/5889219895?se=hC_zI2618RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=6A5ED525E831EF2C3FBA009628B5701F2B0B14C8",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
