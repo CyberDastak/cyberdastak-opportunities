@@ -1,24 +1,69 @@
 {
-  "fetchedAt": "2026-09-22T03:38:37.911Z",
+  "fetchedAt": "2026-09-23T03:39:00.107Z",
   "counts": {
-    "totalJobs": 77,
+    "totalJobs": 81,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 1,
+    "newJobs": 4,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 1
+    "totalNew": 4
   },
   "jobs": [
     {
-      "id": "adzuna-5892770041",
-      "title": "Head of Information Security",
-      "organization": "Aurigo Software Technologies",
-      "location": "Bangalore, Karnataka",
+      "id": "adzuna-5893961418",
+      "title": "Specialist, Cybersecurity Engineering",
+      "organization": "MSD",
+      "location": "Hyderabad, Telangana",
       "type": "Full-time",
-      "postedDate": "2026-09-21T17:38:49.000Z",
-      "description": "About Aurigo Aurigo is an AI-native capital program management platform trusted by over 300 customers managing more than $450 billion in capital programs across North America. With over 40,000 projects delivered, Aurigo helps organisations in transportation, water and utilities, healthcare, higher education, and government plan, build, and manage infrastructure with confidence. Recognised as one o",
-      "url": "https://www.adzuna.in/land/ad/5892770041?se=5OB9GDe28RG8y8PiQeA5bQ&utm_medium=api&utm_source=6848710c&v=1E9FA0687E9906B2AFE6F1050A9917A707064D11",
+      "postedDate": "2026-09-22T18:29:58.000Z",
+      "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve",
+      "url": "https://www.adzuna.in/land/ad/5893961418?se=cL1aTwC38RG17I8Hj0wZow&utm_medium=api&utm_source=6848710c&v=FECE26AC78B2D49B4CFD653163659B66D1C7A506",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5893929751",
+      "title": "Senior Security Engineer",
+      "organization": "Eventus Security",
+      "location": "Navi Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-22T17:38:25.000Z",
+      "description": "Job Title: Senior Security Engineer Experience: 4yrs of experience Job Location: Sanpada, Navi Mumbai We are seeking an experienced Technical Support Engineer to provide 24/7 support for cybersecurity products across multiple platforms. This is a product-based role (NOT SOC Analyst) focused on troubleshooting, configuration, and operational support for endpoint, email, and network security solutio",
+      "url": "https://www.adzuna.in/land/ad/5893929751?se=9O6QTwC38RGbBLEqnZlVJw&utm_medium=api&utm_source=6848710c&v=F4E689B4FC304D361C2C6687805552B60733E1A4",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5893034839",
+      "title": "Information Security Specialist",
+      "organization": "Artech L.L.C.",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-21T23:32:53.000Z",
+      "description": "Candidate Profile - Preferred experience: 8 years in Information Security. - Candidates with 6 years may also be considered if they have strong/relevant Third-Party Information Security Risk Assessment experience. - Ideally, candidates should have 3–4 years of experience specifically in Third-Party Information Security Risk Assessment. - Strong practical exposure to the required Information Securi",
+      "url": "https://www.adzuna.in/land/ad/5893034839?se=CicaUAC38RGSS7o4hAxT2Q&utm_medium=api&utm_source=6848710c&v=E1D2090FA97F78C101D580C62AECB15353ABA232",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5893929951",
+      "title": "Junior Information Security Officer",
+      "organization": "Jio Insurance Broking Limited",
+      "location": "Navi Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-22T17:38:40.000Z",
+      "description": "About the Role: We are seeking a proactive and hands-on Junior CISO to help drive and implement our information security roadmap at Jio Insurance Broking Limited. This role is suited for someone with a solid foundation in cybersecurity, regulatory compliance, and cloud security, ready to take ownership of security practices under the guidance of senior leadership. You will collaborate closely with",
+      "url": "https://www.adzuna.in/land/ad/5893929951?se=CicaUAC38RGSS7o4hAxT2Q&utm_medium=api&utm_source=6848710c&v=F539385E305D07C56EFB3EC1E1E517C1124A2495",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
