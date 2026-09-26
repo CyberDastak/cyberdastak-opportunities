@@ -1,85 +1,39 @@
 {
-  "fetchedAt": "2026-09-25T03:38:26.163Z",
+  "fetchedAt": "2026-09-26T03:38:00.745Z",
   "counts": {
-    "totalJobs": 98,
+    "totalJobs": 105,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 10,
+    "newJobs": 8,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 10
+    "totalNew": 8
   },
   "jobs": [
     {
-      "id": "adzuna-5884157828",
-      "title": "Cybersecurity Business Intelligence & Analytics Lead",
-      "organization": "Mizuho",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-15T07:06:38.000Z",
-      "description": "Why Mizuho At Mizuho, we provide the stability of an international industry leader with the career trajectory of a growing business. Our steady, strategic growth gives our people at all levels rewarding degrees of responsibility and richer work experience than a boutique firm or an established giant could offer alone. It’s the local expertise of our employees that makes our global network so power",
-      "url": "https://www.adzuna.in/land/ad/5884157828?se=9FHXj5K48RGj3rbruZk4CQ&utm_medium=api&utm_source=6848710c&v=1EADEDFE32A16A81E454204A4193CA66C1BBA1A0",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5893930230",
-      "title": "Security Analyst",
-      "organization": "Certbar Security",
-      "location": "Mumbai, Maharashtra",
-      "type": "Full-time",
-      "postedDate": "2026-09-22T17:39:54.000Z",
-      "description": "Position Title: Security Analyst Location: Surat / Mumbai Experience: 1–3 Years Employment Type: Full-time Job Summary We are looking for a Security Analyst with 1–3 years of hands-on experience in Vulnerability Assessment, Penetration Testing (VAPT), and security testing . The candidate will be responsible for identifying security vulnerabilities, validating security risks, documenting findings, ",
-      "url": "https://www.adzuna.in/land/ad/5893930230?se=1t1KkJK48RGSEY7qyhDnxg&utm_medium=api&utm_source=6848710c&v=E8A3D1DD701087AD91A8B3AA651237EB795576EE",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5896250719",
-      "title": "Principal Security Engineer",
-      "organization": "GeoServe",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-24T09:50:14.000Z",
-      "description": "About the Role Geoserve Energy Transport is seeking a hands-on Principal Security Engineer to build, own, and run the organization's information and application security function. This is a working leadership role — you will personally drive vulnerability management, penetration testing, and perimeter security, not just oversee it. You'll be the single point of accountability for the security post",
-      "url": "https://www.adzuna.in/land/ad/5896250719?se=1t1KkJK48RGSEY7qyhDnxg&utm_medium=api&utm_source=6848710c&v=AA9A7B71190805E362D0F6D52B637F4E56AF4993",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5894220173",
-      "title": "Rust Engineer (Remote | $100–$150/hr)",
-      "organization": "Synthires",
-      "location": "India (Remote)",
-      "type": "Full-time",
-      "postedDate": "2026-09-22T23:34:21.000Z",
-      "description": "Backend Security Engineer Position: Backend Security Engineer Type: Contractor (~15 Hours/Week) Compensation: $30–$100/hour Location: Remote About the Opportunity micro1 is engaging experienced Backend Security Engineers to contribute to a customer project focused on training and improving next-generation AI systems. In this role, you will use your software engineering and cybersecurity expertise ",
-      "url": "https://www.adzuna.in/land/ad/5894220173?se=1t1KkJK48RGSEY7qyhDnxg&utm_medium=api&utm_source=6848710c&v=6EA1F8D852DA525631E82DB9D008955DA593E7BC",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing",
-        "Remote"
-      ]
-    },
-    {
-      "id": "adzuna-5890612198",
-      "title": "Inside Sales Specialist",
-      "organization": "CyberMindr",
+      "id": "adzuna-5897295337",
+      "title": "Customer Success Engineer",
+      "organization": "Trantor",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-09-19T17:32:26.000Z",
-      "description": "We’re Hiring: Inside Sales Specialist – Cybersecurity  Bengaluru | Experience: 1–4 years | Individual Contributor CyberMindr is an AI-enabled Attack Path Discovery and Validation platform that helps enterprises identify and validate what attackers can exploit. What You’ll Do Generate and qualify B2B leads through calls, emails, LinkedIn, and campaigns. Engage CISOs and security leaders, understand",
-      "url": "https://www.adzuna.in/land/ad/5890612198?se=1t1KkJK48RGSEY7qyhDnxg&utm_medium=api&utm_source=6848710c&v=23F4B263F24339C90B1F9C31C34B7E6236CA23A2",
+      "postedDate": "2026-09-25T01:55:26.000Z",
+      "description": "About the Role As an Customer Success Engineer — Onboarding Specialist , you will be the frontline technical owner of the customer onboarding experience. You will guide newly provisioned customers through the initial setup and configuration of Cloudflare products, validate their deployment, troubleshoot common technical issues, and ensure they achieve their first value from the platform. This is a",
+      "url": "https://www.adzuna.in/land/ad/5897295337?se=6qxkq1u58RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=C70E96588E570A0DDE7B5EF97196EB1475C0842B",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5898263264",
+      "title": "Senior Penetration Tester",
+      "organization": "Danaher",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-25T16:35:01.000Z",
+      "description": "This job is with Danaher, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Beckman Coulter Diagnostics, one of Danaher’s 15 operating companies, ou",
+      "url": "https://www.adzuna.in/land/ad/5898263264?se=-qOUq1u58RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=8B3E172DD340B480BFA094B7449C3013CE641AE4",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -87,60 +41,74 @@
       ]
     },
     {
-      "id": "adzuna-5896613134",
-      "title": "Telesales Representative (international shift)",
-      "organization": "Ethical Den",
-      "location": "India",
-      "type": "Internship",
-      "postedDate": "2026-09-24T15:17:58.000Z",
-      "description": "Company Description Ethical Den is a digital marketing and software development company established in May 2021, committed to building and promoting strong digital infrastructure and cyber hygiene worldwide. The organization provides a range of services, including security audits, digital marketing, website and application development, and data-driven solutions. Ethical Den also focuses on trainin",
-      "url": "https://www.adzuna.in/land/ad/5896613134?se=eBZ_kJK48RGBD71qhS2Jzg&utm_medium=api&utm_source=6848710c&v=89D4306DB7681B4E6F4BCE7886F68105CA88F451",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "ethical hacking",
-        "Internship"
-      ]
-    },
-    {
-      "id": "adzuna-5895240030",
-      "title": "Information Security Officer",
-      "organization": "Promaynov Advisory Services Pvt. Ltd",
-      "location": "Delhi, India",
+      "id": "adzuna-5896317147",
+      "title": "Offensive Security Specialist",
+      "organization": "Entain",
+      "location": "Telangana, India",
       "type": "Full-time",
-      "postedDate": "2026-09-23T19:42:13.000Z",
-      "description": "Role Overview We are looking for a senior Chief Information Security Officer (CISO) to lead the organisation’s overall information and cyber security strategy. The role will be responsible for building and leading the security architecture, cyber defence, data security, privacy, risk management, incident preparedness and regulatory readiness of a large-scale digital technology environment. This is",
-      "url": "https://www.adzuna.in/land/ad/5895240030?se=atW0kJK48RGCrY1UB-52MQ&utm_medium=api&utm_source=6848710c&v=EF4FED069B4C5F4DF6EC68E7877BC6C4BD63650C",
+      "postedDate": "2026-09-24T10:31:51.000Z",
+      "description": "This job is with Entain, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Entain India is the engineering and delivery powerhouse for Entain, one of the world's leading global sports and gaming groups. Established in Hyderabad in 2001, we've grown from a small tech hub into a dynamic force, d",
+      "url": "https://www.adzuna.in/land/ad/5896317147?se=-qOUq1u58RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=ED190FA6186AB471AF9F454D6C7C1105A6BDD69C",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "information security"
+        "penetration testing"
       ]
     },
     {
-      "id": "adzuna-5895239479",
-      "title": "Information Security -Project Manager",
-      "organization": "Acuity Analytics",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-23T19:41:02.000Z",
-      "description": "Job description Job description Acuity Analytics (the trading name of Acuity Knowledge Partners) is a global, tech-first organisation helping financial institutions and corporates make better decisions through research, data, analytics and AI-enabled solutions. We combine deep financial services expertise with strong engineering, digital and AI capabilities to solve complex, real-world problems. W",
-      "url": "https://www.adzuna.in/land/ad/5895239479?se=atW0kJK48RGCrY1UB-52MQ&utm_medium=api&utm_source=6848710c&v=7D505088E6BA2FA69A2DC4D5EF3EF2D9091B058C",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "information security"
-      ]
-    },
-    {
-      "id": "adzuna-5896962286",
-      "title": "Information Security Senior Specialist",
-      "organization": "ABB",
+      "id": "adzuna-5898127073",
+      "title": "Application Security Engineer",
+      "organization": "HCLSoftware",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-09-24T20:31:56.000Z",
-      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-      "url": "https://www.adzuna.in/land/ad/5896962286?se=atW0kJK48RGCrY1UB-52MQ&utm_medium=api&utm_source=6848710c&v=99D9B4EFB608AA95CF68094A9D216443786D2679",
+      "postedDate": "2026-09-25T15:22:00.000Z",
+      "description": "Please share CV to monica_sharma@hcl-software.com with the below details: Total Experience- Should be 6 years Current CTC- Expected CTC- Notice period- Location- Mandatory skills- hands-on experience in penetration testing,SAST,DAST,SCA and threat modelling. Application Security Engineer/Lead- Requirement- Hands-on experience in Threat Modelling using STRIDE for identifying attack vectors, trust b",
+      "url": "https://www.adzuna.in/land/ad/5898127073?se=-qOUq1u58RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=E237D6AAB77D70F40C809F7AC23B1FDE9797CFF9",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5879666964",
+      "title": "Application Security Engineer",
+      "organization": "Tata Consultancy Services",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-11T17:15:33.000Z",
+      "description": "JD:- 4 to 8 years of relevant experience in AI security, application security, penetration testing, red-teaming, vulnerability assessment or offensive security testing for enterprise systems. Bachelor’s/Master’s in Computer Science, Cyber Security, AI/ML Security or related discipline. Hands-on experience applying OWASP application security practices and OWASP Top 10 for LLM Applications to AI mod",
+      "url": "https://www.adzuna.in/land/ad/5879666964?se=-qOUq1u58RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=34B690B208BD0FECA9168DC97BB927C6CA8A5F10",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5886096999",
+      "title": "Security Testing | Technical Lead",
+      "organization": "CitiusTech",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-16T17:30:09.000Z",
+      "description": "Technical Skills : Mobile (Android & iOS) Security Testing 'Mobile (Android & iOS) Security Testing SOUP Security Testing (of the 3rd party components and open-source libraries) Knowledge on Flutter development framework API security Application Security Experience in healthcare domain Experience with security testing tools and frameworks Roles and Responsibilities : Conduct thorough security test",
+      "url": "https://www.adzuna.in/land/ad/5886096999?se=-qOUq1u58RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=C349EF6EC84760F2B71FCEB9639E5416EA6FAB6B",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5896317317",
+      "title": "Information Security Associate",
+      "organization": "Deutsche Bank",
+      "location": "Pune, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-24T10:32:27.000Z",
+      "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Are you interested in starting a career in Information Security in TDI CSO Information Security & Production Services? As “Identity & Access Recertification Data Quality Informa",
+      "url": "https://www.adzuna.in/land/ad/5896317317?se=ukL0q1u58RG7B5TOu1dSGw&utm_medium=api&utm_source=6848710c&v=340B5C5A1D6BE6024F2AD4A19AB75C8D13DDF903",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -148,19 +116,18 @@
       ]
     },
     {
-      "id": "adzuna-5897294654",
-      "title": "Manager - Internal IT & Information Security",
-      "organization": "Jeavio",
-      "location": "Vadodara, Gujarat",
-      "type": "Internship",
-      "postedDate": "2026-09-25T01:52:37.000Z",
-      "description": "Jeavio is an ISO 27001 certified software development services company. This role leads the day-to-day operation of our internal IT environment and Information Security Management System (ISMS), ensuring our people can work securely and reliably while maintaining the controls, evidence and readiness expected by our clients and auditors. The role partners closely with Engineering, HR, Legal and lea",
-      "url": "https://www.adzuna.in/land/ad/5897294654?se=atW0kJK48RGCrY1UB-52MQ&utm_medium=api&utm_source=6848710c&v=E3A7EEF4562A7D9D218EC8FE7E7DBE157258E9C7",
+      "id": "adzuna-5895031436",
+      "title": "Information Security Manager",
+      "organization": "Alliance Recruitment Agency",
+      "location": "Chennai, Tamil Nadu",
+      "type": "Full-time",
+      "postedDate": "2026-09-23T15:39:45.000Z",
+      "description": "Hiring: Information Security & Compliance Manager (Remote/Hybrid – USA EST/PST) Salary - Upto 2200 USD/Month Work Mode :- Hybrid - 2 days from office based in Chennai Job Time - US Shift  Location: Remote / Hybrid (Candidates must be able to work in USA EST/PST Time Zone) We are looking for an experienced Information Security & Compliance Manager to lead enterprise security initiatives, strengthen",
+      "url": "https://www.adzuna.in/land/ad/5895031436?se=ukL0q1u58RG7B5TOu1dSGw&utm_medium=api&utm_source=6848710c&v=0B3C66142097E765F5E36DA108CD1054C792ED06",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "information security",
-        "Internship"
+        "information security"
       ]
     }
   ],
