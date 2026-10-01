@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-09-30T03:41:10.746Z",
+  "fetchedAt": "2026-10-01T03:41:49.432Z",
   "counts": {
-    "totalJobs": 117,
+    "totalJobs": 119,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 7,
+    "newJobs": 13,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 7
+    "totalNew": 13
   },
   "jobs": [
     {
-      "id": "adzuna-5898129319",
-      "title": "Pre-sales Cybersecurity Consultant",
-      "organization": "VikingCloud India",
-      "location": "Vadodara, Gujarat",
+      "id": "adzuna-5897259805",
+      "title": "cybersecurity",
+      "organization": "Trigent Software Private Limited",
+      "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-09-25T15:23:44.000Z",
-      "description": "About VikingCloud: VikingCloud is the leading Predict-to-Prevent cybersecurity and compliance company, offering businesses a single, integrated solution to make informed, predictive, and cost-effective risk mitigation decisions – faster. Powered by the Asgard Platform™, the industry’s largest repository of anonymized cybersecurity and compliance event data, we continuously monitor and analyze over",
-      "url": "https://www.adzuna.in/land/ad/5898129319?se=sH40xoC88RG_XPlEoh-ysA&utm_medium=api&utm_source=6848710c&v=26AE94269D9780DF9C16A41E4D628E875F31C4C8",
+      "postedDate": "2026-09-24T23:46:08.000Z",
+      "description": "Holds Minimum 5 10 years in cybersecurity, focusing specifically on vulnerability management, security operations, or infrastructure security Lead and manage enterprise-wide vulnerability management activities. Establish vulnerability management policies, standards, and operating procedures. Drive continuous improvement of the vulnerability management framework. Define KPIs, KRIs, SLAs, and remedi",
+      "url": "https://www.adzuna.in/details/5897259805?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,45 +26,104 @@
       ]
     },
     {
-      "id": "adzuna-5892765711",
-      "title": "Cybersecurity Operations & Incident Response Intern",
-      "organization": "TECEZE",
-      "location": "Chennai, Tamil Nadu",
-      "type": "Internship",
-      "postedDate": "2026-09-21T17:36:17.000Z",
-      "description": "Cybersecurity Operations & Incident Response Intern About the Role We are looking for a Cybersecurity Operations & Incident Response Intern to join our security team and gain hands-on experience in Security Operations Centre (SOC) activities, threat detection, alert investigation, incident response, and digital forensics. This internship is designed for candidates who want to build practical cyber",
-      "url": "https://www.adzuna.in/land/ad/5892765711?se=sH40xoC88RG_XPlEoh-ysA&utm_medium=api&utm_source=6848710c&v=0326275CBC0B2A2E41DAAFABEBFE044FB18F3741",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity",
-        "Internship"
-      ]
-    },
-    {
-      "id": "adzuna-5902920833",
-      "title": "SOC Analyst",
-      "organization": "Waystone Governance Ltd.",
-      "location": "Vikhroli, Mumbai",
-      "type": "Full-time",
-      "postedDate": "2026-09-29T21:32:20.000Z",
-      "description": "Summary: Reporting to the Director of Info Sec and Cyber Operations, the Security Operations Centre (SOC) Analyst will be an integral part of the team’s success. As a security operations center (SOC) engineer, you will help build and manage services that detect and automate the mitigation of cybersecurity threats across Waystone infrastructure. You will work with software engineers, DevOps enginee",
-      "url": "https://www.adzuna.in/details/5902920833?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "SOC analyst"
-      ]
-    },
-    {
-      "id": "adzuna-5901560158",
-      "title": "Mobile Security Engineer",
-      "organization": "Confidential",
+      "id": "adzuna-5890800024",
+      "title": "Architect - Cybersecurity",
+      "organization": "Harman Becker Automotive Systems Manufacturing Kft",
       "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-09-28T18:06:29.000Z",
-      "description": "About the Role We are looking for an experienced Mobile Security Engineer to design, implement, and strengthen security mechanisms for enterprise Android applications and mobile device management (MDM) environments. The role will focus on Android application security, cryptography, secure communications, device identity, PKI, authentication, data protection, and application hardening . Key Respons",
-      "url": "https://www.adzuna.in/land/ad/5901560158?se=ROKMxoC88RGnaMK3Ib81hg&utm_medium=api&utm_source=6848710c&v=0806D215CF26BD81933BDDD780AEA39D1D8D548D",
+      "postedDate": "2026-09-19T21:45:35.000Z",
+      "description": "HARMAN’s engineers and designers are creative, purposeful and agile. As part of this team, you’ll combine your technical expertise with innovative ideas to help drive cutting-edge solutions in the car, enterprise and connected ecosystem. Every day, you will push the boundaries of creative design, and HARMAN is committed to providing you with the opportunities, innovative technologies and resources",
+      "url": "https://www.adzuna.in/details/5890800024?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5895393513",
+      "title": "Cybersecurity Specialist",
+      "organization": "Kidde-Fenwal",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-23T21:51:01.000Z",
+      "description": "Cybersecurity Specialist Hybrid Role- Hyderabad/Navi Mumbai About KiddeFenwal KiddeFenwal is a global leader in fire protection, life safety, and controls solutions. We design and manufacture innovative fire suppression systems, fire detection technologies, safety controls, and monitoring solutions that protect people, critical assets, and high-value environments worldwide. Serving OEMs, distribut",
+      "url": "https://www.adzuna.in/details/5895393513?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5895065560",
+      "title": "Cybersecurity Specialist",
+      "organization": "KiddeFenwal",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "postedDate": "2026-09-23T16:15:30.000Z",
+      "description": "Hybrid Role- Hyderabad/Navi Mumbai About KiddeFenwal KiddeFenwal is a global leader in fire protection, life safety, and controls solutions. We design and manufacture innovative fire suppression systems, fire detection technologies, safety controls, and monitoring solutions that protect people, critical assets, and high-value environments worldwide. Serving OEMs, distributors, system integrators, ",
+      "url": "https://www.adzuna.in/details/5895065560?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5899863000",
+      "title": "Director, Cybersecurity",
+      "organization": "Nationwide Global Services Center",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-26T21:27:43.000Z",
+      "description": "If you’re passionate about being part of a dynamic organization that enables a Fortune 100 company with nearly $70 billion in annual sales to drive innovation and adopt new technologies that deliver business results, then Nationwide’s Technology team could be the place for you! At Nationwide®, “on your side” goes beyond just words. Our customers are at the center of everything we do and we’re look",
+      "url": "https://www.adzuna.in/details/5899863000?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5899925018",
+      "title": "Director, Cybersecurity",
+      "organization": "Nationwide",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "postedDate": "2026-09-26T22:39:38.000Z",
+      "description": "If you’re passionate about being part of a dynamic organization that enables a Fortune 100 company with nearly $70 billion in annual sales to drive innovation and adopt new technologies that deliver business results, then Nationwide’s Technology team could be the place for you! At Nationwide, “on your side” goes beyond just words. Our customers are at the center of everything we do and we’re looki",
+      "url": "https://www.adzuna.in/details/5899925018?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5900720227",
+      "title": "Cybersecurity Architect",
+      "organization": "Aptiv",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-27T21:09:09.000Z",
+      "description": "Your Role Cybersecurity Software Architect ROLES AND RESPONSIBILITIES Owns the embedded product-security software architecture and translates cybersecurity goals, TARA results and customer requirements into implementable software requirements, interfaces and reusable security patterns. RFQ / Concept - Shape cybersecurity scope, assumptions and estimates; identify reuse and technology risks. Planni",
+      "url": "https://www.adzuna.in/details/5900720227?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5904039062",
+      "title": "Penetration Testing",
+      "organization": "Prescient Security",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-09-30T21:11:29.000Z",
+      "description": "Penetration Tester (Mid–Senior Level) Location - Remote - India Experience Level - 2-5 years As a Penetration Tester, you will be responsible for executing penetration testing engagements through client delivery with minimal oversight. You will independently perform testing activities, identify and exploit vulnerabilities, and produce high-quality client deliverables with clear, actionable remedia",
+      "url": "https://www.adzuna.in/details/5904039062?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -72,29 +131,59 @@
       ]
     },
     {
-      "id": "adzuna-5902987715",
-      "title": "Penetration Testing Engineer_103925",
-      "organization": "MyCareernet",
-      "location": "Hyderabad, Telangana",
+      "id": "adzuna-5899853440",
+      "title": "Senior Penetration Tester",
+      "organization": "Danaher",
+      "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-09-29T22:51:29.000Z",
-      "description": "Key Skills: Application Security, Web Application Security, Penetration Testing, OWASP, Ethical Hacking, Api Testing, Vulnerability Assessment Roles and Responsibilities: Perform penetration testing and vulnerability assessments. Identify and validate security vulnerabilities in applications and networks. Conduct web, API, and network security testing. Use security tools to identify and exploit vu",
-      "url": "https://www.adzuna.in/details/5902987715?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-09-26T21:21:08.000Z",
+      "description": "Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Beckman Coulter Diagnostics, one of Danaher’s 15 operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact. You’ll thrive in a culture of belonging where you and your unique viewpoint matter. An",
+      "url": "https://www.adzuna.in/details/5899853440?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "ethical hacking"
+        "penetration testing"
       ]
     },
     {
-      "id": "adzuna-5900616248",
-      "title": "Information Security Manager",
-      "organization": "Mondee",
+      "id": "adzuna-5901762361",
+      "title": "Executive - Penetration Testing",
+      "organization": "Macquarie Group",
       "location": "Hyderabad, Telangana",
       "type": "Full-time",
-      "postedDate": "2026-09-27T18:06:38.000Z",
-      "description": "Information Security Lead Hyderabad, India | Full-time| 8–9 Years Experience Work Mode:- WFO Notice:- Immediate to 30days About the Role We're looking for a seasoned security leader with 8–9 years of experience to own and scale our enterprise security program. You'll set the strategic direction for information security and cyber risk, build board-level trust in our security posture, and lead a tea",
-      "url": "https://www.adzuna.in/land/ad/5900616248?se=0FrdxoC88RG5QYXapx_3iw&utm_medium=api&utm_source=6848710c&v=8B0438692692C0F5D5BC95A93D86E8FEB99C25AD",
+      "postedDate": "2026-09-28T22:44:40.000Z",
+      "description": "You will be responsible for executing penetration tests, evaluating findings, reporting results, providing remediation advice, and improving security testing processes. Additionally, you will contribute to Macquarie's security practices at both tactical and strategic levels. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you’",
+      "url": "https://www.adzuna.in/details/5901762361?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5899326607",
+      "title": "Senior Penetration Tester",
+      "organization": "Danaher Corporation",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-26T11:13:50.000Z",
+      "description": "Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Beckman Coulter Diagnostics, one of Danaher's (https://danaher.com/our-businesses) 15 operating companies, our work saves lives-and we're all united by a shared commitment to innovate for tangible impact. You'll thrive in a culture of belonging where you",
+      "url": "https://www.adzuna.in/details/5899326607?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5904171761",
+      "title": "Information Security Manager",
+      "organization": "focaloid",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-30T23:51:25.000Z",
+      "description": "About the Role We are looking for a hands-on and execution-oriented Information Security Manager to take end-to-end ownership of the organization's ISO/IEC 27001:2022 Information Security Management System (ISMS) while strengthening the organization's technical security, customer security assurance, Secure SDLC, and AI security practices. This is not a purely compliance or documentation-focused ro",
+      "url": "https://www.adzuna.in/details/5904171761?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -102,14 +191,14 @@
       ]
     },
     {
-      "id": "adzuna-5884159261",
-      "title": "ISO 27001 Auditior",
-      "organization": "TAC Security",
-      "location": "Delhi, India",
+      "id": "adzuna-5898492803",
+      "title": "Information Security Associate",
+      "organization": "Athena Health",
+      "location": "Pune, Maharashtra",
       "type": "Full-time",
-      "postedDate": "2026-09-15T07:08:29.000Z",
-      "description": "Role Overview TAC Security is looking for an experienced ISO/IEC 27001 Specialist to manage, implement, maintain, and continuously improve the organization’s Information Security Management System (ISMS) in alignment with ISO/IEC 27001:2022 . The candidate will be responsible for information security governance, risk management, control implementation, internal audits, certification readiness, evi",
-      "url": "https://www.adzuna.in/land/ad/5884159261?se=0FrdxoC88RG5QYXapx_3iw&utm_medium=api&utm_source=6848710c&v=3F1872A692B68A061876A639185F045EAEF816E8",
+      "postedDate": "2026-09-25T21:23:34.000Z",
+      "description": "Join us as we work to create a thriving ecosystem that delivers accessible, high-quality, and sustainable healthcare for all. Role Summary: The Information Security Associate helps support cybersecurity, IT risk management, and security audit activities that protect sensitive information and strengthen business operations. The position works across information security, systems administration, and",
+      "url": "https://www.adzuna.in/details/5898492803?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
