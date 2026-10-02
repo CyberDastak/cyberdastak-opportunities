@@ -1,174 +1,129 @@
 {
-  "fetchedAt": "2026-10-01T03:41:49.432Z",
+  "fetchedAt": "2026-10-02T03:41:33.638Z",
   "counts": {
-    "totalJobs": 119,
+    "totalJobs": 112,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 13,
+    "newJobs": 10,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 13
+    "totalNew": 10
   },
   "jobs": [
     {
-      "id": "adzuna-5897259805",
-      "title": "cybersecurity",
-      "organization": "Trigent Software Private Limited",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-24T23:46:08.000Z",
-      "description": "Holds Minimum 5 10 years in cybersecurity, focusing specifically on vulnerability management, security operations, or infrastructure security Lead and manage enterprise-wide vulnerability management activities. Establish vulnerability management policies, standards, and operating procedures. Drive continuous improvement of the vulnerability management framework. Define KPIs, KRIs, SLAs, and remedi",
-      "url": "https://www.adzuna.in/details/5897259805?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5890800024",
-      "title": "Architect - Cybersecurity",
-      "organization": "Harman Becker Automotive Systems Manufacturing Kft",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-19T21:45:35.000Z",
-      "description": "HARMAN’s engineers and designers are creative, purposeful and agile. As part of this team, you’ll combine your technical expertise with innovative ideas to help drive cutting-edge solutions in the car, enterprise and connected ecosystem. Every day, you will push the boundaries of creative design, and HARMAN is committed to providing you with the opportunities, innovative technologies and resources",
-      "url": "https://www.adzuna.in/details/5890800024?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5895393513",
-      "title": "Cybersecurity Specialist",
-      "organization": "Kidde-Fenwal",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-23T21:51:01.000Z",
-      "description": "Cybersecurity Specialist Hybrid Role- Hyderabad/Navi Mumbai About KiddeFenwal KiddeFenwal is a global leader in fire protection, life safety, and controls solutions. We design and manufacture innovative fire suppression systems, fire detection technologies, safety controls, and monitoring solutions that protect people, critical assets, and high-value environments worldwide. Serving OEMs, distribut",
-      "url": "https://www.adzuna.in/details/5895393513?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5895065560",
-      "title": "Cybersecurity Specialist",
-      "organization": "KiddeFenwal",
-      "location": "Hyderabad, Telangana",
-      "type": "Full-time",
-      "postedDate": "2026-09-23T16:15:30.000Z",
-      "description": "Hybrid Role- Hyderabad/Navi Mumbai About KiddeFenwal KiddeFenwal is a global leader in fire protection, life safety, and controls solutions. We design and manufacture innovative fire suppression systems, fire detection technologies, safety controls, and monitoring solutions that protect people, critical assets, and high-value environments worldwide. Serving OEMs, distributors, system integrators, ",
-      "url": "https://www.adzuna.in/details/5895065560?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5899863000",
-      "title": "Director, Cybersecurity",
-      "organization": "Nationwide Global Services Center",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-26T21:27:43.000Z",
-      "description": "If you’re passionate about being part of a dynamic organization that enables a Fortune 100 company with nearly $70 billion in annual sales to drive innovation and adopt new technologies that deliver business results, then Nationwide’s Technology team could be the place for you! At Nationwide®, “on your side” goes beyond just words. Our customers are at the center of everything we do and we’re look",
-      "url": "https://www.adzuna.in/details/5899863000?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5899925018",
-      "title": "Director, Cybersecurity",
-      "organization": "Nationwide",
-      "location": "Hyderabad, Telangana",
-      "type": "Full-time",
-      "postedDate": "2026-09-26T22:39:38.000Z",
-      "description": "If you’re passionate about being part of a dynamic organization that enables a Fortune 100 company with nearly $70 billion in annual sales to drive innovation and adopt new technologies that deliver business results, then Nationwide’s Technology team could be the place for you! At Nationwide, “on your side” goes beyond just words. Our customers are at the center of everything we do and we’re looki",
-      "url": "https://www.adzuna.in/details/5899925018?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5900720227",
-      "title": "Cybersecurity Architect",
-      "organization": "Aptiv",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-27T21:09:09.000Z",
-      "description": "Your Role Cybersecurity Software Architect ROLES AND RESPONSIBILITIES Owns the embedded product-security software architecture and translates cybersecurity goals, TARA results and customer requirements into implementable software requirements, interfaces and reusable security patterns. RFQ / Concept - Shape cybersecurity scope, assumptions and estimates; identify reuse and technology risks. Planni",
-      "url": "https://www.adzuna.in/details/5900720227?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5904039062",
-      "title": "Penetration Testing",
-      "organization": "Prescient Security",
-      "location": "Mumbai, Maharashtra",
-      "type": "Full-time",
-      "postedDate": "2026-09-30T21:11:29.000Z",
-      "description": "Penetration Tester (Mid–Senior Level) Location - Remote - India Experience Level - 2-5 years As a Penetration Tester, you will be responsible for executing penetration testing engagements through client delivery with minimal oversight. You will independently perform testing activities, identify and exploit vulnerabilities, and produce high-quality client deliverables with clear, actionable remedia",
-      "url": "https://www.adzuna.in/details/5904039062?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5899853440",
-      "title": "Senior Penetration Tester",
-      "organization": "Danaher",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-09-26T21:21:08.000Z",
-      "description": "Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Beckman Coulter Diagnostics, one of Danaher’s 15 operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact. You’ll thrive in a culture of belonging where you and your unique viewpoint matter. An",
-      "url": "https://www.adzuna.in/details/5899853440?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5901762361",
-      "title": "Executive - Penetration Testing",
-      "organization": "Macquarie Group",
-      "location": "Hyderabad, Telangana",
-      "type": "Full-time",
-      "postedDate": "2026-09-28T22:44:40.000Z",
-      "description": "You will be responsible for executing penetration tests, evaluating findings, reporting results, providing remediation advice, and improving security testing processes. Additionally, you will contribute to Macquarie's security practices at both tactical and strategic levels. We are a global financial services group operating in 30 markets with 57 years of unbroken profitability. At Macquarie, you’",
-      "url": "https://www.adzuna.in/details/5901762361?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5899326607",
-      "title": "Senior Penetration Tester",
-      "organization": "Danaher Corporation",
+      "id": "adzuna-5902562477",
+      "title": "Associate Project Engineer - Cybersecurity",
+      "organization": "ABB",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-09-26T11:13:50.000Z",
-      "description": "Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Beckman Coulter Diagnostics, one of Danaher's (https://danaher.com/our-businesses) 15 operating companies, our work saves lives-and we're all united by a shared commitment to innovate for tangible impact. You'll thrive in a culture of belonging where you",
-      "url": "https://www.adzuna.in/details/5899326607?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-09-29T10:34:56.000Z",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
+      "url": "https://www.adzuna.in/land/ad/5902562477?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=492ACAEBD270A8BA90811AD0D8AC6846B7AB1634",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5901919589",
+      "title": "Senior Cybersecurity Architect (3-4 Years exp)",
+      "organization": "Danaher",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-29T00:34:47.000Z",
+      "description": "This job is with Danaher, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Beckman Coulter Diagnostics, one of Danaher’s 15 operating companies, ou",
+      "url": "https://www.adzuna.in/land/ad/5901919589?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=25392436DD0C4687A911DF9D6171FAEA6965B6D1",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5905062472",
+      "title": "Sr Controls Analyst",
+      "organization": "Moody's",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-10-01T12:35:56.000Z",
+      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom t",
+      "url": "https://www.adzuna.in/land/ad/5905062472?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=F9AE6084D613D845648F965CA313E878344029E7",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5905062748",
+      "title": "Sr Tech Lead- Security Engineer SOAR",
+      "organization": "Aristocrat",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-10-01T12:36:10.000Z",
+      "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Are you driven by cybersecurity and ready to make a significant impact at a world-class company? Aristocrat seeks a passionate and experienced Sr Tech Lead- Security Engineer SOAR to join our inclusive team. At Aris",
+      "url": "https://www.adzuna.in/land/ad/5905062748?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=83426781A5DE1D30F56B268A85FF3E682C5AC28D",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5890717726",
+      "title": "SOAR Automation Engineer/GenAI Engineer",
+      "organization": "Kyndryl",
+      "location": "Noida, Gautam Buddha Nagar",
+      "type": "Full-time",
+      "postedDate": "2026-09-19T20:33:38.000Z",
+      "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow ",
+      "url": "https://www.adzuna.in/land/ad/5890717726?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=64A5AF4D04DCC2B6E67BE968B4AD3904867D55B0",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5902562420",
+      "title": "Project Engineer",
+      "organization": "ABB",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-29T10:34:52.000Z",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
+      "url": "https://www.adzuna.in/land/ad/5902562420?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=66CB36B7972B9238A4BA31453E6239874A409B4E",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5902562310",
+      "title": "IS Data Security - Analyst",
+      "organization": "ABB",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-09-29T10:34:31.000Z",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
+      "url": "https://www.adzuna.in/land/ad/5902562310?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=0A8C358A27C9D31998532BC5D2337E0986C5994C",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5905924077",
+      "title": "Penetration Testing",
+      "organization": "Jobgether",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-10-01T21:31:24.000Z",
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Penetration Testing professional based in India. This remote role offers the opportunity to conduct hands-on security assessments across web applications, APIs, networks, and cloud environments. You will independently execute penetration testing engagements, identify vu",
+      "url": "https://www.adzuna.in/details/5905924077?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -176,14 +131,14 @@
       ]
     },
     {
-      "id": "adzuna-5904171761",
-      "title": "Information Security Manager",
-      "organization": "focaloid",
-      "location": "India",
+      "id": "adzuna-5905062610",
+      "title": "Information Security Analyst",
+      "organization": "Deutsche Bank",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-09-30T23:51:25.000Z",
-      "description": "About the Role We are looking for a hands-on and execution-oriented Information Security Manager to take end-to-end ownership of the organization's ISO/IEC 27001:2022 Information Security Management System (ISMS) while strengthening the organization's technical security, customer security assurance, Secure SDLC, and AI security practices. This is not a purely compliance or documentation-focused ro",
-      "url": "https://www.adzuna.in/details/5904171761?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-01T12:36:03.000Z",
+      "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description This Role is part of the Identity and Access management & governance team within Deutsche India Pvt.Ltd. Identity and Access management services for the Global applications, Thi",
+      "url": "https://www.adzuna.in/land/ad/5905062610?se=Eu5cKRO-8RGC_YC7EWGTZQ&utm_medium=api&utm_source=6848710c&v=C0694EA14488A60C379010800C689D2F8D598DE9",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -191,14 +146,14 @@
       ]
     },
     {
-      "id": "adzuna-5898492803",
-      "title": "Information Security Associate",
-      "organization": "Athena Health",
-      "location": "Pune, Maharashtra",
+      "id": "adzuna-5905915285",
+      "title": "Information Security Engineer",
+      "organization": "MRI",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-09-25T21:23:34.000Z",
-      "description": "Join us as we work to create a thriving ecosystem that delivers accessible, high-quality, and sustainable healthcare for all. Role Summary: The Information Security Associate helps support cybersecurity, IT risk management, and security audit activities that protect sensitive information and strengthen business operations. The position works across information security, systems administration, and",
-      "url": "https://www.adzuna.in/details/5898492803?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-01T21:27:36.000Z",
+      "description": "About the role: Join our team as an Information Security Engineer and help us drive innovation in the world of software development! We are looking for a skilled Info Sec engineer with experience in various tech stacks. We're looking for a self-starter with a passion for software development and the ability to work independently as well as part of a team. If you have a strong eye for detail, excel",
+      "url": "https://www.adzuna.in/details/5905915285?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
