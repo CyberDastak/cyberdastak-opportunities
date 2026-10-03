@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-10-02T03:41:33.638Z",
+  "fetchedAt": "2026-10-03T03:45:13.285Z",
   "counts": {
-    "totalJobs": 112,
+    "totalJobs": 119,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 10,
+    "newJobs": 9,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 10
+    "totalNew": 9
   },
   "jobs": [
     {
-      "id": "adzuna-5902562477",
-      "title": "Associate Project Engineer - Cybersecurity",
-      "organization": "ABB",
+      "id": "adzuna-5900230761",
+      "title": "Cybersecurity Infrastruture - DSPM Lead",
+      "organization": "Kyndryl",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-09-29T10:34:56.000Z",
-      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-      "url": "https://www.adzuna.in/land/ad/5902562477?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=492ACAEBD270A8BA90811AD0D8AC6846B7AB1634",
+      "postedDate": "2026-09-27T08:35:12.000Z",
+      "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow ",
+      "url": "https://www.adzuna.in/land/ad/5900230761?se=Xhhk0ty-8RGTyvTH5qRQ7A&utm_medium=api&utm_source=6848710c&v=4A659D15EE8532B3C5ADF17823B4F4E78AAC5364",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,14 +26,29 @@
       ]
     },
     {
-      "id": "adzuna-5901919589",
-      "title": "Senior Cybersecurity Architect (3-4 Years exp)",
+      "id": "adzuna-5908098033",
+      "title": "Sr Cybersecurity Engineer- AI and Model Security",
+      "organization": "Moody's",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-10-02T19:03:56.000Z",
+      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom t",
+      "url": "https://www.adzuna.in/land/ad/5908098033?se=Xhhk0ty-8RGTyvTH5qRQ7A&utm_medium=api&utm_source=6848710c&v=80F9C9B0B4704A2AA7BB669237818536F167EA5A",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5901919582",
+      "title": "Senior Cybersecurity GRC Analyst (3 -4 years)",
       "organization": "Danaher",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-09-29T00:34:47.000Z",
+      "postedDate": "2026-09-29T00:34:36.000Z",
       "description": "This job is with Danaher, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Beckman Coulter Diagnostics, one of Danaher’s 15 operating companies, ou",
-      "url": "https://www.adzuna.in/land/ad/5901919589?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=25392436DD0C4687A911DF9D6171FAEA6965B6D1",
+      "url": "https://www.adzuna.in/land/ad/5901919582?se=Xhhk0ty-8RGTyvTH5qRQ7A&utm_medium=api&utm_source=6848710c&v=B0DCF447D66CECD21CBDF0D84D5E9C9AF40F5E57",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -41,14 +56,14 @@
       ]
     },
     {
-      "id": "adzuna-5905062472",
-      "title": "Sr Controls Analyst",
-      "organization": "Moody's",
-      "location": "India",
+      "id": "adzuna-5905062692",
+      "title": "Product Security Leader",
+      "organization": "TE Connectivity",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-01T12:35:56.000Z",
-      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom t",
-      "url": "https://www.adzuna.in/land/ad/5905062472?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=F9AE6084D613D845648F965CA313E878344029E7",
+      "postedDate": "2026-10-01T12:36:06.000Z",
+      "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. Job Overview TE Connectivity Ltd. is a $16 billion glo",
+      "url": "https://www.adzuna.in/land/ad/5905062692?se=Xhhk0ty-8RGTyvTH5qRQ7A&utm_medium=api&utm_source=6848710c&v=6EF54A8019C375B9B23275691E3F27F70449C98E",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -56,44 +71,14 @@
       ]
     },
     {
-      "id": "adzuna-5905062748",
-      "title": "Sr Tech Lead- Security Engineer SOAR",
-      "organization": "Aristocrat",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-10-01T12:36:10.000Z",
-      "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Are you driven by cybersecurity and ready to make a significant impact at a world-class company? Aristocrat seeks a passionate and experienced Sr Tech Lead- Security Engineer SOAR to join our inclusive team. At Aris",
-      "url": "https://www.adzuna.in/land/ad/5905062748?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=83426781A5DE1D30F56B268A85FF3E682C5AC28D",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5890717726",
-      "title": "SOAR Automation Engineer/GenAI Engineer",
-      "organization": "Kyndryl",
-      "location": "Noida, Gautam Buddha Nagar",
-      "type": "Full-time",
-      "postedDate": "2026-09-19T20:33:38.000Z",
-      "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow ",
-      "url": "https://www.adzuna.in/land/ad/5890717726?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=64A5AF4D04DCC2B6E67BE968B4AD3904867D55B0",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5902562420",
-      "title": "Project Engineer",
+      "id": "adzuna-5902562511",
+      "title": "Engineering Manager",
       "organization": "ABB",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-09-29T10:34:52.000Z",
+      "postedDate": "2026-09-29T10:34:57.000Z",
       "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-      "url": "https://www.adzuna.in/land/ad/5902562420?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=66CB36B7972B9238A4BA31453E6239874A409B4E",
+      "url": "https://www.adzuna.in/land/ad/5902562511?se=Xhhk0ty-8RGTyvTH5qRQ7A&utm_medium=api&utm_source=6848710c&v=AEFC006E242AF9CCB87CEA24031217570F4892DC",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -101,29 +86,29 @@
       ]
     },
     {
-      "id": "adzuna-5902562310",
-      "title": "IS Data Security - Analyst",
-      "organization": "ABB",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-09-29T10:34:31.000Z",
-      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-      "url": "https://www.adzuna.in/land/ad/5902562310?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=0A8C358A27C9D31998532BC5D2337E0986C5994C",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5905924077",
-      "title": "Penetration Testing",
-      "organization": "Jobgether",
+      "id": "adzuna-5908396255",
+      "title": "SOC Analyst Prin",
+      "organization": "Dayforce",
       "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-10-01T21:31:24.000Z",
-      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Penetration Testing professional based in India. This remote role offers the opportunity to conduct hands-on security assessments across web applications, APIs, networks, and cloud environments. You will independently execute penetration testing engagements, identify vu",
-      "url": "https://www.adzuna.in/details/5905924077?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-02T21:43:21.000Z",
+      "description": "About the Role: The Principal SOC Analyst is a senior hands-on technical and operational role within Dayforce Cybersecurity Operations, responsible for advancing the effectiveness, maturity, and scalability of Security Operations. The role provides leadership in operational excellence (BAU), incident handling quality, process alignment, analyst enablement, and continuous improvement across a globa",
+      "url": "https://www.adzuna.in/details/5908396255?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5888968469",
+      "title": "Associate Director, Principal Security",
+      "organization": "S&P Global",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-09-18T14:36:05.000Z",
+      "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 12 The Role: The Principal Security Engineer - Offensive Security is an internal adversarial security practitioner embedded within Enterprise Solutions (ES). The role ",
+      "url": "https://www.adzuna.in/land/ad/5888968469?se=RkBh1Ny-8RGN96JAzfykhw&utm_medium=api&utm_source=6848710c&v=6C382E5017D3A8EC2F01465F53055D2A7523B009",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -131,29 +116,29 @@
       ]
     },
     {
-      "id": "adzuna-5905062610",
-      "title": "Information Security Analyst",
-      "organization": "Deutsche Bank",
+      "id": "adzuna-5909285862",
+      "title": "Application Security",
+      "organization": "Infosys Limited",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-01T12:36:03.000Z",
-      "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description This Role is part of the Identity and Access management & governance team within Deutsche India Pvt.Ltd. Identity and Access management services for the Global applications, Thi",
-      "url": "https://www.adzuna.in/land/ad/5905062610?se=Eu5cKRO-8RGC_YC7EWGTZQ&utm_medium=api&utm_source=6848710c&v=C0694EA14488A60C379010800C689D2F8D598DE9",
+      "postedDate": "2026-10-03T08:11:02.000Z",
+      "description": "Key Responsibilities: Passionate about technology emerging technology and industry trends App Infrastructure networking image security Cloud security Implement Platform Engineering AI for security security for AI WAF SSL Ethical hacking Mentor junior team members Take bottom line accountability of Platforms and infrastructure availability and security Preferred Skills: Technology->Application Secu",
+      "url": "https://www.adzuna.in/details/5909285862?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "information security"
+        "ethical hacking"
       ]
     },
     {
-      "id": "adzuna-5905915285",
-      "title": "Information Security Engineer",
-      "organization": "MRI",
-      "location": "Bangalore, Karnataka",
+      "id": "adzuna-5908098107",
+      "title": "Lead-IT & Information Security_2551- 6 years - IAM/ One Identity Manager DevelopmentBA role",
+      "organization": "Allianz Commercial",
+      "location": "Pune, Maharashtra",
       "type": "Full-time",
-      "postedDate": "2026-10-01T21:27:36.000Z",
-      "description": "About the role: Join our team as an Information Security Engineer and help us drive innovation in the world of software development! We are looking for a skilled Info Sec engineer with experience in various tech stacks. We're looking for a self-starter with a passion for software development and the ability to work independently as well as part of a team. If you have a strong eye for detail, excel",
-      "url": "https://www.adzuna.in/details/5905915285?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-02T19:04:08.000Z",
+      "description": "This job is with Allianz Commercial, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Overall Objectives of Job: (If multiple sections, accord weightage to each section) The Identity & Access Management (IAM) Developer position, provides programming, development, maintenance and support for I",
+      "url": "https://www.adzuna.in/land/ad/5908098107?se=ImRa1ty-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=6848710c&v=E2419E86A007946F1EA413853AC3C72A580D0DFA",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
