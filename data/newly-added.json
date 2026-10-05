@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-10-04T05:29:03.620Z",
+  "fetchedAt": "2026-10-05T03:43:22.723Z",
   "counts": {
-    "totalJobs": 108,
+    "totalJobs": 102,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 8,
+    "newJobs": 3,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 8
+    "totalNew": 3
   },
   "jobs": [
     {
-      "id": "adzuna-5899924422",
-      "title": "Intermediate IT Auditor",
-      "organization": "Moody's",
+      "id": "adzuna-5903778604",
+      "title": "Cybersecurity, Partner",
+      "organization": "Hut 8",
       "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-09-26T22:38:27.000Z",
-      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom t",
-      "url": "https://www.adzuna.in/details/5899924422?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-09-30T16:15:56.000Z",
+      "description": "ABOUT THE ROLE The Cybersecurity, Partner is Hut 8’s senior security leader and enterprise owner for cybersecurity strategy, architecture, governance, and risk. This role defines the security vision and operating model across corporate IT, mining operations, data centers, cloud, and AI/compute environments, and translates that vision into a practical roadmap for a rapidly scaling, publicly traded ",
+      "url": "https://www.adzuna.in/details/5903778604?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,89 +26,14 @@
       ]
     },
     {
-      "id": "adzuna-5908495620",
-      "title": "Cybersecurity Analyst",
-      "organization": "Smiths Detection",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-10-02T22:28:20.000Z",
-      "description": "Job Description Job Opportunity As a Cybersecurity Analyst, you will play a critical role in protecting the organisation from cyber threats. Operating within the Security Operations function, you will monitor, analyse, and respond to security events and incidents whilst continuously improving detection and response capabilities. What you will be doing Monitor SIEM, EDR, and security tools for susp",
-      "url": "https://www.adzuna.in/details/5908495620?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5909232062",
-      "title": "Cybersecurity Architect",
-      "organization": "Siemens Healthineers",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-10-03T07:41:12.000Z",
-      "description": "Job Requirements You will lead cybersecurity planning activities by developing Product Security Development Plans (PSDP), determining project cybersecurity classifications, and establishing cybersecurity engineering strategies that align with regulatory, organizational, and product-specific requirements. You will define and maintain product cybersecurity requirements by identifying applicable regu",
-      "url": "https://www.adzuna.in/details/5909232062?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5909547123",
-      "title": "Engineer - Cybersecurity",
-      "organization": "Eaton Corporation",
-      "location": "Hadapsar, Pune",
-      "type": "Full-time",
-      "postedDate": "2026-10-03T11:16:30.000Z",
-      "description": "What you'll do: The Cybersecurity Engineer will be part of a global team of security experts driving 'Security by Design' philosophy in Eaton product, solutions & services. \" Engineer - Cybersecurity will be part of a global team of Cybersecurity experts driving 'Security by Design' philosophy in Eaton product and solutions. He/she will be responsible for: A. Performing Vulnerability Assessment & ",
-      "url": "https://www.adzuna.in/details/5909547123?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5898263264",
-      "title": "Senior Penetration Tester",
-      "organization": "Danaher",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-09-25T16:35:01.000Z",
-      "description": "This job is with Danaher, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Bring more to life. Are you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology? At Beckman Coulter Diagnostics, one of Danaher’s 15 operating companies, ou",
-      "url": "https://www.adzuna.in/details/5898263264?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5904434709",
+      "id": "adzuna-5910249671",
       "title": "Penetration Tester Specialist",
-      "organization": "Global Payments Inc.",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-10-01T07:25:23.000Z",
-      "description": "Ready to take your career global? Global Payments Inc. is a leading worldwide provider of payment technology services that deliver innovative solutions driven by customer needs globally. Our technologies, partnerships, and employee expertise enable us to provide a broad range of products and services that allow our customers to accept all payment types across a variety of distribution channels in ",
-      "url": "https://www.adzuna.in/details/5904434709?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5905879738",
-      "title": "Senior Penetration Tester",
       "organization": "Global Payment Holding Company",
       "location": "Pune, Maharashtra",
       "type": "Full-time",
-      "postedDate": "2026-10-01T21:07:40.000Z",
+      "postedDate": "2026-10-03T21:47:19.000Z",
       "description": "R eady to take your career g lobal ? Global Payments Inc. is a leading worldwide provider of payment technology services that deliver innovative solutions driven by customer needs globally. Our technologies, partnerships, and employee expertise enable us to provide a broad range of products and services that allow our customers to accept all payment types across a variety of distribution channels ",
-      "url": "https://www.adzuna.in/details/5905879738?utm_medium=api&utm_source=6848710c",
+      "url": "https://www.adzuna.in/details/5910249671?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -116,14 +41,14 @@
       ]
     },
     {
-      "id": "adzuna-5909286111",
-      "title": "IT Consulting",
-      "organization": "Infosys Limited",
+      "id": "adzuna-5911675022",
+      "title": "Vulnerability Ops Consultant_MAST",
+      "organization": "BSR & Co",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-03T08:11:05.000Z",
-      "description": "Key Responsibilities: A day in the life of an Infoscion As part of the Infosys consulting team your primary role would be to actively aid the consulting team in different phases of the project including problem definition effort estimation diagnosis solution generation and design and deployment You will explore the alternatives to the recommended solutions based on research that includes literatur",
-      "url": "https://www.adzuna.in/details/5909286111?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-04T21:34:55.000Z",
+      "description": "Description *Description for Internal Candidates Roles and Responsibilities: Web PT -Consultant Perform manual application penetration tests on one or more of the following to discover and exploit vulnerabilities: web applications, internal applications, APIs, internal and mobile applications Ability to independently research for new vulnerabilities in systems and software and modify and customize",
+      "url": "https://www.adzuna.in/details/5911675022?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",

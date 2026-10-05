@@ -1,5 +1,35 @@
 [
   {
+    "id": "adzuna-5911675022",
+    "title": "Vulnerability Ops Consultant_MAST",
+    "organization": "BSR & Co",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "postedDate": "2026-10-04T21:34:55.000Z",
+    "description": "Description *Description for Internal Candidates Roles and Responsibilities: Web PT -Consultant Perform manual application penetration tests on one or more of the following to discover and exploit vulnerabilities: web applications, internal applications, APIs, internal and mobile applications Ability to independently research for new vulnerabilities in systems and software and modify and customize",
+    "url": "https://www.adzuna.in/details/5911675022?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "ethical hacking"
+    ]
+  },
+  {
+    "id": "adzuna-5910249671",
+    "title": "Penetration Tester Specialist",
+    "organization": "Global Payment Holding Company",
+    "location": "Pune, Maharashtra",
+    "type": "Full-time",
+    "postedDate": "2026-10-03T21:47:19.000Z",
+    "description": "R eady to take your career g lobal ? Global Payments Inc. is a leading worldwide provider of payment technology services that deliver innovative solutions driven by customer needs globally. Our technologies, partnerships, and employee expertise enable us to provide a broad range of products and services that allow our customers to accept all payment types across a variety of distribution channels ",
+    "url": "https://www.adzuna.in/details/5910249671?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "penetration testing"
+    ]
+  },
+  {
     "id": "adzuna-5909547123",
     "title": "Engineer - Cybersecurity",
     "organization": "Eaton Corporation",
@@ -267,6 +297,21 @@
     "tags": [
       "Cybersecurity",
       "penetration testing"
+    ]
+  },
+  {
+    "id": "adzuna-5903778604",
+    "title": "Cybersecurity, Partner",
+    "organization": "Hut 8",
+    "location": "India",
+    "type": "Full-time",
+    "postedDate": "2026-09-30T16:15:56.000Z",
+    "description": "ABOUT THE ROLE The Cybersecurity, Partner is Hut 8’s senior security leader and enterprise owner for cybersecurity strategy, architecture, governance, and risk. This role defines the security vision and operating model across corporate IT, mining operations, data centers, cloud, and AI/compute environments, and translates that vision into a practical roadmap for a rapidly scaling, publicly traded ",
+    "url": "https://www.adzuna.in/details/5903778604?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "cybersecurity"
     ]
   },
   {
@@ -1492,141 +1537,6 @@
     "tags": [
       "Cybersecurity",
       "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5890818534",
-    "title": "SOC Analyst",
-    "organization": "Revantage",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-09-19T21:59:19.000Z",
-    "description": "POSITION SUMMARY The SOC Analyst (L1) is the first line of detection and response within Revantage's Security Operations Center, responsible for continuous monitoring of security alerts, performing initial triage, and ensuring timely escalation to L2 analysts. The role operates using the ReliaQuest GreyMatter MDR platform as the primary investigation interface, supported by Microsoft Defender for ",
-    "url": "https://www.adzuna.in/details/5890818534?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "SOC analyst"
-    ]
-  },
-  {
-    "id": "adzuna-5890800024",
-    "title": "Architect - Cybersecurity",
-    "organization": "Harman Becker Automotive Systems Manufacturing Kft",
-    "location": "India",
-    "type": "Full-time",
-    "postedDate": "2026-09-19T21:45:35.000Z",
-    "description": "HARMAN’s engineers and designers are creative, purposeful and agile. As part of this team, you’ll combine your technical expertise with innovative ideas to help drive cutting-edge solutions in the car, enterprise and connected ecosystem. Every day, you will push the boundaries of creative design, and HARMAN is committed to providing you with the opportunities, innovative technologies and resources",
-    "url": "https://www.adzuna.in/details/5890800024?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5890717726",
-    "title": "SOAR Automation Engineer/GenAI Engineer",
-    "organization": "Kyndryl",
-    "location": "Noida, Gautam Buddha Nagar",
-    "type": "Full-time",
-    "postedDate": "2026-09-19T20:33:38.000Z",
-    "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow ",
-    "url": "https://www.adzuna.in/land/ad/5890717726?se=zmWOKBO-8RGHn7x1ngUVJg&utm_medium=api&utm_source=6848710c&v=64A5AF4D04DCC2B6E67BE968B4AD3904867D55B0",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5890613687",
-    "title": "GRC Consultant – Information Security",
-    "organization": "Infosec Train",
-    "location": "Trivandrum, Thiruvananthapuram",
-    "type": "Full-time",
-    "postedDate": "2026-09-19T17:36:13.000Z",
-    "description": "GRC Consultant - Information Security Location: Preferably Trivandrum / Kochi (Hybrid) OR Willing to Relocate Experience: 2–3 Years Salary: Up to ₹40,000 per month Employment Type: Full-Time Job Description We are looking for a GRC Consultant with 2–3 years of experience in Information Security, Governance, Risk, and Compliance. The candidate will be responsible for supporting client consulting en",
-    "url": "https://www.adzuna.in/land/ad/5890613687?se=StDus6S08RGgTfTRjzY3DA&utm_medium=api&utm_source=6848710c&v=3D131F612A090BE55BAD08EB37F098D00EA0994A",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "information security"
-    ]
-  },
-  {
-    "id": "adzuna-5890613261",
-    "title": "Senior Penetration Tester",
-    "organization": "ESDS Software Solution Limited",
-    "location": "Nashik, Maharashtra",
-    "type": "Full-time",
-    "postedDate": "2026-09-19T17:35:34.000Z",
-    "description": "We are looking for an experienced Senior Penetration Tester to perform VAPT engagements across web, network, cloud, mobile, APIs, and enterprise infrastructure. The candidate should have strong offensive security skills, experience in leading security assessments, and excellent client-facing communication. Key Responsibilities Perform Web, Network, Mobile, API, and Cloud Penetration Testing. Condu",
-    "url": "https://www.adzuna.in/land/ad/5890613261?se=1Pecs6S08RGm1alvctyjWA&utm_medium=api&utm_source=6848710c&v=699814079CCF7E21CD765A9D6036987BEAB63788",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "penetration testing"
-    ]
-  },
-  {
-    "id": "adzuna-5890612748",
-    "title": "Technical Account Manager (Cybersecurity)",
-    "organization": "CloudSEK",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-09-19T17:34:00.000Z",
-    "description": "WHO ARE WE? We are a bunch of super enthusiastic, passionate, and highly driven people, working to achieve a common goal! We believe that work and the workplace should be joyful and always buzzing with energy! CloudSEK, one of India’s most trusted Cyber security product companies, is on a mission to build the world’s fastest and most reliable AI technology that identifies and resolves digital thre",
-    "url": "https://www.adzuna.in/land/ad/5890612748?se=pIRKs6S08RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=4325729B2EBD33C9D9E73188C0AF60E6C6F0CAC1",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5890612198",
-    "title": "Inside Sales Specialist",
-    "organization": "CyberMindr",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-09-19T17:32:26.000Z",
-    "description": "We’re Hiring: Inside Sales Specialist – Cybersecurity  Bengaluru | Experience: 1–4 years | Individual Contributor CyberMindr is an AI-enabled Attack Path Discovery and Validation platform that helps enterprises identify and validate what attackers can exploit. What You’ll Do Generate and qualify B2B leads through calls, emails, LinkedIn, and campaigns. Engage CISOs and security leaders, understand",
-    "url": "https://www.adzuna.in/land/ad/5890612198?se=1t1KkJK48RGSEY7qyhDnxg&utm_medium=api&utm_source=6848710c&v=23F4B263F24339C90B1F9C31C34B7E6236CA23A2",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "penetration testing"
-    ]
-  },
-  {
-    "id": "adzuna-5890610296",
-    "title": "Cybersecurity Risk Analyst",
-    "organization": "Vensure Employer Solutions",
-    "location": "Noida, Ghaziabad",
-    "type": "Full-time",
-    "postedDate": "2026-09-19T17:31:11.000Z",
-    "description": "Information security analysts are responsible for improving the overall security posture of the organization. They evaluate, test and document security solutions and controls, and work closely with other security team members to remediate risk while ensuring the business can innovate. Candidate Experience Level 4 to 7 years of experience in Cybersecurity, including compliance, regulations, risk ma",
-    "url": "https://www.adzuna.in/land/ad/5890610296?se=pIRKs6S08RGk6dCvHcHp9g&utm_medium=api&utm_source=6848710c&v=B7F16F57FD8C968E2615880E03CD05D399A89F53",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5890608131",
-    "title": "AI Penetration Tester (Contract)",
-    "organization": "DATAMTX LLC",
-    "location": "India",
-    "type": "Part-time",
-    "postedDate": "2026-09-19T17:30:28.000Z",
-    "description": "WHO WE ARE Datamtx (www.datamtx.com / formerly Datamatics) established in 1993 is globally HQ'd in Atlanta with a stellar history supporting both Tier 1 and 2 ERP / MES projects including: S/4HANA, JDE, Oracle Cloud ERP, Peoplesoft, Deltek, Infor (M3 / S3 / Syteline / LN / Factory Track / MacPac XE / LX, XA, CPQ), IFS, Deltek, Blackbaud, Ellucian Banner, D365, SysPro, Epicor, Plex, BlackLine, etc ",
-    "url": "https://www.adzuna.in/land/ad/5890608131?se=sKIxI2618RGSI57gYuD12g&utm_medium=api&utm_source=6848710c&v=B0E99F160CC70A46F122E4DF4F69699B3C919F6F",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "penetration testing"
     ]
   }
 ]
