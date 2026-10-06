@@ -1,58 +1,43 @@
 {
-  "fetchedAt": "2026-10-05T03:43:22.723Z",
+  "fetchedAt": "2026-10-06T03:42:10.878Z",
   "counts": {
-    "totalJobs": 102,
+    "totalJobs": 103,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 3,
+    "newJobs": 2,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 3
+    "totalNew": 2
   },
   "jobs": [
     {
-      "id": "adzuna-5903778604",
-      "title": "Cybersecurity, Partner",
-      "organization": "Hut 8",
-      "location": "India",
+      "id": "adzuna-5912389031",
+      "title": "SOC Analyst",
+      "organization": "Gravity Engineering Services Pvt Ltd",
+      "location": "Delhi, India",
       "type": "Full-time",
-      "postedDate": "2026-09-30T16:15:56.000Z",
-      "description": "ABOUT THE ROLE The Cybersecurity, Partner is Hut 8’s senior security leader and enterprise owner for cybersecurity strategy, architecture, governance, and risk. This role defines the security vision and operating model across corporate IT, mining operations, data centers, cloud, and AI/compute environments, and translates that vision into a practical roadmap for a rapidly scaling, publicly traded ",
-      "url": "https://www.adzuna.in/details/5903778604?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-05T16:35:22.000Z",
+      "description": "We are hiring a SOC Analyst to monitor, detect and respond to security threats. Responsibilities Monitor and triage alerts in the SIEM Investigate and respond to security incidents Tune detection rules to reduce false positives Document incidents and lessons learned Requirements 1 years working in a SOC Experience with Splunk, QRadar or a similar SIEM Good knowledge of common attack techniques Ski",
+      "url": "https://www.adzuna.in/details/5912389031?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "cybersecurity"
+        "SOC analyst"
       ]
     },
     {
-      "id": "adzuna-5910249671",
-      "title": "Penetration Tester Specialist",
-      "organization": "Global Payment Holding Company",
-      "location": "Pune, Maharashtra",
+      "id": "adzuna-5912389084",
+      "title": "Penetration Tester",
+      "organization": "Gravity Engineering Services Pvt Ltd",
+      "location": "Delhi, India",
       "type": "Full-time",
-      "postedDate": "2026-10-03T21:47:19.000Z",
-      "description": "R eady to take your career g lobal ? Global Payments Inc. is a leading worldwide provider of payment technology services that deliver innovative solutions driven by customer needs globally. Our technologies, partnerships, and employee expertise enable us to provide a broad range of products and services that allow our customers to accept all payment types across a variety of distribution channels ",
-      "url": "https://www.adzuna.in/details/5910249671?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-05T16:35:22.000Z",
+      "description": "We are looking for a Penetration Tester to find and fix security weaknesses in our systems. Responsibilities Run web, mobile, API and network penetration tests Write clear reports with fix guidance Retest after fixes are applied Keep up with new attack techniques Requirements 1 years of VAPT experience Strong OWASP and Burp Suite skills OSCP or CEH certification is a plus Skills:- Penetration test",
+      "url": "https://www.adzuna.in/details/5912389084?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
         "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5911675022",
-      "title": "Vulnerability Ops Consultant_MAST",
-      "organization": "BSR & Co",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-10-04T21:34:55.000Z",
-      "description": "Description *Description for Internal Candidates Roles and Responsibilities: Web PT -Consultant Perform manual application penetration tests on one or more of the following to discover and exploit vulnerabilities: web applications, internal applications, APIs, internal and mobile applications Ability to independently research for new vulnerabilities in systems and software and modify and customize",
-      "url": "https://www.adzuna.in/details/5911675022?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "ethical hacking"
       ]
     }
   ],

@@ -1,5 +1,35 @@
 [
   {
+    "id": "adzuna-5912389031",
+    "title": "SOC Analyst",
+    "organization": "Gravity Engineering Services Pvt Ltd",
+    "location": "Delhi, India",
+    "type": "Full-time",
+    "postedDate": "2026-10-05T16:35:22.000Z",
+    "description": "We are hiring a SOC Analyst to monitor, detect and respond to security threats. Responsibilities Monitor and triage alerts in the SIEM Investigate and respond to security incidents Tune detection rules to reduce false positives Document incidents and lessons learned Requirements 1 years working in a SOC Experience with Splunk, QRadar or a similar SIEM Good knowledge of common attack techniques Ski",
+    "url": "https://www.adzuna.in/details/5912389031?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "SOC analyst"
+    ]
+  },
+  {
+    "id": "adzuna-5912389084",
+    "title": "Penetration Tester",
+    "organization": "Gravity Engineering Services Pvt Ltd",
+    "location": "Delhi, India",
+    "type": "Full-time",
+    "postedDate": "2026-10-05T16:35:22.000Z",
+    "description": "We are looking for a Penetration Tester to find and fix security weaknesses in our systems. Responsibilities Run web, mobile, API and network penetration tests Write clear reports with fix guidance Retest after fixes are applied Keep up with new attack techniques Requirements 1 years of VAPT experience Strong OWASP and Burp Suite skills OSCP or CEH certification is a plus Skills:- Penetration test",
+    "url": "https://www.adzuna.in/details/5912389084?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "penetration testing"
+    ]
+  },
+  {
     "id": "adzuna-5911675022",
     "title": "Vulnerability Ops Consultant_MAST",
     "organization": "BSR & Co",
@@ -1522,21 +1552,6 @@
       "Cybersecurity",
       "cybersecurity",
       "Internship"
-    ]
-  },
-  {
-    "id": "adzuna-5891350965",
-    "title": "Business Continuity Manager @ Mumbai",
-    "organization": "Quess IT Solutions",
-    "location": "Mumbai, Maharashtra",
-    "type": "Full-time",
-    "postedDate": "2026-09-20T09:28:36.000Z",
-    "description": "We are seeking a knowledgeable and client-focused Cybersecurity GRC Consultant to support consulting, assessment, audit, compliance, and documentation engagements across information security, privacy, regulatory compliance, third-party risk, and cyber resilience. The ideal candidate will have hands-on experience delivering cybersecurity GRC engagements for clients, interpreting regulatory requirem",
-    "url": "https://www.adzuna.in/land/ad/5891350965?se=dFgeCyW68RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=90DB569DDA25A576108C709341D8AE37E0830BF6",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
     ]
   }
 ]
