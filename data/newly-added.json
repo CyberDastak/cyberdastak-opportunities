@@ -1,15 +1,31 @@
 {
-  "fetchedAt": "2026-10-07T03:42:37.887Z",
+  "fetchedAt": "2026-10-08T03:42:50.650Z",
   "counts": {
-    "totalJobs": 100,
+    "totalJobs": 92,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 0,
+    "newJobs": 1,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 0
+    "totalNew": 1
   },
-  "jobs": [],
+  "jobs": [
+    {
+      "id": "adzuna-5908380196",
+      "title": "Cybersecurity Manager",
+      "organization": "Ensemble Health Partners India",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-10-02T21:38:49.000Z",
+      "description": "Thank you for considering a career at Ensemble Health Partners India! Ensemble Health Partners - The single solution for a frictionless revenue cycle with the purpose of redefining the possible in healthcare by empowering people to be the difference. Our India Office is an extension of Ensemble’s team and culture designed to augment and enhance our talent and skill base in Revenue Cycle Management",
+      "url": "https://www.adzuna.in/details/5908380196?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    }
+  ],
   "events": [],
   "scholarships": []
 }
