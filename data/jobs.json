@@ -1,5 +1,35 @@
 [
   {
+    "id": "adzuna-5920984493",
+    "title": "Telematics Cybersecurity",
+    "organization": "Daimler Truck",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Full-time",
+    "postedDate": "2026-10-09T21:54:05.000Z",
+    "description": "Description Strong Experience of securing telematics systems and over-the-air (OTA) updates. Strong experience in Threat Analysis and Risk Assessment (TARA). Experience in conducting threat analysis and risk assessments specific to automotive systems. Ability to identify, evaluate, and mitigate cybersecurity risks in vehicle networks and systems. Deep understanding of Automotive Cybersecurity Stan",
+    "url": "https://www.adzuna.in/details/5920984493?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "cybersecurity"
+    ]
+  },
+  {
+    "id": "adzuna-5920549354",
+    "title": "Information Security Executive",
+    "organization": "InFynd",
+    "location": "Coimbatore South, Coimbatore",
+    "type": "Full-time",
+    "postedDate": "2026-10-09T17:37:25.000Z",
+    "description": "Maintain and continuously improve the organization's ISMS in alignment with ISO/IEC 27001 . Coordinate internal and external ISO audits , including audit preparation, evidence collection, and closure of observations. Conduct information security risk assessments and maintain the risk register and risk treatment plans. Develop, review, and maintain information security policies, procedures, standar",
+    "url": "https://www.adzuna.in/details/5920549354?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "information security"
+    ]
+  },
+  {
     "id": "adzuna-5919674466",
     "title": "Information Security Analyst",
     "organization": "Eurofins GSC IT DC",
@@ -1149,173 +1179,6 @@
     "postedDate": "2026-09-25T15:22:00.000Z",
     "description": "Please share CV to monica_sharma@hcl-software.com with the below details: Total Experience- Should be 6 years Current CTC- Expected CTC- Notice period- Location- Mandatory skills- hands-on experience in penetration testing,SAST,DAST,SCA and threat modelling. Application Security Engineer/Lead- Requirement- Hands-on experience in Threat Modelling using STRIDE for identifying attack vectors, trust b",
     "url": "https://www.adzuna.in/land/ad/5898127073?se=-qOUq1u58RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=E237D6AAB77D70F40C809F7AC23B1FDE9797CFF9",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "penetration testing"
-    ]
-  },
-  {
-    "id": "adzuna-5897295337",
-    "title": "Customer Success Engineer",
-    "organization": "Trantor",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-09-25T01:55:26.000Z",
-    "description": "About the Role As an Customer Success Engineer — Onboarding Specialist , you will be the frontline technical owner of the customer onboarding experience. You will guide newly provisioned customers through the initial setup and configuration of Cloudflare products, validate their deployment, troubleshoot common technical issues, and ensure they achieve their first value from the platform. This is a",
-    "url": "https://www.adzuna.in/land/ad/5897295337?se=6qxkq1u58RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=C70E96588E570A0DDE7B5EF97196EB1475C0842B",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "SOC analyst"
-    ]
-  },
-  {
-    "id": "adzuna-5897294702",
-    "title": "ISO 27001 Lead Auditor (Certification Body Experience Required)",
-    "organization": "AuditPartners",
-    "location": "India",
-    "type": "Full-time",
-    "postedDate": "2026-09-25T01:52:51.000Z",
-    "description": "Company Description AuditPartners™ is a full-stack AI audit and risk consulting firm focused on helping organizations succeed in the AI era. The firm supports a wide range of frameworks, including ISO 27001, ISO 42001, SOC 2, SOX ITGC, CMMC 2.0, NIST AI RMF, and HIPAA/HITRUST. AuditPartners helps clients assess risk, build governance programs, and demonstrate audit readiness across AI governance, ",
-    "url": "https://www.adzuna.in/land/ad/5897294702?se=iBV_CyW68RGQPPwux0qYyA&utm_medium=api&utm_source=6848710c&v=9A794599813563F2C9FB4F4344D7D05EDE289ED1",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "penetration testing"
-    ]
-  },
-  {
-    "id": "adzuna-5897294654",
-    "title": "Manager - Internal IT & Information Security",
-    "organization": "Jeavio",
-    "location": "Vadodara, Gujarat",
-    "type": "Internship",
-    "postedDate": "2026-09-25T01:52:37.000Z",
-    "description": "Jeavio is an ISO 27001 certified software development services company. This role leads the day-to-day operation of our internal IT environment and Information Security Management System (ISMS), ensuring our people can work securely and reliably while maintaining the controls, evidence and readiness expected by our clients and auditors. The role partners closely with Engineering, HR, Legal and lea",
-    "url": "https://www.adzuna.in/land/ad/5897294654?se=atW0kJK48RGCrY1UB-52MQ&utm_medium=api&utm_source=6848710c&v=E3A7EEF4562A7D9D218EC8FE7E7DBE157258E9C7",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "information security",
-      "Internship"
-    ]
-  },
-  {
-    "id": "adzuna-5897259805",
-    "title": "cybersecurity",
-    "organization": "Trigent Software Private Limited",
-    "location": "India",
-    "type": "Full-time",
-    "postedDate": "2026-09-24T23:46:08.000Z",
-    "description": "Holds Minimum 5 10 years in cybersecurity, focusing specifically on vulnerability management, security operations, or infrastructure security Lead and manage enterprise-wide vulnerability management activities. Establish vulnerability management policies, standards, and operating procedures. Drive continuous improvement of the vulnerability management framework. Define KPIs, KRIs, SLAs, and remedi",
-    "url": "https://www.adzuna.in/details/5897259805?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5896962286",
-    "title": "Information Security Senior Specialist",
-    "organization": "ABB",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-09-24T20:31:56.000Z",
-    "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-    "url": "https://www.adzuna.in/land/ad/5896962286?se=atW0kJK48RGCrY1UB-52MQ&utm_medium=api&utm_source=6848710c&v=99D9B4EFB608AA95CF68094A9D216443786D2679",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "information security"
-    ]
-  },
-  {
-    "id": "adzuna-5896613134",
-    "title": "Telesales Representative (international shift)",
-    "organization": "Ethical Den",
-    "location": "India",
-    "type": "Internship",
-    "postedDate": "2026-09-24T15:17:58.000Z",
-    "description": "Company Description Ethical Den is a digital marketing and software development company established in May 2021, committed to building and promoting strong digital infrastructure and cyber hygiene worldwide. The organization provides a range of services, including security audits, digital marketing, website and application development, and data-driven solutions. Ethical Den also focuses on trainin",
-    "url": "https://www.adzuna.in/land/ad/5896613134?se=eBZ_kJK48RGBD71qhS2Jzg&utm_medium=api&utm_source=6848710c&v=89D4306DB7681B4E6F4BCE7886F68105CA88F451",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "ethical hacking",
-      "Internship"
-    ]
-  },
-  {
-    "id": "adzuna-5896612921",
-    "title": "Cybersecurity Projects Manager (Technical Role)",
-    "organization": "Godrej Infotech Ltd",
-    "location": "Mumbai, Maharashtra",
-    "type": "Full-time",
-    "postedDate": "2026-09-24T15:17:51.000Z",
-    "description": "Position Name : Cybersecurity Projects Manager Location : Mumbai Experience : 8 Years Cybersecurity Projects Manager (Technical Role) Key Result Areas Independently evaluate, plan, execute, and deliver cybersecurity technology projects end‑to‑end. Lead the technical delivery lifecycle across design/architecture, implementation, integration, and handover of security solutions. Coordinate and drive ",
-    "url": "https://www.adzuna.in/land/ad/5896612921?se=dFgeCyW68RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=E20FADB678396219D80842640F05405FFBC7D794",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5896317317",
-    "title": "Information Security Associate",
-    "organization": "Deutsche Bank",
-    "location": "Pune, Maharashtra",
-    "type": "Full-time",
-    "postedDate": "2026-09-24T10:32:27.000Z",
-    "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Are you interested in starting a career in Information Security in TDI CSO Information Security & Production Services? As “Identity & Access Recertification Data Quality Informa",
-    "url": "https://www.adzuna.in/land/ad/5896317317?se=ukL0q1u58RG7B5TOu1dSGw&utm_medium=api&utm_source=6848710c&v=340B5C5A1D6BE6024F2AD4A19AB75C8D13DDF903",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "information security"
-    ]
-  },
-  {
-    "id": "adzuna-5896317328",
-    "title": "Application Security Specialist",
-    "organization": "Entain",
-    "location": "Maharashtra, India",
-    "type": "Full-time",
-    "postedDate": "2026-09-24T10:32:27.000Z",
-    "description": "This job is with Entain, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Entain India is the engineering and delivery powerhouse for Entain, one of the world's leading global sports and gaming groups. Established in Hyderabad in 2001, we've grown from a small tech hub into a dynamic force, d",
-    "url": "https://www.adzuna.in/land/ad/5896317328?se=iBV_CyW68RGQPPwux0qYyA&utm_medium=api&utm_source=6848710c&v=C9DFF6912B002C6B829691DF89FB9D428D65CFDB",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "penetration testing"
-    ]
-  },
-  {
-    "id": "adzuna-5896317147",
-    "title": "Offensive Security Specialist",
-    "organization": "Entain",
-    "location": "Telangana, India",
-    "type": "Full-time",
-    "postedDate": "2026-09-24T10:31:51.000Z",
-    "description": "This job is with Entain, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Entain India is the engineering and delivery powerhouse for Entain, one of the world's leading global sports and gaming groups. Established in Hyderabad in 2001, we've grown from a small tech hub into a dynamic force, d",
-    "url": "https://www.adzuna.in/land/ad/5896317147?se=-qOUq1u58RGGQ9u1mQKVdw&utm_medium=api&utm_source=6848710c&v=ED190FA6186AB471AF9F454D6C7C1105A6BDD69C",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "penetration testing"
-    ]
-  },
-  {
-    "id": "adzuna-5896250719",
-    "title": "Principal Security Engineer",
-    "organization": "GeoServe",
-    "location": "India",
-    "type": "Full-time",
-    "postedDate": "2026-09-24T09:50:14.000Z",
-    "description": "About the Role Geoserve Energy Transport is seeking a hands-on Principal Security Engineer to build, own, and run the organization's information and application security function. This is a working leadership role — you will personally drive vulnerability management, penetration testing, and perimeter security, not just oversee it. You'll be the single point of accountability for the security post",
-    "url": "https://www.adzuna.in/land/ad/5896250719?se=1t1KkJK48RGSEY7qyhDnxg&utm_medium=api&utm_source=6848710c&v=AA9A7B71190805E362D0F6D52B637F4E56AF4993",
     "source": "adzuna",
     "tags": [
       "Cybersecurity",

@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-10-09T03:43:49.485Z",
+  "fetchedAt": "2026-10-10T03:42:34.902Z",
   "counts": {
-    "totalJobs": 88,
+    "totalJobs": 79,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 5,
+    "newJobs": 2,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 5
+    "totalNew": 2
   },
   "jobs": [
     {
-      "id": "adzuna-5919510361",
-      "title": "Cybersecurity Consultant",
-      "organization": "Weekday AI",
-      "location": "India",
+      "id": "adzuna-5920984493",
+      "title": "Telematics Cybersecurity",
+      "organization": "Daimler Truck",
+      "location": "Chennai, Tamil Nadu",
       "type": "Full-time",
-      "postedDate": "2026-10-08T23:22:43.000Z",
-      "description": "'   :   -   (  - ) Experience: 10 yrs Location: India Job Type: Full-time We are looking for an experienced Cybersecurity Penetration Testing & Data Centre Security Specialist to assess, strengthen, and validate the security posture of enterprise networks and critical infrastructure environments. The ideal candidate will have deep expertise in penetration testing, cybersecurity controls, network s",
-      "url": "https://www.adzuna.in/details/5919510361?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-09T21:54:05.000Z",
+      "description": "Description Strong Experience of securing telematics systems and over-the-air (OTA) updates. Strong experience in Threat Analysis and Risk Assessment (TARA). Experience in conducting threat analysis and risk assessments specific to automotive systems. Ability to identify, evaluate, and mitigate cybersecurity risks in vehicle networks and systems. Deep understanding of Automotive Cybersecurity Stan",
+      "url": "https://www.adzuna.in/details/5920984493?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,59 +26,14 @@
       ]
     },
     {
-      "id": "adzuna-5918768543",
-      "title": "Cybersecurity Analyst",
-      "organization": "Smiths Detection",
-      "location": "Bangalore, Karnataka",
+      "id": "adzuna-5920549354",
+      "title": "Information Security Executive",
+      "organization": "InFynd",
+      "location": "Coimbatore South, Coimbatore",
       "type": "Full-time",
-      "postedDate": "2026-10-08T16:19:58.000Z",
-      "description": "Job Description Job Opportunity As a Cybersecurity Analyst, you will play a critical role in protecting the organisation from cyber threats. Operating within the Security Operations function, you will monitor, analyse, and respond to security events and incidents whilst continuously improving detection and response capabilities. What you will be doing Monitor SIEM, EDR, and security tools for susp",
-      "url": "https://www.adzuna.in/details/5918768543?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5916888227",
-      "title": "Cybersecurity Professional",
-      "organization": "Augmentive Business 7 Solutions Pvt Ltd",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-10-07T16:41:43.000Z",
-      "description": "Job Description – Cybersecurity Professional Position Title: Cybersecurity Professional Location: Chandigarh Department: IT Security & Compliance Employment Type: Full-Time Reporting To: Chief Information Security Officer (CISO) / IT Security Manager Role Overview We are seeking a highly skilled Cybersecurity Professional to safeguard our IT infrastructure, applications, and data assets against ev",
-      "url": "https://www.adzuna.in/details/5916888227?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5918821273",
-      "title": "Cybersecurity Trainer",
-      "organization": "KGiSL Educational Institution",
-      "location": "Thrissur, Kerala",
-      "type": "Full-time",
-      "postedDate": "2026-10-08T16:36:10.000Z",
-      "description": "Are you passionate about Cyber Security and love sharing your knowledge? We are looking for a dynamic and industry-experienced Cyber Security Trainer to inspire and equip students with in-demand cyber security skills.  Role: Cyber Security Trainer  Mode: Offline  Type: Freelance Languages Required: ✅ English (Mandatory) ✅ Malayalam (Mandatory) What You'll Do: ✅ Deliver engaging and interactive tra",
-      "url": "https://www.adzuna.in/details/5918821273?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "ethical hacking"
-      ]
-    },
-    {
-      "id": "adzuna-5919674466",
-      "title": "Information Security Analyst",
-      "organization": "Eurofins GSC IT DC",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-10-09T04:19:41.000Z",
-      "description": "Job Description As a Information Security Analyst , you will support SOC Incident Respond crew in providing security monitoring and react timely to security events as identified. The role requires solid understating of basic cybersecurity concepts and strong analytical mind. You will be involved in technical analysis and engagement with other IT teams within Eurofins. Specific Assignments: Securit",
-      "url": "https://www.adzuna.in/details/5919674466?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-09T17:37:25.000Z",
+      "description": "Maintain and continuously improve the organization's ISMS in alignment with ISO/IEC 27001 . Coordinate internal and external ISO audits , including audit preparation, evidence collection, and closure of observations. Conduct information security risk assessments and maintain the risk register and risk treatment plans. Develop, review, and maintain information security policies, procedures, standar",
+      "url": "https://www.adzuna.in/details/5920549354?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
