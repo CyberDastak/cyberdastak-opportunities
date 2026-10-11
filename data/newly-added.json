@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-10-10T03:42:34.902Z",
+  "fetchedAt": "2026-10-11T03:43:21.892Z",
   "counts": {
-    "totalJobs": 79,
+    "totalJobs": 78,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 2,
+    "newJobs": 6,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 2
+    "totalNew": 6
   },
   "jobs": [
     {
-      "id": "adzuna-5920984493",
-      "title": "Telematics Cybersecurity",
-      "organization": "Daimler Truck",
-      "location": "Chennai, Tamil Nadu",
+      "id": "adzuna-5922412102",
+      "title": "Cybersecurity Analyst",
+      "organization": "Siemens Healthineers",
+      "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-10-09T21:54:05.000Z",
-      "description": "Description Strong Experience of securing telematics systems and over-the-air (OTA) updates. Strong experience in Threat Analysis and Risk Assessment (TARA). Experience in conducting threat analysis and risk assessments specific to automotive systems. Ability to identify, evaluate, and mitigate cybersecurity risks in vehicle networks and systems. Deep understanding of Automotive Cybersecurity Stan",
-      "url": "https://www.adzuna.in/details/5920984493?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-10T21:58:47.000Z",
+      "description": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions. The Cybersecurity Analy",
+      "url": "https://www.adzuna.in/details/5922412102?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,14 +26,74 @@
       ]
     },
     {
-      "id": "adzuna-5920549354",
-      "title": "Information Security Executive",
-      "organization": "InFynd",
-      "location": "Coimbatore South, Coimbatore",
+      "id": "adzuna-5920487838",
+      "title": "SOC Analyst",
+      "organization": "Innspark Solutions",
+      "location": "Delhi, India",
       "type": "Full-time",
-      "postedDate": "2026-10-09T17:37:25.000Z",
-      "description": "Maintain and continuously improve the organization's ISMS in alignment with ISO/IEC 27001 . Coordinate internal and external ISO audits , including audit preparation, evidence collection, and closure of observations. Conduct information security risk assessments and maintain the risk register and risk treatment plans. Develop, review, and maintain information security policies, procedures, standar",
-      "url": "https://www.adzuna.in/details/5920549354?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-09T16:40:16.000Z",
+      "description": "Role: SOC Analyst Job Type: Full Time, Permanent Location: Onsite – Delhi Experience Required: 1-3 Yrs Skills Required: 1) Working knowledge across various security appliances (e.g., Firewall, WAF, Web Security Appliance, Email Security Appliance, Antivirus). 2) Experience with SOC Operations tools like SIEM, NDR, EDR, UEBA, SOAR, etc. 3) Strong analytical and problem-solving skills, with a deep u",
+      "url": "https://www.adzuna.in/details/5920487838?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5922380343",
+      "title": "SOC Analyst",
+      "organization": "Strada",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-10-10T21:45:27.000Z",
+      "description": "Join us on a journey of endless possibilities At Strada, possibility isn’t just a promise – it’s the foundation of everything we do. We believe in unlocking potential for every colleague, creating a journey of growth, discovery, and impact. With the support, resources, and opportunities we provide, you’ll build a fulfilling future – working on meaningful projects that span industries and regions, ",
+      "url": "https://www.adzuna.in/details/5922380343?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5920699121",
+      "title": "Information Security Analyst",
+      "organization": "Euromonitor",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-10-09T20:13:53.000Z",
+      "description": "We're looking for a curious and motivated software engineer who wants to build a career in cybersecurity. This is an exciting opportunity to join our Information Security team and develop hands-on experience across a broad range of security disciplines. You'll work alongside experienced security professionals while applying your software engineering skills to help protect applications, systems, da",
+      "url": "https://www.adzuna.in/details/5920699121?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5922394014",
+      "title": "Information Security Manager",
+      "organization": "Equitas Small Finance Bank",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-10-10T21:51:05.000Z",
+      "description": "The Information Security Manager is responsible for establishing, implementing, and monitoring the organization's information security framework to safeguard business systems, customer data, and technology assets. The role ensures compliance with regulatory requirements, manages security risks, drives security awareness, and strengthens the organization's overall cyber security posture.",
+      "url": "https://www.adzuna.in/details/5922394014?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
+      ]
+    },
+    {
+      "id": "adzuna-5922420010",
+      "title": "Information Security Analyst",
+      "organization": "Deutsche Bank",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-10-10T22:07:05.000Z",
+      "description": "Job Description: Job Title: Information Security Analyst Corporate Title: Associate Location: Pune, India Role Description The Information Security Analyst is responsible for supporting the execution of the Information Security strategy. The Information Security Analyst provides data and analysis to measure the effectiveness of Information Security controls across group wide products and services.",
+      "url": "https://www.adzuna.in/details/5922420010?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
