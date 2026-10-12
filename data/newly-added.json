@@ -1,99 +1,54 @@
 {
-  "fetchedAt": "2026-10-11T03:43:21.892Z",
+  "fetchedAt": "2026-10-12T11:10:57.906Z",
   "counts": {
-    "totalJobs": 78,
+    "totalJobs": 69,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 6,
+    "newJobs": 3,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 6
+    "totalNew": 3
   },
   "jobs": [
     {
-      "id": "adzuna-5922412102",
-      "title": "Cybersecurity Analyst",
-      "organization": "Siemens Healthineers",
-      "location": "India",
+      "id": "adzuna-5921981901",
+      "title": "Penetration Tester_104527",
+      "organization": "MyCareernet",
+      "location": "Hyderabad, Telangana",
       "type": "Full-time",
-      "postedDate": "2026-10-10T21:58:47.000Z",
-      "description": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions. The Cybersecurity Analy",
-      "url": "https://www.adzuna.in/details/5922412102?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-10T16:26:13.000Z",
+      "description": "Key Skills: MAP, Burpsuite, Penetration Testing, OWASP, Networking, Bash Shell, Linux Admin, Python Roles and Responsibilities: Plan and execute penetration tests across web applications, networks, APIs, and infrastructure. Use Burp Suite, Metasploit, and Nmap to discover, validate, and exploit security weaknesses. Perform vulnerability verification, determine business impact, and distinguish expl",
+      "url": "https://www.adzuna.in/details/5921981901?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "cybersecurity"
+        "penetration testing"
       ]
     },
     {
-      "id": "adzuna-5920487838",
-      "title": "SOC Analyst",
-      "organization": "Innspark Solutions",
-      "location": "Delhi, India",
+      "id": "adzuna-5900529684",
+      "title": "Penetration Testing Engineer_103913",
+      "organization": "MyCareernet",
+      "location": "Hyderabad, Telangana",
       "type": "Full-time",
-      "postedDate": "2026-10-09T16:40:16.000Z",
-      "description": "Role: SOC Analyst Job Type: Full Time, Permanent Location: Onsite – Delhi Experience Required: 1-3 Yrs Skills Required: 1) Working knowledge across various security appliances (e.g., Firewall, WAF, Web Security Appliance, Email Security Appliance, Antivirus). 2) Experience with SOC Operations tools like SIEM, NDR, EDR, UEBA, SOAR, etc. 3) Strong analytical and problem-solving skills, with a deep u",
-      "url": "https://www.adzuna.in/details/5920487838?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-09-27T16:17:24.000Z",
+      "description": "Key Skills: Penetration Testing, API Testing Roles and Responsibilities: Conduct penetration tests on applications and networks to identify vulnerabilities. Utilize tools such as Burp Suite, ZAP, and Checkmarx for security assessments. Develop and implement security testing strategies. Collaborate with development teams to remediate identified vulnerabilities. Prepare detailed reports and presenta",
+      "url": "https://www.adzuna.in/details/5900529684?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "SOC analyst"
+        "penetration testing"
       ]
     },
     {
-      "id": "adzuna-5922380343",
-      "title": "SOC Analyst",
-      "organization": "Strada",
-      "location": "India",
+      "id": "adzuna-5923228616",
+      "title": "Information Security Consultant",
+      "organization": "Emids Technologies",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-10T21:45:27.000Z",
-      "description": "Join us on a journey of endless possibilities At Strada, possibility isn’t just a promise – it’s the foundation of everything we do. We believe in unlocking potential for every colleague, creating a journey of growth, discovery, and impact. With the support, resources, and opportunities we provide, you’ll build a fulfilling future – working on meaningful projects that span industries and regions, ",
-      "url": "https://www.adzuna.in/details/5922380343?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "SOC analyst"
-      ]
-    },
-    {
-      "id": "adzuna-5920699121",
-      "title": "Information Security Analyst",
-      "organization": "Euromonitor",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-10-09T20:13:53.000Z",
-      "description": "We're looking for a curious and motivated software engineer who wants to build a career in cybersecurity. This is an exciting opportunity to join our Information Security team and develop hands-on experience across a broad range of security disciplines. You'll work alongside experienced security professionals while applying your software engineering skills to help protect applications, systems, da",
-      "url": "https://www.adzuna.in/details/5920699121?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "information security"
-      ]
-    },
-    {
-      "id": "adzuna-5922394014",
-      "title": "Information Security Manager",
-      "organization": "Equitas Small Finance Bank",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-10-10T21:51:05.000Z",
-      "description": "The Information Security Manager is responsible for establishing, implementing, and monitoring the organization's information security framework to safeguard business systems, customer data, and technology assets. The role ensures compliance with regulatory requirements, manages security risks, drives security awareness, and strengthens the organization's overall cyber security posture.",
-      "url": "https://www.adzuna.in/details/5922394014?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "information security"
-      ]
-    },
-    {
-      "id": "adzuna-5922420010",
-      "title": "Information Security Analyst",
-      "organization": "Deutsche Bank",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-10-10T22:07:05.000Z",
-      "description": "Job Description: Job Title: Information Security Analyst Corporate Title: Associate Location: Pune, India Role Description The Information Security Analyst is responsible for supporting the execution of the Information Security strategy. The Information Security Analyst provides data and analysis to measure the effectiveness of Information Security controls across group wide products and services.",
-      "url": "https://www.adzuna.in/details/5922420010?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-11T16:47:36.000Z",
+      "description": "Experience:- Overall 10 to 12 years of experience of which atleast 5 to 7 years’ experience should be in Information Security. Mandatory is 5 to 7 years’ experience in Information security and with one full end to end implementation experience. Base location: - Bengaluru - Must Requirements: - Mandatory - ISO 27001:2013 lead implementor certified Mandatory - ISO 27001:2013 lead auditor certified (",
+      "url": "https://www.adzuna.in/details/5923228616?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
