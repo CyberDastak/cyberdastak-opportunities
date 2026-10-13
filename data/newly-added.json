@@ -1,58 +1,28 @@
 {
-  "fetchedAt": "2026-10-12T11:10:57.906Z",
+  "fetchedAt": "2026-10-13T10:52:22.700Z",
   "counts": {
-    "totalJobs": 69,
+    "totalJobs": 51,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 3,
+    "newJobs": 1,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 3
+    "totalNew": 1
   },
   "jobs": [
     {
-      "id": "adzuna-5921981901",
-      "title": "Penetration Tester_104527",
-      "organization": "MyCareernet",
-      "location": "Hyderabad, Telangana",
+      "id": "adzuna-5901472803",
+      "title": "Cybersecurity Engineer",
+      "organization": "Jane Street",
+      "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-10-10T16:26:13.000Z",
-      "description": "Key Skills: MAP, Burpsuite, Penetration Testing, OWASP, Networking, Bash Shell, Linux Admin, Python Roles and Responsibilities: Plan and execute penetration tests across web applications, networks, APIs, and infrastructure. Use Burp Suite, Metasploit, and Nmap to discover, validate, and exploit security weaknesses. Perform vulnerability verification, determine business impact, and distinguish expl",
-      "url": "https://www.adzuna.in/details/5921981901?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-09-28T16:15:05.000Z",
+      "description": "About the position We're looking to add a passionate Cybersecurity Engineer to our Hong Kong office to help protect Jane Street’s employees, data, and infrastructure from the wilds of the internet. Our Cybersecurity Engineers are responsible for developing and using monitoring tools to guard the firm, as well as handling incident response and remediation when a threat is found. Our Cybersecurity t",
+      "url": "https://www.adzuna.in/details/5901472803?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5900529684",
-      "title": "Penetration Testing Engineer_103913",
-      "organization": "MyCareernet",
-      "location": "Hyderabad, Telangana",
-      "type": "Full-time",
-      "postedDate": "2026-09-27T16:17:24.000Z",
-      "description": "Key Skills: Penetration Testing, API Testing Roles and Responsibilities: Conduct penetration tests on applications and networks to identify vulnerabilities. Utilize tools such as Burp Suite, ZAP, and Checkmarx for security assessments. Develop and implement security testing strategies. Collaborate with development teams to remediate identified vulnerabilities. Prepare detailed reports and presenta",
-      "url": "https://www.adzuna.in/details/5900529684?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5923228616",
-      "title": "Information Security Consultant",
-      "organization": "Emids Technologies",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-10-11T16:47:36.000Z",
-      "description": "Experience:- Overall 10 to 12 years of experience of which atleast 5 to 7 years’ experience should be in Information Security. Mandatory is 5 to 7 years’ experience in Information security and with one full end to end implementation experience. Base location: - Bengaluru - Must Requirements: - Mandatory - ISO 27001:2013 lead implementor certified Mandatory - ISO 27001:2013 lead auditor certified (",
-      "url": "https://www.adzuna.in/details/5923228616?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "information security"
+        "cybersecurity"
       ]
     }
   ],
