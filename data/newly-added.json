@@ -1,28 +1,43 @@
 {
-  "fetchedAt": "2026-10-13T10:52:22.700Z",
+  "fetchedAt": "2026-10-14T08:54:25.618Z",
   "counts": {
-    "totalJobs": 51,
+    "totalJobs": 47,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 1,
+    "newJobs": 2,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 1
+    "totalNew": 2
   },
   "jobs": [
     {
-      "id": "adzuna-5901472803",
-      "title": "Cybersecurity Engineer",
-      "organization": "Jane Street",
-      "location": "India",
+      "id": "adzuna-5925609793",
+      "title": "Penetration Tester (AEV)",
+      "organization": "BreachLock",
+      "location": "Pune, Maharashtra",
       "type": "Full-time",
-      "postedDate": "2026-09-28T16:15:05.000Z",
-      "description": "About the position We're looking to add a passionate Cybersecurity Engineer to our Hong Kong office to help protect Jane Street’s employees, data, and infrastructure from the wilds of the internet. Our Cybersecurity Engineers are responsible for developing and using monitoring tools to guard the firm, as well as handling incident response and remediation when a threat is found. Our Cybersecurity t",
-      "url": "https://www.adzuna.in/details/5901472803?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-13T16:24:57.000Z",
+      "description": "About BreachLock BreachLock is a fast-growing cybersecurity company focused on modern, scalable, and continuous security testing solutions. We operate at the intersection of offensive security, automation, and cloud-native engineering—building systems that are both resilient and intelligent. Description Work closely with Breach360 , a security testing product, to validate and improve the quality, ",
+      "url": "https://www.adzuna.in/details/5925609793?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "cybersecurity"
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5905912250",
+      "title": "Information Security Analyst",
+      "organization": "Global Payment Holding Company",
+      "location": "Pune, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-10-01T21:25:49.000Z",
+      "description": "Ready to take your career global? Make your mark at one of the biggest names in payments. We’re looking for a Information Security Analyst to join our ever-evolving Information Security Team and help shape the future of Global Payments. Summary of This Role Evaluates, tests, recommends, develops, coordinates, monitors, and maintains information security policies, procedures and systems, including ",
+      "url": "https://www.adzuna.in/details/5905912250?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
       ]
     }
   ],
