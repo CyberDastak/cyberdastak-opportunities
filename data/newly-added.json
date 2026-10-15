@@ -1,39 +1,54 @@
 {
-  "fetchedAt": "2026-10-14T08:54:25.618Z",
+  "fetchedAt": "2026-10-15T08:29:20.922Z",
   "counts": {
-    "totalJobs": 47,
+    "totalJobs": 44,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 2,
+    "newJobs": 3,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 2
+    "totalNew": 3
   },
   "jobs": [
     {
-      "id": "adzuna-5925609793",
-      "title": "Penetration Tester (AEV)",
-      "organization": "BreachLock",
-      "location": "Pune, Maharashtra",
+      "id": "adzuna-5923809393",
+      "title": "Cybersecurity Advisor",
+      "organization": "Schneider Electric",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-13T16:24:57.000Z",
-      "description": "About BreachLock BreachLock is a fast-growing cybersecurity company focused on modern, scalable, and continuous security testing solutions. We operate at the intersection of offensive security, automation, and cloud-native engineering—building systems that are both resilient and intelligent. Description Work closely with Breach360 , a security testing product, to validate and improve the quality, ",
-      "url": "https://www.adzuna.in/details/5925609793?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-12T07:45:27.000Z",
+      "description": "Job Description : We are looking for a Cybersecurity Advisor to be part of the Digital Energy Software Cybersecurity Team. The Cybersecurity Advisor supports the development of products and systems that are resilient against cyberattack. They manage risk and advise R&D teams. What do you get to do in this position? Deploy Schneider's SDL (Secure Development Lifecycle) Act as an expert facilitator ",
+      "url": "https://www.adzuna.in/details/5923809393?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "penetration testing"
+        "cybersecurity"
       ]
     },
     {
-      "id": "adzuna-5905912250",
-      "title": "Information Security Analyst",
-      "organization": "Global Payment Holding Company",
-      "location": "Pune, Maharashtra",
+      "id": "adzuna-5927713153",
+      "title": "Associate SOC Analyst",
+      "organization": "Praful M- IMS Support",
+      "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-10-01T21:25:49.000Z",
-      "description": "Ready to take your career global? Make your mark at one of the biggest names in payments. We’re looking for a Information Security Analyst to join our ever-evolving Information Security Team and help shape the future of Global Payments. Summary of This Role Evaluates, tests, recommends, develops, coordinates, monitors, and maintains information security policies, procedures and systems, including ",
-      "url": "https://www.adzuna.in/details/5905912250?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-14T21:56:46.000Z",
+      "description": "Job Title: Associate SOC Analyst Job Location: Baner, Pune (WFO) Experience: 0-1 Years Shift: 24/7- 5 Days Rotation Shift Qualification: Bachelor's degree Job Description: Futurism Technologies is looking for a detail-oriented and proactive Associate SOC Analyst to join our Security Operations Center team. The ideal candidate should have a strong foundation in cybersecurity principles, a keen eye ",
+      "url": "https://www.adzuna.in/details/5927713153?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5910226385",
+      "title": "Specialist, Information Security",
+      "organization": "Mondelēz International",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-10-03T21:31:34.000Z",
+      "description": "Job Description Are You Ready to Make It Happen at Mondelēz International? Join our Mission to Lead the Future of Snacking. Make It Uniquely Yours. You work with the information security team as a competent and experienced information security and compliance specialist. How you will contribute You will assess information security risks in line with internal policy and external best practices, and ",
+      "url": "https://www.adzuna.in/details/5910226385?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
