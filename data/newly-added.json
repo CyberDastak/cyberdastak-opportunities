@@ -1,99 +1,24 @@
 {
-  "fetchedAt": "2026-10-17T07:56:52.041Z",
+  "fetchedAt": "2026-10-18T08:12:49.854Z",
   "counts": {
-    "totalJobs": 45,
+    "totalJobs": 40,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 9,
+    "newJobs": 3,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 9
+    "totalNew": 3
   },
   "jobs": [
     {
-      "id": "adzuna-5931624126",
-      "title": "Cybersecurity Specialist",
-      "organization": "ABB",
-      "location": "Bangalore, Karnataka",
+      "id": "adzuna-5931990812",
+      "title": "SOC Analyst",
+      "organization": "Medpace",
+      "location": "Navi Mumbai, Maharashtra",
       "type": "Full-time",
-      "postedDate": "2026-10-17T09:46:24.000Z",
-      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-      "url": "https://www.adzuna.in/land/ad/5931624126?se=EggLTwDK8RGD3NuKZ_epjg&utm_medium=api&utm_source=6848710c&v=A050C5B50A772C605CF1DA6A4D99FA46E736EF81",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5931624209",
-      "title": "Project Lead - Cybersecurity",
-      "organization": "ABB",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-10-17T09:46:27.000Z",
-      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-      "url": "https://www.adzuna.in/land/ad/5931624209?se=EggLTwDK8RGD3NuKZ_epjg&utm_medium=api&utm_source=6848710c&v=EE8B35E5C6AF09988C5A1C51E29341C7D295ED35",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5931624178",
-      "title": "Talent Pool : Sales Support Specialist/ Sales Support Manager/ Service Sales Support",
-      "organization": "ABB",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-10-17T09:46:25.000Z",
-      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries outrun - leaner and cleaner. Here, progress is an expectation - for you, your team, and the world. As a global market leader, we'll give you what you need to make it happen. It won't always be ea",
-      "url": "https://www.adzuna.in/land/ad/5931624178?se=EggLTwDK8RGD3NuKZ_epjg&utm_medium=api&utm_source=6848710c&v=39424BBEBCCD6AC8203003C9D46B9601A190F175",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5930834380",
-      "title": "Cybersecurity Specialist",
-      "organization": "ABB",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-10-16T21:30:39.000Z",
-      "description": "At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Senior Engineering Manager In this role, you will have the opportunity to execute technical assignments. Each day, you will deliver technical solutio",
-      "url": "https://www.adzuna.in/details/5930834380?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5930889909",
-      "title": "Cybersecurity Specialist",
-      "organization": "ABB",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-10-16T21:54:14.000Z",
-      "description": "At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Senior Engineering Manager Job Advert In this role, you will have the opportunity to execute technical assignments. Each day, you will deliver techni",
-      "url": "https://www.adzuna.in/details/5930889909?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5922549581",
-      "title": "Regional Manager of Security Operations",
-      "organization": "TE Connectivity",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-10-11T03:04:12.000Z",
-      "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. Job Overview As a Regional Team Lead of Incident Respo",
-      "url": "https://www.adzuna.in/land/ad/5922549581?se=6ghQTwDK8RGjutuTSb6jOA&utm_medium=api&utm_source=6848710c&v=6C9589C8A4B4789C095041F9BFADDB0B7B64549D",
+      "postedDate": "2026-10-17T16:26:18.000Z",
+      "description": "We are hiring a full-time SOC Analyst who is technical, dedicated to learning new things, security-minded, has strong initiative, and is able to manage projects autonomously. The Information Security team defends the company’s digital infrastructure by designing, implementing, and improving the company’s cybersecurity architecture. This is a critical role responsible for protecting infrastructure,",
+      "url": "https://www.adzuna.in/details/5931990812?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -101,48 +26,33 @@
       ]
     },
     {
-      "id": "adzuna-5930842404",
-      "title": "Penetration Tester",
-      "organization": "Workstreet",
-      "location": "India",
+      "id": "adzuna-5932556601",
+      "title": "Penetration Testing - Director - Cybersecurity Engineering",
+      "organization": "Morgan Stanley",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-16T21:35:45.000Z",
-      "description": "Get to know the Security Services Team We are the team that turns complex security requirements and compliance frameworks into infrastructure and services that actually work. Moving fast and taking true end-to-end ownership, our team spans three core functions: Cloud Security Engineering , where we design hardened AWS, Azure, and GCP environments, write Terraform baselines, and fix failing control",
-      "url": "https://www.adzuna.in/details/5930842404?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5931059044",
-      "title": "API Penetration Tester",
-      "organization": "First Soft Solutions",
-      "location": "Egmore Nungambakkam, Chennai",
-      "type": "Full-time",
-      "postedDate": "2026-10-16T23:53:20.000Z",
-      "description": "API Penetration Tester Location: India Work Model: Remote / Offshore Experience: 4 8 Years Engagement: Contract / Project-Based Job Summary We are looking for an experienced API Penetration Tester to support a cybersecurity project for a Canadian public-sector client.The ideal candidate should have strong hands-on experience in API and web application security testing, especially manual penetratio",
-      "url": "https://www.adzuna.in/details/5931059044?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5930662843",
-      "title": "Ethical Hacker",
-      "organization": "Training Basket",
-      "location": "Ator Nagla, Ghaziabad",
-      "type": "Full-time",
-      "postedDate": "2026-10-16T18:47:53.000Z",
-      "description": "Conduct authorized penetration testing on networks, web applications, systems, and infrastructure. Identify security vulnerabilities, threats, and potential risks. Perform Vulnerability Assessment and Penetration Testing (VAPT). Assess network security, firewalls, servers, and operating systems. Conduct web application security testing based on OWASP guidelines. Use ethical hacking tools to identi",
-      "url": "https://www.adzuna.in/details/5930662843?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-18T00:16:45.000Z",
+      "description": "We're seeking someone to join our team as a Penetration Testing and Assessment Team. Team is looking for an experienced cybersecurity professional with extensive experience of vulnerability management procedures, penetration testing/ethical hacking and risk mitigation. This position is ideal for a seasoned cyber professional who would like to broaden their skills and bridge the gap between deep te",
+      "url": "https://www.adzuna.in/details/5932556601?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
         "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5931827771",
+      "title": "Information Security Lead",
+      "organization": "Jobskey Consultancy",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "postedDate": "2026-10-17T12:55:35.000Z",
+      "description": "We're Hiring: Information Security Lead (CIT) Location: Hyderabad, India Work Mode: Full-Time Are you passionate about building secure enterprise environments and leading cybersecurity operations? Join a global technology organization and play a key role in strengthening security governance, incident response, and risk management across enterprise platforms. Position: Information Security Lead Exp",
+      "url": "https://www.adzuna.in/details/5931827771?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
       ]
     }
   ],
