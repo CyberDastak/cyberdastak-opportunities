@@ -1,5 +1,20 @@
 [
   {
+    "id": "adzuna-5934108775",
+    "title": "Cybersecurity Trainer",
+    "organization": "Maqsusi Group",
+    "location": "Hyderabad, Telangana",
+    "type": "Full-time",
+    "postedDate": "2026-10-19T16:29:02.000Z",
+    "description": "Maqsusi Group is seeking a highly skilled and passionate Cybersecurity Trainer to join our dynamic team. In this role, you will be responsible for designing, developing, and delivering comprehensive cybersecurity training programs aimed at enhancing the knowledge and skills of our employees and clients. You will play a critical role in raising awareness about the latest cybersecurity threats, best",
+    "url": "https://www.adzuna.in/details/5934108775?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "cybersecurity"
+    ]
+  },
+  {
     "id": "adzuna-5933629991",
     "title": "Cybersecurity Trainer",
     "organization": "Maqsusi Group",
@@ -552,21 +567,6 @@
     "tags": [
       "Cybersecurity",
       "penetration testing"
-    ]
-  },
-  {
-    "id": "adzuna-5911675022",
-    "title": "Vulnerability Ops Consultant_MAST",
-    "organization": "BSR & Co",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-10-04T21:34:55.000Z",
-    "description": "Description *Description for Internal Candidates Roles and Responsibilities: Web PT -Consultant Perform manual application penetration tests on one or more of the following to discover and exploit vulnerabilities: web applications, internal applications, APIs, internal and mobile applications Ability to independently research for new vulnerabilities in systems and software and modify and customize",
-    "url": "https://www.adzuna.in/details/5911675022?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "ethical hacking"
     ]
   }
 ]
