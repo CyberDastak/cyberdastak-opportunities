@@ -1,28 +1,88 @@
 {
-  "fetchedAt": "2026-10-20T08:45:38.727Z",
+  "fetchedAt": "2026-10-21T08:45:50.037Z",
   "counts": {
-    "totalJobs": 38,
+    "totalJobs": 41,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 1,
+    "newJobs": 5,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 1
+    "totalNew": 5
   },
   "jobs": [
     {
-      "id": "adzuna-5934108775",
-      "title": "Cybersecurity Trainer",
-      "organization": "Maqsusi Group",
-      "location": "Hyderabad, Telangana",
+      "id": "adzuna-5931624223",
+      "title": "Cybersecurity Specialist",
+      "organization": "ABB",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-19T16:29:02.000Z",
-      "description": "Maqsusi Group is seeking a highly skilled and passionate Cybersecurity Trainer to join our dynamic team. In this role, you will be responsible for designing, developing, and delivering comprehensive cybersecurity training programs aimed at enhancing the knowledge and skills of our employees and clients. You will play a critical role in raising awareness about the latest cybersecurity threats, best",
-      "url": "https://www.adzuna.in/details/5934108775?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-17T09:46:28.000Z",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
+      "url": "https://www.adzuna.in/land/ad/5931624223?se=brbKzivN8RGUlZcLbi9XfA&utm_medium=api&utm_source=6848710c&v=3862B36B83E2B9EE0D2C17CB17E23B71699AF468",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
         "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5935420345",
+      "title": "Sr Cybersecurity Engineer - SSPM and Cloud Security",
+      "organization": "Moody's",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-10-20T18:13:32.000Z",
+      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom t",
+      "url": "https://www.adzuna.in/land/ad/5935420345?se=brbKzivN8RGUlZcLbi9XfA&utm_medium=api&utm_source=6848710c&v=25D324D1BE9CE69ABE0BD058CA62112AD9B1FA87",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5936319075",
+      "title": "Principal Cybersecurity",
+      "organization": "UnitedHealth Group",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-10-21T11:34:59.000Z",
+      "description": "Requisition number: 2395428 Job category: Technology Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, tale",
+      "url": "https://www.adzuna.in/details/5936319075?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5936319107",
+      "title": "Principal Cybersecurity",
+      "organization": "UnitedHealth Group",
+      "location": "Tamil Nadu, India",
+      "type": "Full-time",
+      "postedDate": "2026-10-21T11:35:00.000Z",
+      "description": "Requisition number: 2395428 Job category: Technology Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, tale",
+      "url": "https://www.adzuna.in/details/5936319107?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5935329891",
+      "title": "SOC Analyst",
+      "organization": "BitGo",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-10-20T16:31:18.000Z",
+      "description": "BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing, stablecoins, and settlement services from regulated cold storage. Since 2013, BitGo has focused on accelerating the transition of the financial system to a digital asset economy. BitGo maintains a global presence and multiple regulated entities, including BitGo Bank & Trust, Nat",
+      "url": "https://www.adzuna.in/details/5935329891?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "SOC analyst"
       ]
     }
   ],
