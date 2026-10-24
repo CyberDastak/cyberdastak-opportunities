@@ -1,5 +1,21 @@
 [
   {
+    "id": "adzuna-5939392401",
+    "title": "Cybersecurity Intern",
+    "organization": "Nestack Technologies Pvt Ltd",
+    "location": "Kyasaram, Hyderabad",
+    "type": "Internship",
+    "postedDate": "2026-10-23T21:03:44.000Z",
+    "description": "Nestack Technologies | Hyderabad | 2 openings Duration and stipend This is a six-month internship with a stipend of INR 12,000 per month throughout all six months. Work location and interview This is an on-site internship at our Hyderabad office. Working from home is not available. Candidates must attend an in-person interview at our Hyderabad office. We’re looking for a cybersecurity intern to he",
+    "url": "https://www.adzuna.in/details/5939392401?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "cybersecurity",
+      "Internship"
+    ]
+  },
+  {
     "id": "adzuna-5938430175",
     "title": "Automation Engineer",
     "organization": "ABB",
@@ -642,66 +658,6 @@
     "tags": [
       "Cybersecurity",
       "SOC analyst"
-    ]
-  },
-  {
-    "id": "adzuna-5919674466",
-    "title": "Information Security Analyst",
-    "organization": "Eurofins GSC IT DC",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-10-09T04:19:41.000Z",
-    "description": "Job Description As a Information Security Analyst , you will support SOC Incident Respond crew in providing security monitoring and react timely to security events as identified. The role requires solid understating of basic cybersecurity concepts and strong analytical mind. You will be involved in technical analysis and engagement with other IT teams within Eurofins. Specific Assignments: Securit",
-    "url": "https://www.adzuna.in/details/5919674466?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "information security"
-    ]
-  },
-  {
-    "id": "adzuna-5919510361",
-    "title": "Cybersecurity Consultant",
-    "organization": "Weekday AI",
-    "location": "India",
-    "type": "Full-time",
-    "postedDate": "2026-10-08T23:22:43.000Z",
-    "description": "'   :   -   (  - ) Experience: 10 yrs Location: India Job Type: Full-time We are looking for an experienced Cybersecurity Penetration Testing & Data Centre Security Specialist to assess, strengthen, and validate the security posture of enterprise networks and critical infrastructure environments. The ideal candidate will have deep expertise in penetration testing, cybersecurity controls, network s",
-    "url": "https://www.adzuna.in/details/5919510361?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5918821273",
-    "title": "Cybersecurity Trainer",
-    "organization": "KGiSL Educational Institution",
-    "location": "Thrissur, Kerala",
-    "type": "Full-time",
-    "postedDate": "2026-10-08T16:36:10.000Z",
-    "description": "Are you passionate about Cyber Security and love sharing your knowledge? We are looking for a dynamic and industry-experienced Cyber Security Trainer to inspire and equip students with in-demand cyber security skills.  Role: Cyber Security Trainer  Mode: Offline  Type: Freelance Languages Required: ✅ English (Mandatory) ✅ Malayalam (Mandatory) What You'll Do: ✅ Deliver engaging and interactive tra",
-    "url": "https://www.adzuna.in/details/5918821273?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "ethical hacking"
-    ]
-  },
-  {
-    "id": "adzuna-5918768543",
-    "title": "Cybersecurity Analyst",
-    "organization": "Smiths Detection",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-10-08T16:19:58.000Z",
-    "description": "Job Description Job Opportunity As a Cybersecurity Analyst, you will play a critical role in protecting the organisation from cyber threats. Operating within the Security Operations function, you will monitor, analyse, and respond to security events and incidents whilst continuously improving detection and response capabilities. What you will be doing Monitor SIEM, EDR, and security tools for susp",
-    "url": "https://www.adzuna.in/details/5918768543?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
     ]
   }
 ]
