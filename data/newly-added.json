@@ -1,46 +1,15 @@
 {
-  "fetchedAt": "2026-10-25T08:36:47.944Z",
+  "fetchedAt": "2026-10-26T09:13:14.613Z",
   "counts": {
-    "totalJobs": 42,
+    "totalJobs": 36,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 2,
+    "newJobs": 0,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 2
+    "totalNew": 0
   },
-  "jobs": [
-    {
-      "id": "adzuna-5941016697",
-      "title": "Cyber Security Specialist",
-      "organization": "ABB",
-      "location": "Hyderabad, Telangana",
-      "type": "Full-time",
-      "postedDate": "2026-10-25T07:41:34.000Z",
-      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-      "url": "https://www.adzuna.in/land/ad/5941016697?se=jB9RNk_Q8RGksdQTLHKh9w&utm_medium=api&utm_source=6848710c&v=48DC2EDD1840103A0BD3588E206C5AAFEB6FB609",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5940684089",
-      "title": "Analyst II, Information Security",
-      "organization": "S&P Global",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-10-24T22:07:04.000Z",
-      "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 09 About the Role: This role helps reduce the cyber risk posed by third parties and protects S&P Global brands against possible attacks against our information assets ",
-      "url": "https://www.adzuna.in/land/ad/5940684089?se=jB9RNk_Q8RGksdQTLHKh9w&utm_medium=api&utm_source=6848710c&v=3C568CC77FBBABE50B70918E45793ECB6F5D2899",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    }
-  ],
+  "jobs": [],
   "events": [],
   "scholarships": []
 }
