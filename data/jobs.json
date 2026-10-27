@@ -1,5 +1,80 @@
 [
   {
+    "id": "adzuna-5942785243",
+    "title": "Junior Penetration Tester",
+    "organization": "Training Basket",
+    "location": "Ator Nagla, Ghaziabad",
+    "type": "Full-time",
+    "postedDate": "2026-10-27T04:59:09.000Z",
+    "description": "Conduct authorized penetration testing and vulnerability assessments on web applications, networks, and systems. Identify, analyze, and document security vulnerabilities and potential risks. Perform basic security testing using industry-standard tools. Assist in web application, network, and API security assessments. Use tools such as Burp Suite, Nmap, Wireshark, and Metasploit under approved test",
+    "url": "https://www.adzuna.in/details/5942785243?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "penetration testing"
+    ]
+  },
+  {
+    "id": "adzuna-5942674627",
+    "title": "Cybersecurity BA",
+    "organization": "Indus Infotech",
+    "location": "India",
+    "type": "Full-time",
+    "postedDate": "2026-10-27T00:02:04.000Z",
+    "description": "Cybersecurity BA (Contract/FTE) Rel. Exp (Years): 5 Years Location: Hyderabad Only The Senior Business Analyst will work within the Cybersecurity Operations and Intelligence team to drive delivery of a Target Operating Model (TOM), support the strategic direction of Cyber Operations and analyse, estimate, design, document, test, implement new system development and to assist in delivery of system ",
+    "url": "https://www.adzuna.in/details/5942674627?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "cybersecurity"
+    ]
+  },
+  {
+    "id": "adzuna-5942666083",
+    "title": "Cybersecurity Engineer - Privileged Access Management",
+    "organization": "Moody's",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "postedDate": "2026-10-26T23:48:33.000Z",
+    "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom t",
+    "url": "https://www.adzuna.in/land/ad/5942666083?se=MFE6rObR8RGSGsqTdzgTlA&utm_medium=api&utm_source=6848710c&v=4C7B0E71D707B6C3617644D062ECFCAE93A65CBF",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "cybersecurity"
+    ]
+  },
+  {
+    "id": "adzuna-5942167246",
+    "title": "Information Security Manager",
+    "organization": "Marketwick",
+    "location": "India",
+    "type": "Full-time",
+    "postedDate": "2026-10-26T17:09:55.000Z",
+    "description": "Job description: Company: Glan Management Consultancy Location: Gurgaon Experience: 7-15 year Salary: Employment Type: Job Description: Job Title: Manager Information Security – ITJob Purpose: Acting in a key technical management & execution capacity to provide a conduit between IT teams and key business stakeholders in your functional area of IT Security to ensure information technology needs are",
+    "url": "https://www.adzuna.in/details/5942167246?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "information security"
+    ]
+  },
+  {
+    "id": "adzuna-5942116504",
+    "title": "Information Security Engineer",
+    "organization": "Weekday AI",
+    "location": "India",
+    "type": "Full-time",
+    "postedDate": "2026-10-26T14:53:19.000Z",
+    "description": "This role is for one of Weekday’s clients Salary range: Rs 2000000 - Rs 4000000 (ie INR 20 - 40 LPA) Min Experience: 2 years Location: Bangalore JobType: full-time We are looking for an Information Security Engineer with 2–6 years of experience to strengthen cloud, infrastructure, and data security across the organization. The ideal candidate will have strong fundamentals in information security, ",
+    "url": "https://www.adzuna.in/details/5942116504?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "information security"
+    ]
+  },
+  {
     "id": "adzuna-5941016697",
     "title": "Cyber Security Specialist",
     "organization": "ABB",
@@ -508,36 +583,6 @@
     "tags": [
       "Cybersecurity",
       "penetration testing"
-    ]
-  },
-  {
-    "id": "adzuna-5923809393",
-    "title": "Cybersecurity Advisor",
-    "organization": "Schneider Electric",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-10-12T07:45:27.000Z",
-    "description": "Job Description : We are looking for a Cybersecurity Advisor to be part of the Digital Energy Software Cybersecurity Team. The Cybersecurity Advisor supports the development of products and systems that are resilient against cyberattack. They manage risk and advise R&D teams. What do you get to do in this position? Deploy Schneider's SDL (Secure Development Lifecycle) Act as an expert facilitator ",
-    "url": "https://www.adzuna.in/details/5923809393?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5923228616",
-    "title": "Information Security Consultant",
-    "organization": "Emids Technologies",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-10-11T16:47:36.000Z",
-    "description": "Experience:- Overall 10 to 12 years of experience of which atleast 5 to 7 years’ experience should be in Information Security. Mandatory is 5 to 7 years’ experience in Information security and with one full end to end implementation experience. Base location: - Bengaluru - Must Requirements: - Mandatory - ISO 27001:2013 lead implementor certified Mandatory - ISO 27001:2013 lead auditor certified (",
-    "url": "https://www.adzuna.in/details/5923228616?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "information security"
     ]
   }
 ]
