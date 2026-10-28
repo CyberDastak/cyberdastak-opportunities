@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-10-27T09:13:30.841Z",
+  "fetchedAt": "2026-10-28T09:54:34.007Z",
   "counts": {
-    "totalJobs": 39,
+    "totalJobs": 44,
     "totalEvents": 6,
     "totalScholarships": 7,
     "newJobs": 5,
@@ -11,14 +11,44 @@
   },
   "jobs": [
     {
-      "id": "adzuna-5942666083",
-      "title": "Cybersecurity Engineer - Privileged Access Management",
+      "id": "adzuna-5943481254",
+      "title": "Specialist , Cybersecurity Operations",
+      "organization": "MSD",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "postedDate": "2026-10-27T19:43:29.000Z",
+      "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve",
+      "url": "https://www.adzuna.in/land/ad/5943481254?se=5uKgkrXS8RGQkMbeDP_5RQ&utm_medium=api&utm_source=6848710c&v=6AE529DD422E08F3C21F0D6808152E3FCF357048",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5943481232",
+      "title": "Controls Analyst",
       "organization": "Moody's",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-10-27T19:43:27.000Z",
+      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Skills and Competencies 2-4 years of experience in AI risk management, AI governance, technology risk, model risk, IT audit, information security, GRC, or a related discipline, ideally within financial services, a Big ",
+      "url": "https://www.adzuna.in/land/ad/5943481232?se=5uKgkrXS8RGQkMbeDP_5RQ&utm_medium=api&utm_source=6848710c&v=0BA734F8ACA8D227E4A2FB8FF4B770000694CC3F",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5943481242",
+      "title": "IAM Enterprise Architect (India, Malaysia)",
+      "organization": "Standard Chartered Bank",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-26T23:48:33.000Z",
-      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom t",
-      "url": "https://www.adzuna.in/land/ad/5942666083?se=MFE6rObR8RGSGsqTdzgTlA&utm_medium=api&utm_source=6848710c&v=4C7B0E71D707B6C3617644D062ECFCAE93A65CBF",
+      "postedDate": "2026-10-27T19:43:28.000Z",
+      "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary This role could be based in India or Malaysia. When you start the application process you will be presented with a drop down menu showing all countries, please ensure that you select a count",
+      "url": "https://www.adzuna.in/land/ad/5943481242?se=5uKgkrXS8RGQkMbeDP_5RQ&utm_medium=api&utm_source=6848710c&v=BCC5ACAF1E79A629E15D85DD99D34124EF0384D6",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,14 +56,14 @@
       ]
     },
     {
-      "id": "adzuna-5942674627",
-      "title": "Cybersecurity BA",
-      "organization": "Indus Infotech",
-      "location": "India",
+      "id": "adzuna-5943812612",
+      "title": "Engineering Manager- TCMS",
+      "organization": "ABB",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-27T00:02:04.000Z",
-      "description": "Cybersecurity BA (Contract/FTE) Rel. Exp (Years): 5 Years Location: Hyderabad Only The Senior Business Analyst will work within the Cybersecurity Operations and Intelligence team to drive delivery of a Target Operating Model (TOM), support the strategic direction of Cyber Operations and analyse, estimate, design, document, test, implement new system development and to assist in delivery of system ",
-      "url": "https://www.adzuna.in/details/5942674627?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-28T05:55:57.000Z",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
+      "url": "https://www.adzuna.in/land/ad/5943812612?se=5uKgkrXS8RGQkMbeDP_5RQ&utm_medium=api&utm_source=6848710c&v=4E47DB9F940950BF9074A1594A1B8F2AB30FCB54",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -41,48 +71,18 @@
       ]
     },
     {
-      "id": "adzuna-5942785243",
-      "title": "Junior Penetration Tester",
-      "organization": "Training Basket",
-      "location": "Ator Nagla, Ghaziabad",
-      "type": "Full-time",
-      "postedDate": "2026-10-27T04:59:09.000Z",
-      "description": "Conduct authorized penetration testing and vulnerability assessments on web applications, networks, and systems. Identify, analyze, and document security vulnerabilities and potential risks. Perform basic security testing using industry-standard tools. Assist in web application, network, and API security assessments. Use tools such as Burp Suite, Nmap, Wireshark, and Metasploit under approved test",
-      "url": "https://www.adzuna.in/details/5942785243?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5942116504",
-      "title": "Information Security Engineer",
-      "organization": "Weekday AI",
+      "id": "adzuna-5941575639",
+      "title": "Level 3 SOC Analyst",
+      "organization": "Analog Devices",
       "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-10-26T14:53:19.000Z",
-      "description": "This role is for one of Weekday’s clients Salary range: Rs 2000000 - Rs 4000000 (ie INR 20 - 40 LPA) Min Experience: 2 years Location: Bangalore JobType: full-time We are looking for an Information Security Engineer with 2–6 years of experience to strengthen cloud, infrastructure, and data security across the organization. The ideal candidate will have strong fundamentals in information security, ",
-      "url": "https://www.adzuna.in/details/5942116504?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-10-25T21:30:57.000Z",
+      "description": "About Analog Devices Analog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthca",
+      "url": "https://www.adzuna.in/details/5941575639?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "information security"
-      ]
-    },
-    {
-      "id": "adzuna-5942167246",
-      "title": "Information Security Manager",
-      "organization": "Marketwick",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-10-26T17:09:55.000Z",
-      "description": "Job description: Company: Glan Management Consultancy Location: Gurgaon Experience: 7-15 year Salary: Employment Type: Job Description: Job Title: Manager Information Security – ITJob Purpose: Acting in a key technical management & execution capacity to provide a conduit between IT teams and key business stakeholders in your functional area of IT Security to ensure information technology needs are",
-      "url": "https://www.adzuna.in/details/5942167246?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "information security"
+        "SOC analyst"
       ]
     }
   ],
