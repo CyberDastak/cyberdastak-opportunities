@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-10-31T09:51:37.322Z",
+  "fetchedAt": "2026-11-01T10:41:55.569Z",
   "counts": {
-    "totalJobs": 56,
+    "totalJobs": 55,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 5,
+    "newJobs": 8,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 5
+    "totalNew": 8
   },
   "jobs": [
     {
-      "id": "adzuna-5947293337",
-      "title": "Senior Cyber Security Specialist",
+      "id": "adzuna-5948620045",
+      "title": "Cybersecurity Specialist",
       "organization": "ABB",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-31T03:47:18.000Z",
+      "postedDate": "2026-11-01T09:48:16.000Z",
       "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-      "url": "https://www.adzuna.in/land/ad/5947293337?se=mrF5pxDV8RGRQOLR_vdAhg&utm_medium=api&utm_source=6848710c&v=79AD5839A3A7510300FEF9A871F325B8BAD7BC40",
+      "url": "https://www.adzuna.in/land/ad/5948620045?se=opJa2uDV8RGRQOLR_vdAhg&utm_medium=api&utm_source=6848710c&v=800EF1C31FCCEF744112E9ECD31A28433981ECD4",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,63 +26,109 @@
       ]
     },
     {
-      "id": "adzuna-5947216722",
-      "title": "Cybersecurity Analyst",
-      "organization": "Amar AI Ranking",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-10-31T00:04:52.000Z",
-      "description": "Job Description: Ethical Hacker Fresher Company Name: MHTECHIN Technologies Job Title: Ethical Hacker / Junior Cybersecurity Analyst Job Location: Noida, Uttar Pradesh, India Experience: Fresher (0 1 year) Employment Type: Full-Time Work Mode: On-site (confirm with the employer) Salary: As per company standards and candidate skills Department: Information Security / Cybersecurity About the Role MH",
-      "url": "https://www.adzuna.in/details/5947216722?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5947074515",
-      "title": "Penetration Tester",
-      "organization": "Zensar Technologies",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-10-30T21:19:01.000Z",
-      "description": "Description Penetration Tester- VAPT Certifications Mandatory: OSCP, CREST, GXPN, GPEN Experience: 4-5yr experience Location – Pune/Bangalore (Hybrid) Job Responsiblities: * Develop and execute security testing project plans. * Manual and automated security testing of Web applications, APIs, and Mobile Applications. * Network VAPT * Static and Dynamic testing (SAST & DAST) of thick clients / appli",
-      "url": "https://www.adzuna.in/details/5947074515?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5946608868",
-      "title": "Information Security",
-      "organization": "Applied Materials",
-      "location": "Chennai, Tamil Nadu",
-      "type": "Full-time",
-      "postedDate": "2026-10-30T11:44:19.000Z",
-      "description": "Who We Are Applied Materials is the global leader in materials science and engineering solutions that are at the foundation of virtually every new semiconductor chip and advanced display in the world. The equipment that we create and service is essential to advancing AI and accelerating the commercialization of next-generation semiconductor chips. Join us and push the boundaries of materials scien",
-      "url": "https://www.adzuna.in/details/5946608868?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "information security"
-      ]
-    },
-    {
-      "id": "adzuna-5946783234",
-      "title": "Information Security Manager",
-      "organization": "Rakuten Symphony",
+      "id": "adzuna-5948620246",
+      "title": "Sr Cybersecurity Engineer - SPLUNK & CRIBL",
+      "organization": "Moody's",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-10-30T17:20:54.000Z",
-      "description": "Department: Security Governance and Management Department Job Overview We are seeking a strategic and experienced Information Security GRC (Governance, Risk & Compliance) Manager to lead and mature our enterprise-wide GRC program across information security, data privacy, and telecommunications regulatory compliance. This role owns the design, execution, and continuous improvement of the GRC funct",
-      "url": "https://www.adzuna.in/details/5946783234?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-11-01T09:48:22.000Z",
+      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom t",
+      "url": "https://www.adzuna.in/land/ad/5948620246?se=opJa2uDV8RGRQOLR_vdAhg&utm_medium=api&utm_source=6848710c&v=8A847288595156E00EF0C1A785DC72D087CBF3D8",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "information security"
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5948619878",
+      "title": "Sr Controls Analyst",
+      "organization": "Moody's",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-11-01T09:48:12.000Z",
+      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom t",
+      "url": "https://www.adzuna.in/land/ad/5948619878?se=opJa2uDV8RGRQOLR_vdAhg&utm_medium=api&utm_source=6848710c&v=F84FE1EF3DA306C08393DC72A015C88586CDB390",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5948619883",
+      "title": "Associate Project Engineer",
+      "organization": "ABB",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-11-01T09:48:12.000Z",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
+      "url": "https://www.adzuna.in/land/ad/5948619883?se=opJa2uDV8RGRQOLR_vdAhg&utm_medium=api&utm_source=6848710c&v=94C7368487495CF782B4833F7BE55C96107706EE",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5948620101",
+      "title": "Senior IT Auditor",
+      "organization": "Moody's",
+      "location": "India",
+      "type": "Full-time",
+      "postedDate": "2026-11-01T09:48:18.000Z",
+      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom t",
+      "url": "https://www.adzuna.in/land/ad/5948620101?se=opJa2uDV8RGRQOLR_vdAhg&utm_medium=api&utm_source=6848710c&v=8E3BCC7DD52BF39287C212546376269F786E62C1",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5948620138",
+      "title": "Application & Cloud Security Lead",
+      "organization": "S&P Global",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "postedDate": "2026-11-01T09:48:19.000Z",
+      "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 11 Role Summary The Application & Cloud Security Lead will serve as a key security leader within the S&P Global Energy Division BISO team, responsible for coordinating",
+      "url": "https://www.adzuna.in/land/ad/5948620138?se=opJa2uDV8RGRQOLR_vdAhg&utm_medium=api&utm_source=6848710c&v=ABC29F3888A54DD0444D08EBB68BD59CA2ECEDF9",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5948619861",
+      "title": "Category Manager- Engineering Services",
+      "organization": "ABB",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-11-01T09:48:12.000Z",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
+      "url": "https://www.adzuna.in/land/ad/5948619861?se=opJa2uDV8RGRQOLR_vdAhg&utm_medium=api&utm_source=6848710c&v=3A9D7EFBD56C02B4B44A8F0A4C079769C648BADB",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5948619849",
+      "title": "IT Lead, Internal Audit",
+      "organization": "S&P Global",
+      "location": "Hyderabad, Telangana",
+      "type": "Internship",
+      "postedDate": "2026-11-01T09:48:12.000Z",
+      "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 10 The Team: S&P Global is a leader in credit ratings, benchmarks and analytics for the global capital and commodity markets. Reporting to the Audit Director, you will",
+      "url": "https://www.adzuna.in/land/ad/5948619849?se=HBHV2uDV8RGGCOFuy44SDg&utm_medium=api&utm_source=6848710c&v=3E3E646310C1E07CAB8E9F3751A0DC344116A193",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing",
+        "Internship"
       ]
     }
   ],
