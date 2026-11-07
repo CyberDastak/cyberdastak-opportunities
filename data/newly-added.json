@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-11-06T11:16:00.772Z",
+  "fetchedAt": "2026-11-07T10:31:39.155Z",
   "counts": {
     "totalJobs": 69,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 7,
+    "newJobs": 2,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 7
+    "totalNew": 2
   },
   "jobs": [
     {
-      "id": "adzuna-5954657957",
-      "title": "Team Lead - Security Engineering",
-      "organization": "Aristocrat",
-      "location": "India",
+      "id": "adzuna-5956258939",
+      "title": "Project Lead Engineer – 800xA",
+      "organization": "ABB",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-11-06T01:13:51.000Z",
-      "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Are you ready to lead and encourage a team of top-tier security engineers? As a Security Engineer Team Lead at Aristocrat, you will play a crucial role in crafting and implementing our global security strategy. Our ",
-      "url": "https://www.adzuna.in/land/ad/5954657957?se=fpoMcdPZ8RGTTKLvN8-x8A&utm_medium=api&utm_source=6848710c&v=6157F20854FA9CDBBD50A09011EDE5BCD16E4B6C",
+      "postedDate": "2026-11-07T08:47:57.000Z",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
+      "url": "https://www.adzuna.in/land/ad/5956258939?se=qr-LaZba8RGD5Iv7NVeOtg&utm_medium=api&utm_source=6848710c&v=EB7897020A8B215A2E0ADA5F7ED46BFB1E228813",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,93 +26,18 @@
       ]
     },
     {
-      "id": "adzuna-5954657991",
-      "title": "Tech Lead - Infrastructure Engineer",
-      "organization": "Aristocrat",
-      "location": "India",
+      "id": "adzuna-5955880163",
+      "title": "Cybersecurity",
+      "organization": "Black Box",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-11-06T01:13:51.000Z",
-      "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Join Aristocrat as a System Engineer and be part of a team that delivers world-class technology solutions! Our mission is to bring happiness through innovative gaming experiences, and we invite you to help secure an",
-      "url": "https://www.adzuna.in/land/ad/5954657991?se=fpoMcdPZ8RGTTKLvN8-x8A&utm_medium=api&utm_source=6848710c&v=7E1AA7823CE54782C33517D2F16C6D045D57C223",
+      "postedDate": "2026-11-07T00:36:06.000Z",
+      "description": "Description JD Overview: This position – Security Analyst Summary - Individual will primarily be responsible to research, evaluate, design, configure, implement, maintain and monitor the Crowdstrike falcon complete platform and other security systems and product solutions and triage security incidents related to such platforms. The role will also be responsible for general security administration ",
+      "url": "https://www.adzuna.in/details/5955880163?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
         "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5954657987",
-      "title": "Tech Lead - Infrastructure Engineer",
-      "organization": "Aristocrat",
-      "location": "Noida, Ghaziabad",
-      "type": "Full-time",
-      "postedDate": "2026-11-06T01:13:51.000Z",
-      "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Join Aristocrat as a System Engineer and be part of a team that delivers world-class technology solutions! Our mission is to bring happiness through innovative gaming experiences, and we invite you to help secure an",
-      "url": "https://www.adzuna.in/land/ad/5954657987?se=fpoMcdPZ8RGTTKLvN8-x8A&utm_medium=api&utm_source=6848710c&v=CDCC9DFDD6B32D8D041420C1A18FC567156F65C1",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5954101859",
-      "title": "IT&D Senior Analyst, Core Infrastructure",
-      "organization": "Reckitt",
-      "location": "Hyderabad, Telangana",
-      "type": "Full-time",
-      "postedDate": "2026-11-05T15:43:45.000Z",
-      "description": "This job is with Reckitt, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. W",
-      "url": "https://www.adzuna.in/land/ad/5954101859?se=fpoMcdPZ8RGTTKLvN8-x8A&utm_medium=api&utm_source=6848710c&v=113A898A59587EE87253F700E2D91646635B2619",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5954465193",
-      "title": "Senior Soc Analyst",
-      "organization": "Kyara Consulting",
-      "location": "Ahmedabad, Gujarat",
-      "type": "Full-time",
-      "postedDate": "2026-11-05T21:41:45.000Z",
-      "description": "Job Description: WORKING DAYS & HOURS • 5 Days Working (Rotational Shift) • Work From Office JOB LOCATION A Security Operations Center (SOC) continuously monitors and analyzes an organization's security environment to detect, investigate, and respond to potential cyber threats. The Senior SOC Analyst is responsible for handling advanced security investigations, analyzing security alerts, improving",
-      "url": "https://www.adzuna.in/details/5954465193?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "SOC analyst"
-      ]
-    },
-    {
-      "id": "adzuna-5954643873",
-      "title": "Penetration Tester",
-      "organization": "Synstack Technologies",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-11-06T00:26:53.000Z",
-      "description": "Role Summary We are seeking an experienced Penetration Tester to establish and operate a robust, repeatable security-testing capability for our products and supporting infrastructure. The role will design the penetration-testing framework, toolset, processes, and test environments needed to conduct regular assessments across web applications, APIs, virtual machines, cloud configurations, and relat",
-      "url": "https://www.adzuna.in/details/5954643873?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
-      ]
-    },
-    {
-      "id": "adzuna-5954657990",
-      "title": "Tech Lead - Information Security DLP",
-      "organization": "Aristocrat",
-      "location": "Noida, Ghaziabad",
-      "type": "Full-time",
-      "postedDate": "2026-11-06T01:13:51.000Z",
-      "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Role Summary At Aristocrat, we pride ourselves on bringing happiness to life through the power of play. As a Tech Lead in our dynamic Information Technology department, you'll play a crucial role in crafting the fut",
-      "url": "https://www.adzuna.in/land/ad/5954657990?se=NNwictPZ8RG4vr3URdSNKw&utm_medium=api&utm_source=6848710c&v=5C21EB377C5493BD86A8759BA792F73E5662EA9F",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "information security"
       ]
     }
   ],
