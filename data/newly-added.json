@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-11-07T10:31:39.155Z",
+  "fetchedAt": "2026-11-08T10:38:29.537Z",
   "counts": {
-    "totalJobs": 69,
+    "totalJobs": 70,
     "totalEvents": 6,
     "totalScholarships": 7,
     "newJobs": 2,
@@ -11,14 +11,14 @@
   },
   "jobs": [
     {
-      "id": "adzuna-5956258939",
-      "title": "Project Lead Engineer – 800xA",
-      "organization": "ABB",
-      "location": "Bangalore, Karnataka",
+      "id": "adzuna-5956099090",
+      "title": "Cybersecurity Manager / Senior Cybersecurity Specialist",
+      "organization": "GrowBeyond Tech Pvt. Ltd.",
+      "location": "Madivala, Bangalore",
       "type": "Full-time",
-      "postedDate": "2026-11-07T08:47:57.000Z",
-      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-      "url": "https://www.adzuna.in/land/ad/5956258939?se=qr-LaZba8RGD5Iv7NVeOtg&utm_medium=api&utm_source=6848710c&v=EB7897020A8B215A2E0ADA5F7ED46BFB1E228813",
+      "postedDate": "2026-11-07T03:05:43.000Z",
+      "description": "Summary This role entails leading a comprehensive cybersecurity program that encompasses governance, risk management, identity security, cloud protection, endpoint security, enterprise application security, third-party risk, and incident response. The position is pivotal in safeguarding organizational assets by establishing robust security frameworks, managing critical risks, and ensuring resilien",
+      "url": "https://www.adzuna.in/details/5956099090?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,18 +26,18 @@
       ]
     },
     {
-      "id": "adzuna-5955880163",
-      "title": "Cybersecurity",
-      "organization": "Black Box",
-      "location": "Bangalore, Karnataka",
+      "id": "adzuna-5954465656",
+      "title": "Information Security Director",
+      "organization": "Prevalent AI",
+      "location": "Kochi, Ernakulam",
       "type": "Full-time",
-      "postedDate": "2026-11-07T00:36:06.000Z",
-      "description": "Description JD Overview: This position – Security Analyst Summary - Individual will primarily be responsible to research, evaluate, design, configure, implement, maintain and monitor the Crowdstrike falcon complete platform and other security systems and product solutions and triage security incidents related to such platforms. The role will also be responsible for general security administration ",
-      "url": "https://www.adzuna.in/details/5955880163?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-11-05T21:41:53.000Z",
+      "description": "Role purpose : Information Security at Prevalent AI protects the trust our business is built on. Our clients are global banks, insurers, telcos and critical national infrastructure operators who trust us with highly sensitive data, and they expect our own security to match the standard of the cyber security solutions we deliver to them. The function sets the strategy, standards and assurance that ",
+      "url": "https://www.adzuna.in/details/5954465656?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "cybersecurity"
+        "information security"
       ]
     }
   ],
