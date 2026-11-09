@@ -1,43 +1,28 @@
 {
-  "fetchedAt": "2026-11-08T10:38:29.537Z",
+  "fetchedAt": "2026-11-09T11:55:19.439Z",
   "counts": {
-    "totalJobs": 70,
+    "totalJobs": 69,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 2,
+    "newJobs": 1,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 2
+    "totalNew": 1
   },
   "jobs": [
     {
-      "id": "adzuna-5956099090",
-      "title": "Cybersecurity Manager / Senior Cybersecurity Specialist",
-      "organization": "GrowBeyond Tech Pvt. Ltd.",
-      "location": "Madivala, Bangalore",
+      "id": "adzuna-5957411951",
+      "title": "Cybersecurity Analyst",
+      "organization": "Training Basket",
+      "location": "Ator Nagla, Ghaziabad",
       "type": "Full-time",
-      "postedDate": "2026-11-07T03:05:43.000Z",
-      "description": "Summary This role entails leading a comprehensive cybersecurity program that encompasses governance, risk management, identity security, cloud protection, endpoint security, enterprise application security, third-party risk, and incident response. The position is pivotal in safeguarding organizational assets by establishing robust security frameworks, managing critical risks, and ensuring resilien",
-      "url": "https://www.adzuna.in/details/5956099090?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-11-08T02:12:30.000Z",
+      "description": "Monitor networks, systems, and applications to identify potential security threats. Analyze security alerts, logs, and suspicious activities to detect vulnerabilities and cyberattacks. Perform vulnerability assessments and security audits. Identify, investigate, and respond to cybersecurity incidents. Implement and maintain security policies, procedures, and controls. Conduct risk assessments and ",
+      "url": "https://www.adzuna.in/details/5957411951?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
         "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5954465656",
-      "title": "Information Security Director",
-      "organization": "Prevalent AI",
-      "location": "Kochi, Ernakulam",
-      "type": "Full-time",
-      "postedDate": "2026-11-05T21:41:53.000Z",
-      "description": "Role purpose : Information Security at Prevalent AI protects the trust our business is built on. Our clients are global banks, insurers, telcos and critical national infrastructure operators who trust us with highly sensitive data, and they expect our own security to match the standard of the cyber security solutions we deliver to them. The function sets the strategy, standards and assurance that ",
-      "url": "https://www.adzuna.in/details/5954465656?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "information security"
       ]
     }
   ],
