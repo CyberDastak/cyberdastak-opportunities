@@ -1,28 +1,43 @@
 {
-  "fetchedAt": "2026-11-09T11:55:19.439Z",
+  "fetchedAt": "2026-11-10T11:28:41.791Z",
   "counts": {
-    "totalJobs": 69,
+    "totalJobs": 70,
     "totalEvents": 6,
     "totalScholarships": 7,
-    "newJobs": 1,
+    "newJobs": 2,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 1
+    "totalNew": 2
   },
   "jobs": [
     {
-      "id": "adzuna-5957411951",
-      "title": "Cybersecurity Analyst",
-      "organization": "Training Basket",
-      "location": "Ator Nagla, Ghaziabad",
+      "id": "adzuna-5959383344",
+      "title": "Director - India Head of Architecture",
+      "organization": "Deutsche Bank",
+      "location": "Pune, Maharashtra",
       "type": "Full-time",
-      "postedDate": "2026-11-08T02:12:30.000Z",
-      "description": "Monitor networks, systems, and applications to identify potential security threats. Analyze security alerts, logs, and suspicious activities to detect vulnerabilities and cyberattacks. Perform vulnerability assessments and security audits. Identify, investigate, and respond to cybersecurity incidents. Implement and maintain security policies, procedures, and controls. Conduct risk assessments and ",
-      "url": "https://www.adzuna.in/details/5957411951?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-11-09T22:37:25.000Z",
+      "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Subdivision and Team Overview The DWS Architecture function defines, governs, and assures the target architecture across the global franchise. Within the future operating model, the India Archit",
+      "url": "https://www.adzuna.in/land/ad/5959383344?se=YFx64Pnc8RG2Eux_fic_sA&utm_medium=api&utm_source=6848710c&v=82DE41E5CA5DA43BA0DEA3DE0A42901AB45F7C34",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
         "cybersecurity"
+      ]
+    },
+    {
+      "id": "adzuna-5959383253",
+      "title": "Information Security Analyst",
+      "organization": "Deutsche Bank",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-11-09T22:37:24.000Z",
+      "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description This Role is part of the Identity and Access management & governance team within Deutsche India Pvt.Ltd. Identity and Access management services for the Global applications, Thi",
+      "url": "https://www.adzuna.in/land/ad/5959383253?se=AseF4fnc8RGk4rg0efsOgA&utm_medium=api&utm_source=6848710c&v=F4EC041FA3F18D9E3C15F63A37F610EC85B57EFE",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "information security"
       ]
     }
   ],
