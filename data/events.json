@@ -1,5 +1,19 @@
 [
   {
+    "id": "event-aHR0cHM6Ly9pbmZv",
+    "title": "What Security Teams Should Know About Data Retention and Logging in AI Assistants",
+    "organization": "Infosec Conferences",
+    "location": "Global / Virtual",
+    "date": "2026-11-16T10:53:48.000Z",
+    "description": "Suppose a company asks the security team to approve an AI assistant for everyday deployment: it might have a slick website from an AI company touting strong privacy controls, but who knows how long it keeps employees’ prompts, whether it uploads or records files, or who can access saved conversations. That information exists somewhere in ... Read m",
+    "url": "https://infosec-conferences.com/data-retention-ai-assistants/",
+    "source": "rss",
+    "tags": [
+      "Cybersecurity",
+      "Conference"
+    ]
+  },
+  {
     "id": "event-curated-aHR0cHM6Ly9u",
     "title": "nullcon Goa Cyber Security Conference & Training",
     "organization": "null Community",
