@@ -1,73 +1,28 @@
 {
-  "fetchedAt": "2026-11-17T12:14:07.973Z",
+  "fetchedAt": "2026-11-18T12:01:23.972Z",
   "counts": {
-    "totalJobs": 52,
+    "totalJobs": 50,
     "totalEvents": 7,
     "totalScholarships": 7,
-    "newJobs": 4,
+    "newJobs": 1,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 4
+    "totalNew": 1
   },
   "jobs": [
     {
-      "id": "adzuna-5968301732",
-      "title": "Cybersecurity Consultant",
-      "organization": "Training Basket",
-      "location": "Ator Nagla, Ghaziabad",
+      "id": "adzuna-5969314843",
+      "title": "Director of Cybersecurity",
+      "organization": "IncubXperts TechnoConsulting Pvt Ltd",
+      "location": "Yerwada, Pune",
       "type": "Full-time",
-      "postedDate": "2026-11-17T04:39:59.000Z",
-      "description": "Design, develop, and deploy Generative AI applications using LLMs. Build and optimize Retrieval-Augmented Generation (RAG) pipelines. Integrate LLM APIs such as OpenAI, Gemini, Claude, or open-source models. Develop and implement prompt engineering techniques to improve AI responses. Build AI-powered chatbots, virtual assistants, and intelligent automation solutions. Work with vector databases for",
-      "url": "https://www.adzuna.in/details/5968301732?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-11-18T01:02:04.000Z",
+      "description": "Role Overview The Director of Director of Cybersecurity is responsible for leading and driving the organization's broader cybersecurity program across the company . This includes establishing cybersecurity priorities, executing the security roadmap, strengthening technical security capabilities, and ensuring effective protection of the organization's infrastructure, applications, data, payment env",
+      "url": "https://www.adzuna.in/details/5969314843?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
         "cybersecurity"
-      ]
-    },
-    {
-      "id": "adzuna-5967985913",
-      "title": "SoC Analyst – L1",
-      "organization": "Jetwave Solutions",
-      "location": "Bhopal, Madhya Pradesh",
-      "type": "Full-time",
-      "postedDate": "2026-11-16T22:24:03.000Z",
-      "description": "Company: Jetwave Solutions Pvt. Ltd. Product: CyboWatch – Security Operations & Threat Monitoring Platform Location: Bhopal, Madhya Pradesh Experience: 0–1 Year Employment: Full-time About the Role We are looking for an enthusiastic SoC Analyst (Entry Level) to join the CyboWatch Security Operations team. The role involves monitoring security alerts, identifying potential threats, performing basic",
-      "url": "https://www.adzuna.in/details/5967985913?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "SOC analyst"
-      ]
-    },
-    {
-      "id": "adzuna-5968534094",
-      "title": "Cyber-security Trainer",
-      "organization": "Lisa HR Consultancy",
-      "location": "Mumbai, Maharashtra",
-      "type": "Full-time",
-      "postedDate": "2026-11-17T09:34:34.000Z",
-      "description": "Hiring: Cybersecurity Trainer Company: Technoglobe Mira Road Location: Mira Road, Mumbai Salary: â‚¹25,000 – â‚¹50,000 per month Employment Type: Full-time Whatsapp cv to 8369735129 About Technoglobe Technoglobe Mira Road is a professional IT training institute focused on developing industry-ready talent in emerging technology domains. We are looking for an experienced and passionate Cybersecurity",
-      "url": "https://www.adzuna.in/details/5968534094?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "ethical hacking"
-      ]
-    },
-    {
-      "id": "adzuna-5968068733",
-      "title": "AI Vulnerability Engineer",
-      "organization": "Nemetschek India",
-      "location": "Bangalore, Karnataka",
-      "type": "Full-time",
-      "postedDate": "2026-11-17T00:57:32.000Z",
-      "description": "Job Description AI Vulnerability Engineer in Shared Service Job Summary: The AI Vulnerability Engineer acts as part of the Nemetschek Shared Security Service Center and is responsible for the operation of AI-driven threat modelling, validation of vulnerabilities, management of AI functionality, and correlation of findings with other vulnerability assessments from DAST, Pentests and CNAPP. Key Resp",
-      "url": "https://www.adzuna.in/details/5968068733?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "ethical hacking"
       ]
     }
   ],
