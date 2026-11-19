@@ -1,28 +1,73 @@
 {
-  "fetchedAt": "2026-11-18T12:01:23.972Z",
+  "fetchedAt": "2026-11-19T11:57:28.211Z",
   "counts": {
-    "totalJobs": 50,
+    "totalJobs": 47,
     "totalEvents": 7,
     "totalScholarships": 7,
-    "newJobs": 1,
+    "newJobs": 4,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 1
+    "totalNew": 4
   },
   "jobs": [
     {
-      "id": "adzuna-5969314843",
-      "title": "Director of Cybersecurity",
-      "organization": "IncubXperts TechnoConsulting Pvt Ltd",
-      "location": "Yerwada, Pune",
+      "id": "adzuna-5970554539",
+      "title": "SOC Analyst",
+      "organization": "Siemens Healthineers",
+      "location": "India",
       "type": "Full-time",
-      "postedDate": "2026-11-18T01:02:04.000Z",
-      "description": "Role Overview The Director of Director of Cybersecurity is responsible for leading and driving the organization's broader cybersecurity program across the company . This includes establishing cybersecurity priorities, executing the security roadmap, strengthening technical security capabilities, and ensuring effective protection of the organization's infrastructure, applications, data, payment env",
-      "url": "https://www.adzuna.in/details/5969314843?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-11-18T22:27:58.000Z",
+      "description": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions. We are looking for a mo",
+      "url": "https://www.adzuna.in/details/5970554539?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
-        "cybersecurity"
+        "SOC analyst"
+      ]
+    },
+    {
+      "id": "adzuna-5969307787",
+      "title": "Penetration Testing - Deloitte",
+      "organization": "Trigent Software Private Limited",
+      "location": "Yerwada, Pune",
+      "type": "Full-time",
+      "postedDate": "2026-11-18T00:26:14.000Z",
+      "description": "Penetration Testing Consultant Web & API Key Responsibilities Perform hands-on penetration testing of web applications and APIs. Conduct manual and automated security testing to identify vulnerabilities and security weaknesses. Perform testing across: Authentication and authorization Session management Access control Input validation Business logic API security Data exposure Security configuration",
+      "url": "https://www.adzuna.in/details/5969307787?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "penetration testing"
+      ]
+    },
+    {
+      "id": "adzuna-5969225018",
+      "title": "Position Title: Cybersecurity Trainer (Freelancer)",
+      "organization": "Geekspoc IT Services",
+      "location": "Bangalore, Karnataka",
+      "type": "Full-time",
+      "postedDate": "2026-11-17T22:06:20.000Z",
+      "description": "Position Overview The Cybersecurity Trainer is an expert responsible for designing, delivering, and refining advanced training programs in cybersecurity and ethical hacking. This specialist will equip individuals and teams with the knowledge and practical skills needed to defend against evolving digital threats, respond to incidents, and maintain robust security postures across organizations Key R",
+      "url": "https://www.adzuna.in/details/5969225018?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
+      ]
+    },
+    {
+      "id": "adzuna-5969231165",
+      "title": "Cyber-security Trainer",
+      "organization": "Lisa HR Consultancy",
+      "location": "Mumbai, Maharashtra",
+      "type": "Full-time",
+      "postedDate": "2026-11-17T22:13:29.000Z",
+      "description": "Hiring: Cybersecurity Trainer Company: Technoglobe Mira Road Location: Mira Road, Mumbai Salary: ₹25,000 – ₹50,000 per month Employment Type: Full-time Whatsapp cv to 8369735129 About Technoglobe Technoglobe Mira Road is a professional IT training institute focused on developing industry-ready talent in emerging technology domains. We are looking for an experienced and passionate Cybersecurity Tra",
+      "url": "https://www.adzuna.in/details/5969231165?utm_medium=api&utm_source=6848710c",
+      "source": "adzuna",
+      "tags": [
+        "Cybersecurity",
+        "ethical hacking"
       ]
     }
   ],
