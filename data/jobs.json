@@ -1,5 +1,50 @@
 [
   {
+    "id": "adzuna-5972598252",
+    "title": "Penetration Tester",
+    "organization": "NTT America, Inc.",
+    "location": "Hyderabad, Telangana",
+    "type": "Full-time",
+    "postedDate": "2026-11-20T12:38:10.000Z",
+    "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion - it's a place where you can grow, belong and thrive. Your day at NTT DATA The Senior Penetration Tester is an advanced subject mat",
+    "url": "https://www.adzuna.in/details/5972598252?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "penetration testing"
+    ]
+  },
+  {
+    "id": "adzuna-5972314921",
+    "title": "SR SOFTWARE ENGINEER",
+    "organization": "TE Connectivity",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "postedDate": "2026-11-20T08:45:53.000Z",
+    "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job ID: [[id]] Business Unit: [[businessUnit]] Building: [[JobPostingBuilding]] Band/Level: [[customString4]]-[[customString6]]-[[custRole]] At TE, you will unleash your potential working with people from diver",
+    "url": "https://www.adzuna.in/land/ad/5972314921?se=cFYWstnk8RGzJOoV2dqqBw&utm_medium=api&utm_source=6848710c&v=CB65F6233CE4F1CA57399E5A002CB16BFC187984",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "cybersecurity"
+    ]
+  },
+  {
+    "id": "adzuna-5972271712",
+    "title": "Cybersecurity development",
+    "organization": "Bosch Group",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "postedDate": "2026-11-20T06:52:19.000Z",
+    "description": "Job Description JD for Cybersecurity Development: Development, test of HSM and AR Cryptostack Hands-on experience in embedded software development using C/C++, with basic knowledge of scripting languages such as Python for automation and analysis tasks Experience in implementing and supporting automotive security features such as Secure Boot, Secure Flashing, Secure Diagnostics, Authentication, Au",
+    "url": "https://www.adzuna.in/details/5972271712?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "cybersecurity"
+    ]
+  },
+  {
     "id": "adzuna-5970554539",
     "title": "SOC Analyst",
     "organization": "Siemens Healthineers",
@@ -8,6 +53,21 @@
     "postedDate": "2026-11-18T22:27:58.000Z",
     "description": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions. We are looking for a mo",
     "url": "https://www.adzuna.in/details/5970554539?utm_medium=api&utm_source=6848710c",
+    "source": "adzuna",
+    "tags": [
+      "Cybersecurity",
+      "SOC analyst"
+    ]
+  },
+  {
+    "id": "adzuna-5970535881",
+    "title": "Senior SOC Analyst",
+    "organization": "Smith & Nephew",
+    "location": "India",
+    "type": "Full-time",
+    "postedDate": "2026-11-18T22:15:52.000Z",
+    "description": "Role: Senior SOC Analyst Location: Pune (Maharashtra) Life Unlimited. The SOC Engineer is responsible for leading security engineering activities and supporting threat detection, investigation, and response across SmithNephew's enterprise, cloud, endpoint, and application environments. The role is instrumental in advancing the maturity and effectiveness of the Security Operations Centre (SOC) thro",
+    "url": "https://www.adzuna.in/details/5970535881?utm_medium=api&utm_source=6848710c",
     "source": "adzuna",
     "tags": [
       "Cybersecurity",
@@ -583,126 +643,6 @@
     "tags": [
       "Cybersecurity",
       "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5953492474",
-    "title": "IS SRC Senior Consultant",
-    "organization": "ABB",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-11-05T05:26:09.000Z",
-    "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-    "url": "https://www.adzuna.in/land/ad/5953492474?se=WBeynQrZ8RGFhZMNBnPzeA&utm_medium=api&utm_source=6848710c&v=CDB40D193E336D0A35C9C1917029AC7C85DF0D6F",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5953492458",
-    "title": "IS SRC Consultant",
-    "organization": "ABB",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-11-05T05:26:08.000Z",
-    "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-    "url": "https://www.adzuna.in/land/ad/5953492458?se=WBeynQrZ8RGFhZMNBnPzeA&utm_medium=api&utm_source=6848710c&v=2A48C7AE8F2398AD54452A91AD140ACE64700181",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5953492437",
-    "title": "OT SECURITY ANALYST (EL)",
-    "organization": "ABB",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-11-05T05:26:07.000Z",
-    "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-    "url": "https://www.adzuna.in/land/ad/5953492437?se=WBeynQrZ8RGFhZMNBnPzeA&utm_medium=api&utm_source=6848710c&v=1970019CABFAEA310B11FC70C7FB9FB2B2281B74",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5953492438",
-    "title": "Information Security Senior Specialist",
-    "organization": "ABB",
-    "location": "Bangalore, Karnataka",
-    "type": "Full-time",
-    "postedDate": "2026-11-05T05:26:07.000Z",
-    "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
-    "url": "https://www.adzuna.in/land/ad/5953492438?se=WBeynQrZ8RGFhZMNBnPzeA&utm_medium=api&utm_source=6848710c&v=A6FBA717289C5D8FE519CCC59C7CA7C061459386",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "adzuna-5953175725",
-    "title": "Senior Penetration Tester",
-    "organization": "Trading Technologies",
-    "location": "India",
-    "type": "Full-time",
-    "postedDate": "2026-11-04T22:03:13.000Z",
-    "description": "Trading Technologies is looking for a highly skilled and technically creative Senior Penetration Tester to join our internal Offensive Security (Offsec) team. Reporting directly to the Offensive Security Manager, you will be the technical tip of the spear in proactively identifying and exploiting vulnerabilities across our entire technology estate. In this senior technical role, you will lead comp",
-    "url": "https://www.adzuna.in/details/5953175725?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "penetration testing"
-    ]
-  },
-  {
-    "id": "adzuna-5953171580",
-    "title": "Penetration Test Infra",
-    "organization": "Zensar Technologies",
-    "location": "Pune, Maharashtra",
-    "type": "Full-time",
-    "postedDate": "2026-11-04T22:01:36.000Z",
-    "description": "Description Senior Infrastructure Penetration Tester / Infrastructure Security Consultant – Job Description Job Title: Senior Infrastructure Penetration Tester Experience: 5-10 Years (Senior) / 8-12 Years (Lead) Department: Cyber Security / Offensive Security / Red Team Role Summary We are seeking an experienced Senior Infrastructure Penetration Tester to perform security assessments, vulnerabilit",
-    "url": "https://www.adzuna.in/details/5953171580?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "penetration testing"
-    ]
-  },
-  {
-    "id": "adzuna-5953160589",
-    "title": "Soc Analyst",
-    "organization": "Jobgether",
-    "location": "India",
-    "type": "Full-time",
-    "postedDate": "2026-11-04T21:56:11.000Z",
-    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a SOC Analyst based in India. We are looking for a motivated SOC Analyst to help protect organizations worldwide by detecting, investigating, and responding to cybersecurity threats. In this remote, entry-level role, you will investigate security alerts, analyze suspiciou",
-    "url": "https://www.adzuna.in/details/5953160589?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "SOC analyst"
-    ]
-  },
-  {
-    "id": "adzuna-5952914077",
-    "title": "Senior Penetration Tester",
-    "organization": "AVEVA",
-    "location": "Hyderabad, Telangana",
-    "type": "Full-time",
-    "postedDate": "2026-11-04T18:33:26.000Z",
-    "description": "AVEVA is creating software trusted by over 90% of leading industrial companies. Position: R&D Senior Member of Technical Staff - Product Security - Penetration Testing Qualifications: Experience executing penetration tests independently Location: Preferred: Bangalore, India with hybrid ~40% office, ~60% remote. Available alternatives: Hyderabad, Mumbai, or fully remote. Employment type: Regular, f",
-    "url": "https://www.adzuna.in/details/5952914077?utm_medium=api&utm_source=6848710c",
-    "source": "adzuna",
-    "tags": [
-      "Cybersecurity",
-      "penetration testing"
     ]
   }
 ]
