@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-11-20T11:58:29.226Z",
+  "fetchedAt": "2026-11-21T11:31:43.519Z",
   "counts": {
-    "totalJobs": 43,
+    "totalJobs": 37,
     "totalEvents": 7,
     "totalScholarships": 7,
-    "newJobs": 4,
+    "newJobs": 3,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 4
+    "totalNew": 3
   },
   "jobs": [
     {
-      "id": "adzuna-5972314921",
-      "title": "SR SOFTWARE ENGINEER",
-      "organization": "TE Connectivity",
+      "id": "adzuna-5973286390",
+      "title": "Project Lead Engineer",
+      "organization": "ABB",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-11-20T08:45:53.000Z",
-      "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job ID: [[id]] Business Unit: [[businessUnit]] Building: [[JobPostingBuilding]] Band/Level: [[customString4]]-[[customString6]]-[[custRole]] At TE, you will unleash your potential working with people from diver",
-      "url": "https://www.adzuna.in/land/ad/5972314921?se=cFYWstnk8RGzJOoV2dqqBw&utm_medium=api&utm_source=6848710c&v=CB65F6233CE4F1CA57399E5A002CB16BFC187984",
+      "postedDate": "2026-11-21T04:46:21.000Z",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
+      "url": "https://www.adzuna.in/land/ad/5973286390?se=nJLxG5_l8RGuPayoyp3FzQ&utm_medium=api&utm_source=6848710c&v=A439CA982BED396E9677E70F3EB4FCE3D38A801E",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -26,14 +26,14 @@
       ]
     },
     {
-      "id": "adzuna-5972271712",
-      "title": "Cybersecurity development",
-      "organization": "Bosch Group",
+      "id": "adzuna-5973286371",
+      "title": "Associate Project Manager",
+      "organization": "ABB",
       "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-11-20T06:52:19.000Z",
-      "description": "Job Description JD for Cybersecurity Development: Development, test of HSM and AR Cryptostack Hands-on experience in embedded software development using C/C++, with basic knowledge of scripting languages such as Python for automation and analysis tasks Experience in implementing and supporting automotive security features such as Secure Boot, Secure Flashing, Secure Diagnostics, Authentication, Au",
-      "url": "https://www.adzuna.in/details/5972271712?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-11-21T04:46:18.000Z",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the worl",
+      "url": "https://www.adzuna.in/land/ad/5973286371?se=nJLxG5_l8RGuPayoyp3FzQ&utm_medium=api&utm_source=6848710c&v=92C34CB4F7F4EE4F2E4DDDA8A8F2CDEE9C8459DB",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
@@ -41,33 +41,18 @@
       ]
     },
     {
-      "id": "adzuna-5970535881",
-      "title": "Senior SOC Analyst",
-      "organization": "Smith & Nephew",
-      "location": "India",
+      "id": "adzuna-5973089294",
+      "title": "SOC Analyst II",
+      "organization": "Saviynt",
+      "location": "Bangalore, Karnataka",
       "type": "Full-time",
-      "postedDate": "2026-11-18T22:15:52.000Z",
-      "description": "Role: Senior SOC Analyst Location: Pune (Maharashtra) Life Unlimited. The SOC Engineer is responsible for leading security engineering activities and supporting threat detection, investigation, and response across SmithNephew's enterprise, cloud, endpoint, and application environments. The role is instrumental in advancing the maturity and effectiveness of the Security Operations Centre (SOC) thro",
-      "url": "https://www.adzuna.in/details/5970535881?utm_medium=api&utm_source=6848710c",
+      "postedDate": "2026-11-20T22:16:46.000Z",
+      "description": "Saviynt's AI-powered identity platform manages and governs human and non-human access to all of an organization's applications, data, and business processes. Customers trust Saviynt to safeguard their digital assets, drive operational efficiency, and reduce compliance costs. Built for the AI age, Saviynt is today helping organizations safely accelerate their deployment and usage of AI. Saviynt is ",
+      "url": "https://www.adzuna.in/details/5973089294?utm_medium=api&utm_source=6848710c",
       "source": "adzuna",
       "tags": [
         "Cybersecurity",
         "SOC analyst"
-      ]
-    },
-    {
-      "id": "adzuna-5972598252",
-      "title": "Penetration Tester",
-      "organization": "NTT America, Inc.",
-      "location": "Hyderabad, Telangana",
-      "type": "Full-time",
-      "postedDate": "2026-11-20T12:38:10.000Z",
-      "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion - it's a place where you can grow, belong and thrive. Your day at NTT DATA The Senior Penetration Tester is an advanced subject mat",
-      "url": "https://www.adzuna.in/details/5972598252?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "penetration testing"
       ]
     }
   ],
