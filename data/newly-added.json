@@ -1,46 +1,15 @@
 {
-  "fetchedAt": "2026-11-22T11:46:00.239Z",
+  "fetchedAt": "2026-11-23T13:25:14.798Z",
   "counts": {
-    "totalJobs": 36,
+    "totalJobs": 34,
     "totalEvents": 7,
     "totalScholarships": 7,
-    "newJobs": 2,
+    "newJobs": 0,
     "newEvents": 0,
     "newScholarships": 0,
-    "totalNew": 2
+    "totalNew": 0
   },
-  "jobs": [
-    {
-      "id": "adzuna-5974345235",
-      "title": "SOC Analyst",
-      "organization": "JioStar",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-11-21T22:25:38.000Z",
-      "description": "The Role We’re looking for a sharp, self-driven SOC L2 Analyst to investigate complex threats, lead incident response, and strengthen detection across JioStar’s large-scale media and streaming infrastructure. Key Responsibilities ● Investigate and lead response for escalated / high-severity security incidents end-to-end. ● Perform threat hunting, log analysis, and forensics across endpoints, netwo",
-      "url": "https://www.adzuna.in/details/5974345235?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "SOC analyst"
-      ]
-    },
-    {
-      "id": "adzuna-5974085276",
-      "title": "Information Security Consultant",
-      "organization": "Glan management Consultancy",
-      "location": "India",
-      "type": "Full-time",
-      "postedDate": "2026-11-21T18:41:33.000Z",
-      "description": "Position: Consultant – Information Security Experience : 5 years in Information Security, with hands-on technical and GRC experience Qualification : Bachelors in IT; Preferred: ISO 27001 Lead Implementer, CISSP, CEH, CCSK Location : Gurgaon Key Responsibilities: Implement and maintain ISMS and PIMS frameworks in line with ISO 27001:2022 and ISO 27701:2019. Conduct security risk assessments, vulner",
-      "url": "https://www.adzuna.in/details/5974085276?utm_medium=api&utm_source=6848710c",
-      "source": "adzuna",
-      "tags": [
-        "Cybersecurity",
-        "information security"
-      ]
-    }
-  ],
+  "jobs": [],
   "events": [],
   "scholarships": []
 }
