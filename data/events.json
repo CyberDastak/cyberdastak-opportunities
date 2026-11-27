@@ -92,21 +92,5 @@
       "Hacking",
       "Infosec"
     ]
-  },
-  {
-    "id": "event-curated-aHR0cHM6Ly93",
-    "title": "National Cyber Security Scholars Webinar Series",
-    "organization": "Data Security Council of India (DSCI)",
-    "location": "Online (India)",
-    "date": "2026-09-28",
-    "description": "Monthly interactive knowledge-sharing session on threat intelligence, SOC orchestration, and incident response strategies with leading CISO panelists.",
-    "url": "https://www.dsci.in/events",
-    "source": "curated",
-    "tags": [
-      "Webinar",
-      "SOC",
-      "DSCI",
-      "Threat Intelligence"
-    ]
   }
 ]
